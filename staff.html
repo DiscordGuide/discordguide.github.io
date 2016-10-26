@@ -1,0 +1,140 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Discord | Guides</title>
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="assets/normal.css" />
+    <link rel="stylesheet" href="assets/style.css" />
+    <link rel="icon" href="assets/discord-logo-blue-png.png" />
+</head>
+
+<body class="is-discord">
+    <nav class="nav">
+        <a href="index.html">
+            <div class="logo-container">
+                <div class="logo-class">
+                    Logo Here
+                </div>
+            </div>
+        </a>
+        <div class="centered">
+            <div class="nav-projects">
+                <a class="nav-project nav-project-discord" href="index.html">
+                     discord
+                     <br/>Guides
+                </a>
+                <a class="nav-project nav-project-discord-pservers" href="partneredservers.html">
+                     Partnered
+                    <br/>Servers
+                </a>
+            </div>
+            <div class="nav-pages">
+
+                <a href="#" class="active">Staff</a>
+                
+                <a href="https://discord.gg/zXsAHTd">Server</a>
+                
+                <a href="https://github.com/DiscordGuide">Github</a>
+            </div>
+        </div>
+    </nav>
+
+    <header class="hero hero-discord-bodyy">
+        <div class="centered">
+            <div class="hero-title">
+                <h1>Meet the Staff</h1>
+                <h2>Bunch of nerds on the internet.</h2>
+                <ul class="tab">
+  <li><a href="javascript:void(0)" class="tablinks" onclick="openCity(event, 'Core')" id="defaultOpen">Core</a></li>
+  <li><a href="javascript:void(0)" class="tablinks" onclick="openCity(event, 'Events')">Events</a></li>
+  <li><a href="javascript:void(0)" class="tablinks" onclick="openCity(event, 'Moderators')">Moderators</a></li>
+  <li><a href="javascript:void(0)" class="tablinks" onclick="openCity(event, 'Support')">Support</a></li>
+</ul>
+            </div>
+        </div>
+    </header>
+    <!-- Core Tab -->
+<div id="Core" class="tabcontent">
+    <div class="builds">
+        <div class="row center">
+            <div class="col s12 m6">
+                <div class="card theme-blue darken-1">
+                    <div class="card-content white-text">
+                        <span class="card-avatar">
+                            <img src="assets/omni.jpg" class="discord-avatar">
+                        </span>
+                        <span class="card-title">Omniscient</span>
+                    </div>
+                    <div class="card-action white center">
+                        <p class="italic">Something Something I made this.</p>
+                        <!-- Example of list for cards
+                        <ul class="card-ul">
+                            <li class="card-list">Placeholder</li>
+                            <li class="card-list">Placeholder</li>
+                        </ul> -->
+                    </div>
+                    <div class="card-action theme-developer center card-footer">
+                        <div class="role-name">Development</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- Core Tab -->
+<div id="Events" class="tabcontent">
+    <div class="builds">
+        <div class="row center">
+            <div class="col s12 m6">
+                <div class="card theme-blue darken-1">
+                    <div class="card-content white-text">
+                        <span class="card-avatar">
+                            <img src="assets/jet.jpg" class="discord-avatar">
+                        </span>
+                        <span class="card-title">Jet</span>
+                    </div>
+                    <div class="card-action white center">
+                        <p class="italic">Something Something I am the owner.</p>
+                        <!-- Example of list for cards
+                        <ul class="card-ul">
+                            <li class="card-list">Placeholder</li>
+                            <li class="card-list">Placeholder</li>
+                        </ul> -->
+                    </div>
+                    <div class="card-action theme-admin center card-footer">
+                        <div class="role-name">Admin</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <footer>
+        <p>The Footer ©Chris</p>
+    </footer>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" staff-tab-active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " staff-tab-active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+</body>
+
+</html>

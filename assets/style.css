@@ -1,0 +1,300 @@
+::-webkit-scrollbar{width: 9px;}
+
+::-webkit-scrollbar-thumb{background-color:rgb(116, 139, 215); border-radius: 0;}
+::-webkit-scrollbar-thumb:hover{background-color:rgb(103, 127, 207);}
+
+::-webkit-scrollbar-track{background-color:rgb(237, 237, 237);}
+.docs-nav::-webkit-scrollbar {
+    width: 0px;
+}
+.nav-project.nav-project-discord.active {
+    padding: 15px 0px 15px 0px;
+}
+.nav-project.nav-project-discord {
+    line-height: 15px;
+}
+.nav-project {
+    padding: 15px 20px 15px 27px;
+    text-align: center;
+    transition: .1s all linear;
+}
+.nav-project-discord.active, .nav-project-discord-pservers.active {
+    background: #748bd7 !important;
+    color: #fff;
+}
+.nav-project:hover {
+    background-color: rgba(116,139,215,0.2);
+}
+.hero, .docs-section-title {
+    background: url(../assets/bg.svg);
+	background-size: 180px;
+}
+.docs-section-title {
+    border: 1px solid rgb(116, 139, 215);
+}
+.logo-container {
+    float: left;
+}
+.logo-class {
+    padding: 15px 0px 15px 0px;
+    text-align: center;
+    display: block;
+    line-height: 30px;
+    float: left;
+    position: relative;
+    text-decoration: none;
+    color: #fff;
+    width: 155px;
+    font-size: 14px;
+    text-transform: uppercase;
+    text-shadow: 0 1px 1px rgba(34,34,34,0.3);
+}
+.hero-discord {
+    background: url(../assets/custom-logo.png);
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    right: 4px;
+    bottom: 4px;
+    border-radius: 50%;
+    background-size: cover;
+    background-position: 25% 0;
+}
+.container .row {
+    margin-left: -0.75rem;
+    margin-right: -0.75rem;
+}
+.row {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+.center, .center-align {
+    text-align: center;
+}
+.row .col.s12 {
+    width: 100%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+}
+.row .col {
+    float: left;
+    box-sizing: border-box;
+    padding: 0 0.75rem;
+    min-height: 1px;
+}
+.card {
+    position: relative;
+    margin: 0.5rem 0 1rem 0;
+    background-color: #fff;
+    transition: box-shadow .25s;
+    border-radius: 2px;
+}
+.card {
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+}
+.card .card-content {
+    text-align: center;
+    padding: 20px;
+    border-radius: 0 0 2px 2px;
+}
+.white-text {
+    color: #fff !important;
+}
+.card .card-action {
+    position: relative;
+    background-color: inherit;
+    border-top: 1px solid rgba(160,160,160,0.2);
+    padding: 20px;
+}
+.card .card-action {
+    position: relative;
+    background-color: inherit;
+    border-top: 1px solid rgba(160,160,160,0.2);
+    padding: 20px;
+}
+.waves-effect {
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    vertical-align: middle;
+    z-index: 1;
+    will-change: opacity, transform;
+    transition: all .3s ease-out;
+}
+.theme-blue {
+    background-color: #748bd7;
+}
+@media only screen and (min-width: 601px) {
+.row .col.m6 {
+    width: 50%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+}
+}
+.white {
+    background-color: #fff !important;
+}
+.card-action>ul>li {
+    list-style-type: none;
+}
+.card-list {
+    font-size: 21px;
+    line-height: 35px;
+}
+.card-ul {
+    padding: 0;
+    list-style-type: none;
+    margin-top: 1em;
+    margin-bottom: 0;
+}
+.btn, .btn-large {
+    text-decoration: none;
+    color: #fff;
+    background-color: #657ac1;
+    text-align: center;
+    letter-spacing: .5px;
+    transition: .2s ease-out;
+    cursor: pointer;
+}
+.btn:hover, .btn-large:hover {
+    background-color: #566aad;
+}
+.btn, .btn-large, .btn-flat {
+    border: none;
+    border-radius: 2px;
+    display: inline-block;
+    height: 36px;
+    line-height: 36px;
+    outline: 0;
+    padding: 0 2rem;
+    text-transform: uppercase;
+    vertical-align: middle;
+    -webkit-tap-highlight-color: transparent;
+}
+.italic {
+    font-style: italic;
+}
+.builds {
+    max-width: 950px;
+}
+ul.tab {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background: #647dd0;
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 3px;
+    margin-top: 15px;
+    margin-bottom: -10px;
+}
+
+/* Float the list items side by side */
+ul.tab li {display: inline;}
+
+/* Style the links inside the list items */
+ul.tab li a {
+    display: inline-block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change background color of links on hover */
+ul.tab li a:hover, .staff-tab-active {
+    border-bottom: 2px solid;
+}
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+    -webkit-animation: fadeEffect 1s;
+    animation: fadeEffect .3s;
+}
+@-webkit-keyframes fadeEffect {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+@keyframes fadeEffect {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+   
+.tablinks {
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    outline: none !important;
+}
+.index-tab {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background: #647dd0;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 3px;
+    float: right;
+    margin-top: -53px;
+    margin-right: -120px;
+}
+.index-tab li {
+    display: inline;
+}
+.index-tab li a {
+    display: inline-block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-bottom: 2px solid transparent;
+}
+
+/* Change background color of links on hover */
+.index-tab li a:hover, .staff-tab-active {
+    border-bottom: 2px solid #fff !important;
+}
+.index-title-tab {
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 2px rgba(34,34,34,0.5);
+}
+.discord-avatar {
+    border-radius: 500px;
+    border: 2px solid #fff;
+    height: 10%;
+    width: 10%;
+    margin-bottom: -12px;
+}
+.role-name {
+    color: #fff;
+    text-transform: uppercase;
+}
+.card-footer {
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+.theme-developer {
+    background-color: #232323 !important;
+}
+.theme-admin {
+    background-color: rgb(177, 203, 204) !important;
+}
+.discord-content {
+    -webkit-animation: fadeEffect 1s;
+    animation: fadeEffect .3s;
+}
