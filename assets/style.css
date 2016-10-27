@@ -217,7 +217,6 @@ ul.tab li a:hover, .staff-tab-active {
 }
 .tabcontent {
     display: none;
-    padding: 6px 12px;
     border: 1px solid #ccc;
     border-top: none;
     -webkit-animation: fadeEffect 1s;
@@ -294,7 +293,129 @@ ul.tab li a:hover, .staff-tab-active {
 .theme-admin {
     background-color: rgb(177, 203, 204) !important;
 }
+.theme-owner {
+    background-color: #e81c4f !important;
+}
 .discord-content {
     -webkit-animation: fadeEffect 1s;
     animation: fadeEffect .3s;
+}
+.about-container {
+    padding: 40px 20px;
+    overflow: hidden;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+
+.row {
+    max-width: 68.75em;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.row:before, .row:after {
+    content: " ";
+    display: table;
+}
+@media only screen and (min-width: 48em) {
+.row .large-12 {
+    position: relative;
+    width: 100%;
+}
+}
+.column.small-centered, .columns.small-centered {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+}
+.row .column, .row .columns {
+    position: relative;
+    padding-left: .9375em;
+    padding-right: .9375em;
+    float: left;
+}
+section.headline {
+    margin: 1.625em 0 3.375em 0;
+    text-align: center;
+}
+section {
+    position: relative;
+    z-index: 2;
+}
+section.headline h2 {
+    color: #58595b;
+    margin-bottom: .9375em;
+}
+.row:after {
+    clear: both;
+}
+.row .row:before, .row .row:after {
+    content: " ";
+    display: table;
+}
+@media only screen and (min-width: 48em) {
+.row .large-3 {
+    position: relative;
+    width: 25%;
+}
+}
+section.about .team .avatar {
+    width: 220px;
+    height: 220px;
+    margin: 0 auto;
+    margin-top: 10px;
+    text-align: center;
+}
+@media only screen and (min-width: 48em) {
+.row .large-9 {
+    position: relative;
+    width: 75%;
+}
+}
+section.about .team .name {
+    font-size: 1.25em;
+    line-height: 30px;
+}
+section.about .team .title {
+    font-size: 1em;
+}
+section.about .team .bio {
+    font-size: 1em;
+    line-height: 30px;
+    margin: 15px 0 0 0;
+}
+.rounded-ava {
+    border-radius: 500px;
+}
+.about-container {
+    color: #58595b;
+    font-family: "museo-sans-rounded",sans-serif;
+}
+[class*="column"] + [class*="column"]:last-child {
+    float: right;
+}
+@media only screen and (min-width: 48em) {
+.pull-3 {
+    position: relative;
+    right: 25%;
+    left: auto;
+}
+}
+.text-right {
+    text-align: right !important;
+}
+@media only screen and (min-width: 48em) {
+.push-9 {
+    position: relative;
+    left: 75%;
+    right: auto;
+}
+}
+section.about .team > .row {
+    text-align: left;
+    margin: 0 0 80px 0;
 }
