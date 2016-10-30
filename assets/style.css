@@ -302,6 +302,27 @@ ul.tab li a:hover, .staff-tab-active {
 .theme-owner {
     background-color: #e81c4f !important;
 }
+.theme-core {
+    background-color: #748bd7 !important;
+}
+.theme-ambassador {
+    background-color: #D413AE !important;
+}
+.theme-supervisor {
+    background-color: #AD1616 !important;
+}
+.theme-trainer {
+    background-color: #9115A8 !important;
+}
+.theme-social-beast {
+    background-color: #246ECC !important;
+}
+.theme-event-coordinator {
+    background-color: #18A812 !important;
+}
+.theme-server-geek {
+    background-color: #907197 !important;
+}
 .discord-content {
     -webkit-animation: fadeEffect 1s;
     animation: fadeEffect .3s;
