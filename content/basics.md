@@ -17,7 +17,7 @@ Upon joining discord, if you didn't follow a server link you'll be staring at a 
 
 Upon joining your friend server you can friend people and when you right click people on PC it'll allow you to 'DM' them, this is Direct Message or as it called on other chat rooms 'Private Messaging' or 'Whispers' this allows you to talk to people with no one else reading.
 
-![](https://i.imgur.com/rLKglH0.jpg)
+ <img src="https://i.imgur.com/rLKglH0.jpg" width="600" height="430">
 
 ### **Friend Requests** #
 
@@ -71,7 +71,7 @@ So first of all, to get into your user settings your need to click the gear by y
 
 Once you've done that a window should pop up, the first tab on it is called "Account" this is your basic account settings. Your profile picture, username, email, and password.
 
-![](https://cdn.discordapp.com/attachments/232878406302171138/232897781256159232/unknown.png =800x574)
+![](http://i.imgur.com/nkH2qD7.png)
 You use this to setup your personal details.
 
 ### **Connections** #
@@ -79,31 +79,31 @@ You use this to setup your personal details.
 Connections are your connections between your account and media. These include Twitch, YouTube, Battle.net, Skype, League of Legends, and Steam.
 These allow friends to easier find you on/from those!
 
-![](https://cdn.discordapp.com/attachments/232878406302171138/232898268227436544/unknown.png =800x574)
+![](http://i.imgur.com/7sy9DeX.png)
 
 ### **Friends** #
 
 This section allows you to choose who can friend you, and how easily it is for them to friend you. This also could allow you to make it to where no one can friend you!
 
-![](https://cdn.discordapp.com/attachments/232878406302171138/232898440210677760/unknown.png =800x574)
+![](http://i.imgur.com/Ty6CN1F.png)
 
 ### **Text & Images** #
 
 These settings allow you to customize what text and images do for your discord; like whether links show sites or images, whether emojis automatically get made from typing faces, and text to speech (TTS) playback.
 
-![](https://cdn.discordapp.com/attachments/232878406302171138/232898759925694466/unknown.png =800x574)
+![](http://i.imgur.com/LKDlUrn.png)
 
 ### **Voice** #
 
 These are your basic and advanced voice settings. You can decide input and output levels and whether you want push to talk or voice activity (automatic) and input sensitivity.
 
-![](https://cdn.discordapp.com/attachments/232878406302171138/232899080634761217/unknown.png =800x574)
+![](http://i.imgur.com/o0mkGZ5.png)
 
 ### **Notifications** #
 
 Notifications? Well duh! these are the beeps, pings, noises, and flashes your discord does for things! This also allows you to decide if Text-To-Speech works or not.
 
-![](https://cdn.discordapp.com/attachments/232878406302171138/232899183789604864/unknown.png =800x574)
+![](http://i.imgur.com/i6KzHrC.png)
 I consider this one of the most important areas of the User Settings.
 
 
@@ -111,46 +111,46 @@ I consider this one of the most important areas of the User Settings.
 
 Keybinds are different key commands you can use to do different things on discord, such as enable streamer mode or mute yourself. These are super useful if you don't want to manually do everything.
 
-![](https://cdn.discordapp.com/attachments/232878406302171138/232899490636365826/unknown.png =800x574)
+![](http://i.imgur.com/Dc20QSa.png)
 
 ### **Appearance** #
 
 This is my **favorite** user setting. This allows you to change how Discord looks, and allows you to use Discord Developer mode (which allows you to copy user and message IDs which in bot development is huge)
 
-![](https://cdn.discordapp.com/attachments/232878406302171138/232906019804545024/unknown.png =800x574)
+![](http://i.imgur.com/gVUCg4u.png)
 
 ### **Games** #
 
 The magical Games area. This allows you to view games you've played or that are on your computer and even rename some. Something a lot of people like to do is rename their games to something funny, or something that has a meaning for them. (I do this to explain what i'm doing or working on usually)
 
-![](https://cdn.discordapp.com/attachments/232878406302171138/232906182468173826/unknown.png =800x574)
+![](http://i.imgur.com/GcWKeg6.png)
 
 ### **Overlay** #
 
 The overlay is what happens when you play a game, do you want discord to be able to show during the game? How do you want it to show? What notifications? and size.
 Useful for gamers who still like to chat and check their servers.
 
-![](https://cdn.discordapp.com/attachments/232878406302171138/232906288441327627/unknown.png =800x574)
+![](http://i.imgur.com/N08DAnY.png)
 
 ### **Locale** #
 
 Locale is one of the more important areas for lagging and voice chat settings. Your locale tells what language you are in and area, your location here will respond better with similar/same locations. 
 In server this is huge, based on where the server is located will change your connection to the server. Most international servers do US-EAST as the main Location because it is easier on everyone overall.
 
-![](https://cdn.discordapp.com/attachments/232878406302171138/232906491294777344/unknown.png =800x574)
+![](http://i.imgur.com/CzNSSiD.png)
 
 ### **Streamer Mode** #
 
 Streamer mode is useful for those of us who like to stream to different media platforms. A lot of twitch streamers use discord so this is a big thing. When you stream it shows your icon as purple and shows what you are streaming or where you are streaming instead of your game.
 This allows you to turn on the mode which tells discord to look for you streaming.
 
-![](https://cdn.discordapp.com/attachments/232878406302171138/232906633007595520/unknown.png =800x574)
+![](http://i.imgur.com/vjoesfe.png)
 
 ### **Security** #
 
 Security, the big thing on discord. To avoid hackers you can enable 2FA (Two Factor Authentication) which can help prevent people from breaking into your account.
 
-![](https://cdn.discordapp.com/attachments/232878406302171138/232906715488714752/unknown.png =800x574)
+![](http://i.imgur.com/RDkLVhl.png)
 
 ### **Changelog** #
 
