@@ -277,7 +277,7 @@ ul.tab li a:hover, .staff-tab-active {
     border: 2px solid #fff;
     height: 10%;
     width: 10%;
-    margin-bottom: -12px;
+    margin-bottom: -8px;
 }
 .role-name {
     color: #fff;
@@ -288,10 +288,16 @@ ul.tab li a:hover, .staff-tab-active {
     border-bottom-right-radius: 3px;
 }
 .theme-developer {
-    background-color: #232323 !important;
+    background-color: #666B6B !important;
 }
 .theme-admin {
-    background-color: rgb(177, 203, 204) !important;
+    background-color: #B1CBCC !important;
+}
+.theme-moderator {
+    background-color: #DB3819 !important;
+}
+.theme-support {
+    background-color: #D534F3 !important;
 }
 .theme-owner {
     background-color: #e81c4f !important;
@@ -418,4 +424,19 @@ section.about .team .bio {
 section.about .team > .row {
     text-align: left;
     margin: 0 0 80px 0;
+}
+.card-staff {
+    max-height: 22px;
+    min-height: 220px;
+}
+.staff-builds {
+    max-width: 1100px;
+}
+.staff-builds {
+    padding: 40px 20px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.sc {
+    width: 33% !important;
 }
