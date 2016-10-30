@@ -461,3 +461,94 @@ section.about .team > .row {
 .sc {
     width: 33% !important;
 }
+.track {
+	width: 300px;
+	margin: 0 auto;
+	border-top: 4px dotted #888;
+	position: relative;
+}
+
+.track .kurt {
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	margin-left: -30px;
+	margin-top: -32px;
+	animation: movekurt 7s linear infinite;
+}
+
+.track .kurt .cover {
+	position: absolute;
+	width: 270px;
+	height: 100%;
+	top: 0;
+	left: -270px;
+	background-color: white;
+	z-index: 2;
+}
+
+.track .kurt::before, .track .kurt::after {
+	content: "";
+	border: 30px solid #647dd0;
+	display: block;
+	border-radius: 50%;
+	position: absolute;
+	border-right-color: transparent;
+}
+
+.track .kurt::before {
+	animation: topcrunch 7s ease-out infinite;
+}
+
+.track .kurt::after {
+	animation: bottomcrunch 7s ease-out infinite;
+}
+
+@keyframes topcrunch {
+	0%, 10%, 20%, 30%, 50%, 60%, 70%, 80%, 100% {
+		transform: rotate(0deg);
+	}
+
+	5%, 15%, 25%, 55%, 65%, 75% {
+		transform: rotate(50deg);
+	}
+}
+
+@keyframes bottomcrunch {
+	0%, 10%, 20%, 30%, 50%, 60%, 70%, 80%, 100% {
+		transform: rotate(0deg);
+	}
+
+	5%, 15%, 25%, 55%, 65%, 75% {
+		transform: rotate(-50deg);
+	}
+}
+
+@keyframes movekurt {
+	0%, 95%, 100% {
+		left: 0%;
+		transform: rotateY(0deg);
+	}
+
+	30%, 35% {
+		left: 100%;
+		transform: rotateY(0deg);
+	}
+
+	45%, 50% {
+		left: 100%;
+		transform: rotateY(180deg);
+	}
+
+	80%, 85% {
+		left: 0%;
+		transform: rotateY(180deg);
+	}
+}
+.loading-content {
+    padding: 100px;
+    margin: initial;
+    margin-left: 35%;
+}
