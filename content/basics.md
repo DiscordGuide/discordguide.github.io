@@ -17,7 +17,7 @@ Upon joining discord, if you didn't follow a server link you'll be staring at a 
 
 Upon joining your friend server you can friend people and when you right click people on PC it'll allow you to 'DM' them, this is Direct Message or as it called on other chat rooms 'Private Messaging' or 'Whispers' this allows you to talk to people with no one else reading.
 
-<img src="https://i.imgur.com/rLKglH0.jpg" height="575" width="800">
+<img src="https://i.imgur.com/rLKglH0.jpg" height="430" width="600">
 
 ### **Friend Requests** #
 
