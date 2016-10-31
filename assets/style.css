@@ -462,92 +462,6 @@ section.about .team > .row {
 .sc {
     width: 33% !important;
 }
-.track {
-	width: 300px;
-	margin: 0 auto;
-	border-top: 4px dotted #888;
-	position: relative;
-}
-
-.track .kurt {
-	width: 60px;
-	height: 60px;
-	position: absolute;
-	left: 0;
-	top: 0;
-	margin-left: -30px;
-	margin-top: -32px;
-	animation: movekurt 7s linear infinite;
-}
-
-.track .kurt .cover {
-	position: absolute;
-	width: 270px;
-	height: 100%;
-	top: 0;
-	left: -270px;
-	background-color: white;
-	z-index: 2;
-}
-
-.track .kurt::before, .track .kurt::after {
-	content: "";
-	border: 30px solid #647dd0;
-	display: block;
-	border-radius: 50%;
-	position: absolute;
-	border-right-color: transparent;
-}
-
-.track .kurt::before {
-	animation: topcrunch 7s ease-out infinite;
-}
-
-.track .kurt::after {
-	animation: bottomcrunch 7s ease-out infinite;
-}
-
-@keyframes topcrunch {
-	0%, 10%, 20%, 30%, 50%, 60%, 70%, 80%, 100% {
-		transform: rotate(0deg);
-	}
-
-	5%, 15%, 25%, 55%, 65%, 75% {
-		transform: rotate(50deg);
-	}
-}
-
-@keyframes bottomcrunch {
-	0%, 10%, 20%, 30%, 50%, 60%, 70%, 80%, 100% {
-		transform: rotate(0deg);
-	}
-
-	5%, 15%, 25%, 55%, 65%, 75% {
-		transform: rotate(-50deg);
-	}
-}
-
-@keyframes movekurt {
-	0%, 95%, 100% {
-		left: 0%;
-		transform: rotateY(0deg);
-	}
-
-	30%, 35% {
-		left: 100%;
-		transform: rotateY(0deg);
-	}
-
-	45%, 50% {
-		left: 100%;
-		transform: rotateY(180deg);
-	}
-
-	80%, 85% {
-		left: 0%;
-		transform: rotateY(180deg);
-	}
-}
 .loading-content {
     padding: 100px;
     margin: initial;
@@ -577,4 +491,575 @@ section.about .team > .row {
     footer {
     font-size: 40px;
 }
+}
+
+
+
+
+
+
+
+div#js-docs-content {
+    margin-right: 0;
+    padding-right: 0;
+    padding-left: 0;
+}
+.loading-content {
+	width: 800px;
+	height: 600px;
+	background: #fff;
+	border-radius: 3px;
+	border: 20px white solid;
+	position: relative;
+    margin: 0 auto;
+}
+
+.bb8 {
+	width: 220px;
+	height: 220px;
+	position: absolute;
+	top: 222px;
+	left: 180px;
+}
+
+.bb8-body {
+	width: 220px;
+	height: 220px;
+	background: #f3f3f3;
+	position: absolute;
+	border-radius: 50%;
+	border: solid 8px #244356;
+	overflow: hidden;
+	animation: spin 1.5s linear infinite;
+}
+
+.circle {
+	width: 120px;
+	height: 120px;
+	border: 8px solid #244356;
+	background-color: #FDC23E;
+	border-radius: 50%;
+	position: absolute;
+}
+
+.circle:after {
+	content: '';
+	display: block;
+	border: 8px solid #244356;
+	background: #EBF2FA;
+	border-radius: 50%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	height: 35%;
+	width: 35%;
+}
+
+.circle-1 {
+	top: 10px;
+	left: -30px;
+}
+
+.circle-2 {
+	top: 123px;
+	left: 80px;
+}
+
+.circle-3 {
+	height: 300px;
+	width: 300px;
+	left: 120px;
+	top: -180px;
+}
+
+.dot {
+	height: 18px;
+	width: 18px;
+	border-radius: 50%;
+	background: #244356;
+	position: absolute;
+}
+
+.dot-1 {
+	top: 79px;
+	left: 113px;
+}
+
+.dot-2 {
+	top: 145px;
+	left: 40px;
+}
+
+.line {
+	position: absolute;
+	height: 8px;
+	width: 100px;
+	background: #244356;
+}
+
+.line-1 {
+	transform: rotate(40deg);
+	top: 40px;
+	left: -70px;
+}
+
+.line-2 {
+	transform: rotate(160deg);
+	top: -45px;
+	left: -60px;
+}
+
+.line-3 {
+	transform: rotate(-60deg);
+	top: 25px;
+	left: 10px;
+}
+
+.body-shadow-crop {
+	width: 220px;
+	height: 220px;
+	position: absolute;
+	border-radius: 50%;
+	border: solid 8px #244356;
+	overflow: hidden;
+	-webkit-transform: translate3d(0, 0, 0);
+}
+
+.body-shadow {
+	width: 220px;
+	height: 220px;
+	border-radius: 50%;
+	position: absolute;
+	box-shadow: 0px 0px 60px rgba(0, 0, 0, 0.4);
+	left: -50px;
+	top: -20px;
+}
+
+.bb8-head {
+	width: 160px;
+	height: 160px;
+	position: absolute;
+	top: -60px;
+	left: -30px;
+	transform: rotate(-30deg);
+}
+
+.head-top {
+	width: 160px;
+	height: 160px;
+	background: #f3f3f3;
+	border: solid 8px #244356;
+	position: absolute;
+	border-radius: 50%;
+	box-shadow: -10px 0px 0px 5px rgba(0, 0, 0, 0.2) inset;
+}
+
+.lens {
+	width: 56px;
+	height: 56px;
+	border-radius: 50%;
+	border: solid 8px #244356;
+	background: #295A6D;
+	position: absolute;
+	top: 20px;
+	left: 50%;
+	margin-left: -28px;
+	overflow: hidden;
+}
+
+.lens:before, .lens:after {
+	content: '';
+	display: block;
+	width: 6px;
+	height: 70px;
+	background: #2A6B80;
+	position: absolute;
+	left: 10px;
+	top: -20px;
+	transform: rotate(40deg);
+}
+
+.lens:after {
+	width: 10px;
+	left: 25px;
+	top: -10px;
+}
+
+.freckle {
+	height: 13px;
+	width: 13px;
+	border-radius: 50%;
+	background: #244356;
+	top: 60px;
+	left: 120px;
+	position: absolute;
+}
+
+.head-top-crop {
+	height: 50%;
+	overflow: hidden;
+	position: relative;
+}
+
+.head-bottom {
+	position: absolute;
+	width: 100%;
+	top: 80px;
+}
+
+.head-bottom-base,
+.head-side-1,
+.head-side-2 {
+	border-bottom: 8px solid #244356;
+	background: #cecece;
+	height: 20px;
+	position: absolute;
+}
+
+.head-bottom-base {
+	width: 78%;
+	left: 11%;
+}
+
+.head-side-1 {
+	width: 30px;
+	transform: rotate(40deg);
+	transform-origin: bottom left;
+	top: -16px;
+	left: -3px;
+	border-radius: 0px 0px 8px 8px;
+}
+
+.head-side-2 {
+	width: 30px;
+	transform: rotate(-40deg);
+	transform-origin: bottom right;
+	top: -16px;
+	right: -3px;
+	border-radius: 0px 0px 8px 8px;
+}
+
+.speedlines > div {
+	height: 8px;
+	width: 55px;
+	background: #244356;
+	border-radius: 8px;
+	position: absolute;
+	left: 120px;
+}
+
+.speedlines > div.tail:after {
+	content: '';
+	display: block;
+	height: 8px;
+	width: 20px;
+	border-radius: 8px;
+	background: #244356;
+	position: absolute;
+	left: 100%;
+	margin-left: 5px;
+}
+
+.speedlines > div.one {
+	top: -60px;
+	left: 53px;
+}
+
+.speedlines > div.two {
+	top: -21px;
+	left: 113px;
+}
+
+.speedlines > div.three {
+	top: -10px;
+	left: 103px;
+	width: 30px;
+}
+
+.speedlines > div.four {
+	top: 121px;
+	left: 203px;
+	width: 30px;
+}
+
+.speedlines > div.five {
+	top: 141px;
+	left: 218px;
+	width: 50px;
+}
+
+.sparkles > div {
+	width: 30px;
+	height: 30px;
+	position: absolute;
+}
+
+.sparkles > div:before, .sparkles > div:after {
+	content: '';
+	display: block;
+	width: 40%;
+	height: 100%;
+	border-radius: 20px;
+	background: #FF7761;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.sparkles > div:after {
+	transform: translate(-50%, -50%) rotate(90deg);
+}
+
+.sparkles > div.blue:before, .sparkles > div.blue:after {
+	background: #449BAA;
+}
+
+.sparkles > div.orange:before, .sparkles > div.orange:after {
+	background: #FDC23E;
+}
+
+.sparkles > div.med {
+	transform: scale(0.6);
+}
+
+.sparkles > div.small {
+	transform: scale(0.4);
+}
+
+.sparkles > div.one {
+	top: -53px;
+	left: 140px;
+}
+
+.sparkles > div.two {
+	top: -46px;
+	left: 210px;
+}
+
+.sparkles > div.three {
+	top: -6px;
+	left: 186px;
+}
+
+.sparkles > div.four {
+	top: -16px;
+	left: 280px;
+}
+
+.sparkles > div.five {
+	top: 44px;
+	left: 230px;
+}
+
+.sparkles > div.six {
+	top: 94px;
+	left: 240px;
+}
+
+.sparkles > div.seven {
+	top: 154px;
+	left: 216px;
+}
+
+.sparkles > div.eight {
+	top: 187px;
+	left: 185px;
+}
+
+.sparkles > div.nine {
+	top: 63px;
+	left: 325px;
+}
+
+.sparkles > div.ten {
+	top: 124px;
+	left: 315px;
+}
+
+.sparkles > div.eleven {
+	top: 161px;
+	left: 294px;
+}
+
+.sparkles > div.twelve {
+	top: 27px;
+	left: 366px;
+}
+
+.sparkles > div.thirteen {
+	top: 37px;
+	left: 415px;
+}
+
+.sparkles > div.fourteen {
+	top: 87px;
+	left: 385px;
+}
+
+.sparkles > div.fifteen {
+	top: 137px;
+	left: 378px;
+}
+
+.sparkles > div.sixteen {
+	top: 97px;
+	left: 455px;
+}
+
+.sparkles > div.pulse {
+	animation: pulse 1s linear infinite;
+}
+
+.sparkles > div.pulse-1 {
+	animation: pulse 1s 300ms linear infinite;
+}
+
+.sparkles > div.pulse-2 {
+	animation: pulse 1s 600ms linear infinite;
+}
+
+.sparkles > div.pulse-3 {
+	animation: pulse 1s 900ms linear infinite;
+}
+
+.ground > div {
+	height: 8px;
+	width: 80px;
+	background: #244356;
+	position: absolute;
+	top: 212px;
+	left: -90px;
+	border-radius: 8px;
+}
+
+.ground > div.one .bump {
+	left: 40px;
+}
+
+.ground > div.two {
+	width: 25px;
+	left: -1px;
+}
+
+.ground > div.three {
+	width: 300px;
+	left: 34px;
+}
+
+.ground > div.four {
+	width: 90px;
+	left: 346px;
+}
+
+.ground > div.four .bump {
+	left: 10px;
+}
+
+.ground > div.five {
+	width: 20px;
+	left: 450px;
+}
+
+.ground > div.six {
+	width: 80px;
+	left: 11px;
+	top: 255px;
+}
+
+.ground > div.six .bump {
+	left: 10px;
+}
+
+.ground > div.seven {
+	width: 127px;
+	left: 171px;
+	top: 255px;
+}
+
+.ground > div.seven .bump {
+	left: 60px;
+}
+
+.ground > div.eight {
+	width: 87px;
+	left: 71px;
+	top: 295px;
+}
+
+.ground > div.eight .bump {
+	left: 30px;
+}
+
+.ground > div .bump {
+	height: 15px;
+	width: 30px;
+	position: absolute;
+	top: -7px;
+	overflow: hidden;
+	animation: move 0.5s linear infinite;
+}
+
+.ground > div .bump.move-1 {
+	animation: move 0.5s 350ms linear infinite;
+}
+
+.ground > div .bump.move-2 {
+	animation: move 0.5s 700ms linear infinite;
+}
+
+.ground > div .bump:after {
+	content: '';
+	display: block;
+	height: 30px;
+	width: 30px;
+	border: 8px solid #244356;
+	border-radius: 50%;
+	background: #F5FAFC;
+	box-sizing: border-box;
+}
+
+@keyframes spin {
+	0% {
+		transform: rotate(360deg);
+	}
+
+	100% {
+		transform: rotate(0deg);
+	}
+}
+
+@keyframes pulse {
+	0% {
+		transform: scale(1);
+	}
+
+	90% {
+		transform: scale(0.3);
+	}
+
+	100% {
+		transform: scale(1);
+	}
+}
+
+@keyframes move {
+	0% {
+		left: 5%;
+		transform: scale(0);
+	}
+
+	10% {
+		transform: scale(1);
+	}
+
+	90% {
+		transform: scale(1);
+	}
+
+	100% {
+		left: 55%;
+		transform: scale(0);
+	}
 }
