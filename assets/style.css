@@ -323,6 +323,9 @@ ul.tab li a:hover, .staff-tab-active {
 .theme-server-geek {
     background-color: #907197 !important;
 }
+.theme-event-staff {
+    background-color: #00CC00 !important;
+}
 .discord-content {
     -webkit-animation: fadeEffect 1s;
     animation: fadeEffect .3s;
