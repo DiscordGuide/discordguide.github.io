@@ -1,9 +1,9 @@
-# Basic Desktop Guides #
+# Basic Desktop Introduction #
 **Hello!** This is the first section, the Introduction to Discord.
 
 I will cover some stuff in the tutorial as well as some other basic information that isn't included. Writing a guide to discord was a big task, but the goal is to make discord easier to use for everyone!
 
-### **Intro** #
+
 So what is Discord? Discord is a site/program that is basically a network of rooms that connect together like building blocks or legos. You can stack them in different orders, pick which ones you choose to add to your list and remove ones you don’t want anymore. Each server (chat room) is like a specific lego creation: the permissions are different blocks and it all ties together to create this amazing chat site.
 I think of Discord like a house with all it’s various rooms, and your designing how you want it to be laid out!
 
