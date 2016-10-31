@@ -336,8 +336,6 @@ ul.tab li a:hover, .staff-tab-active {
     margin: 0 auto;
     max-width: 1200px;
 }
-
-
 .row {
     max-width: 68.75em;
     width: 100%;
@@ -554,4 +552,29 @@ section.about .team > .row {
     padding: 100px;
     margin: initial;
     margin-left: 35%;
+}
+@media screen and (max-width: 800px) {
+    h2 {
+    font-size: 75px;
+}
+    .subheader {
+    font-size: 40px;
+}
+    .sc {
+    width: 75% !important;
+    margin-left: 12% !important;
+}
+    .card .card-action {
+    font-size: 38px;
+}
+    .card-staff {
+    max-height: 500px;
+    min-height: 500px;
+}
+    .card-title {
+    font-size: 45px;
+}
+    footer {
+    font-size: 40px;
+}
 }
