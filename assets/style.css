@@ -467,7 +467,10 @@ section.about .team > .row {
     margin: initial;
     margin-left: 35%;
 }
-@media screen and (max-width: 800px) {
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px)
+and (orientation : portrait) {
     h2 {
     font-size: 75px;
 }
