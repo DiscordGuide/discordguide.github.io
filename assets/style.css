@@ -492,17 +492,8 @@ section.about .team > .row {
     font-size: 40px;
 }
 }
-
-
-
-
-
-
-
-div#js-docs-content {
-    margin-right: 0;
-    padding-right: 0;
-    padding-left: 0;
+img {
+    width: 100%;
 }
 .loading-content {
 	width: 800px;
