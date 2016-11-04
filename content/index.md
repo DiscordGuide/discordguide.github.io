@@ -12,7 +12,7 @@ If you're new to Discord, please join the server and read the guides. We are mor
 
 So please feel free to take a look through the guides you'll see above or visit our [ server](https://discord.gg/h67TkHf).
 
-### Our guides are as follows...
+##### Our guides are as follows...
 
 * Basics
 
@@ -36,5 +36,5 @@ Our Resource guides involve the various tricks to Discord, tools for Bot Develop
 
 If you have any other questions, or feel you can contribute to our efforts... please join the support server, mentioned above and shown in our task bar, and feel free to talk to the staff.
 
-##### Have a beautiful time on Discord. 
-![](http://i.imgur.com/7i5sG4c.png)
+###### Have a beautiful time on Discord. 
+![](http://i.imgur.com/LGVlCsq.png)
