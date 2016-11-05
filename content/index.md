@@ -13,6 +13,7 @@ If you're new to Discord, please join the server and read the guides. We are mor
 So please feel free to take a look through the guides you'll see above or visit our [ server](https://discord.gg/h67TkHf).
 
 ##### Our guides are as follows...
+**Please keep in mind we are still updating the guides, and Mobile guides arent currently up yet!**
 
 * Basics
 
