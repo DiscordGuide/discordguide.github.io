@@ -32,7 +32,7 @@ Perks: Being friends with someone gives you some special perks
 * You can message them even if you don't share servers!
 * You can get some cool abilities to do stuff with them.. Like Group Direct Messaging!
 
-![]()
+![](http://i.imgur.com/DV5Oskg.png)
 
 #### **Group Direct Messaging** #
 
@@ -40,7 +40,7 @@ So you are in servers, but what if you want to **just** message 2 or 3 people an
 
 This allows more private conversations with friends.
 
-![]()
+![](http://i.imgur.com/8wCdQoJ.png)
 
 #### **Profiles** #
 
@@ -52,7 +52,7 @@ Features of the profile include:
 * Mutual Friends (seeing friends you share with the other person)
 * Issue Response (Blocking, Reporting, and Removing them as friends)
 
-![]()
+![](http://i.imgur.com/jIpvAqH.png)
 
 **This was a basic overview of all the discord features outside of servers.**
 
@@ -77,7 +77,7 @@ So first of all, to get into your user settings your need to click the gear by y
 
 Once you've done that a window should pop up, the first tab on it is called "Account" this is your basic account settings. Your profile picture, username, email, and password.
 
-![]()
+![](http://i.imgur.com/lbiyxrT.png)
 You use this to setup your personal details.
 
 #### **Connections** #
@@ -85,31 +85,31 @@ You use this to setup your personal details.
 Connections are your connections between your account and media. These include Twitch, YouTube, Battle.net, Skype, League of Legends, and Steam.
 These allow friends to easier find you on/from those!
 
-![]()
+![](http://i.imgur.com/dIywWkf.png)
 
 #### **Friends** #
 
 This section allows you to choose who can friend you, and how easily it is for them to friend you. This also could allow you to make it to where no one can friend you!
 
-![]()
+![](http://i.imgur.com/y6kLDLb.png)
 
 #### **Text & Images** #
 
 These settings allow you to customize what text and images do for your discord; like whether links show sites or images, whether emojis automatically get made from typing faces, and text to speech (TTS) playback.
 
-![]()
+![](http://i.imgur.com/f87LSLV.png)
 
 #### **Voice** #
 
 These are your basic and advanced voice settings. You can decide input and output levels and other voice options like input sensitivity.
 
-![]()
+![](http://i.imgur.com/6AcDp16.png)
 
 #### **Notifications** #
 
 Notifications? Well duh! these are the beeps, pings, noises, and flashes your discord does for things! This also allows you to decide if Text-To-Speech plays or not.
 
-![]()
+![](http://i.imgur.com/6htQ5WR.png)
 I consider this one of the most important areas of the User Settings.
 
 
@@ -119,26 +119,26 @@ Keybinds are different key commands you can use to do different things on discor
 
 These are super useful if you don't want to manually do everything.
 
-![]()
+![](http://i.imgur.com/Ojcc26d.png)
 
 #### **Appearance** #
 
 This is my **favorite** user setting. This allows you to change how Discord looks, and allows you to use Discord Developer mode (which allows you to copy user and message IDs, which in bot development is huge)
 
-![]()
+![](http://i.imgur.com/CcQI0jI.png)
 
 #### **Games** #
 
 The magical Games area. This allows you to view games you've played or that are on your computer and even rename some. Something a lot of people like to do is rename their games to something funny, or something that has a meaning for them. (I do this to explain what i'm doing or working on usually)
 
-![]()
+![](http://i.imgur.com/sCvpJha.png)
 
 #### **Overlay** #
 
 The overlay is what happens when you play a game, do you want discord to be able to show during the game? How do you want it to show? What notifications? and size.
 Useful for gamers who still like to chat and check their servers.
 
-![]()
+![](http://i.imgur.com/9RN2j2l.png)
 
 #### **Locale** #
 
@@ -147,21 +147,21 @@ Your locale tells what language you are in and area, your location here will res
 
 In server this is huge, based on where the server is located will change your connection to the server. Most international servers do US-EAST as the main Location because it makes the server closer to more people.
 
-![]()
+![](http://i.imgur.com/B6fxHNd.png)
 
 #### **Streamer Mode** #
 
 Streamer mode is useful for those of us who like to stream to different media platforms. A lot of twitch streamers use discord so this is a big thing. When you stream it shows your icon as purple and shows what you are streaming or where you are streaming instead of your game.
 This allows you to turn on the mode which tells discord to look for you streaming.
 
-![]()
+![](http://i.imgur.com/WsXMUBm.png)
 
 #### **Security** #
 
 Security, the big thing on discord. 
 To avoid hackers you can enable 2FA (Two Factor Authentication) which can help prevent people from breaking into your account. 
 
-![]()
+![](http://i.imgur.com/JsWlYQ3.png)
 
 #### **Changelog** #
 
