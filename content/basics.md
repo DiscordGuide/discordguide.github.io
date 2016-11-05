@@ -97,13 +97,13 @@ This section allows you to choose who can friend you, and how easily it is for t
 
 These settings allow you to customize what text and images do for your discord; like whether links show sites or images, whether emojis automatically get made from typing faces, and text to speech (TTS) playback.
 
-![](http://i.imgur.com/f87LSLV.png)
+![](http://i.imgur.com/cdLCmLo.png)
 
 #### **Voice** #
 
 These are your basic and advanced voice settings. You can decide input and output levels and other voice options like input sensitivity.
 
-![](http://i.imgur.com/6AcDp16.png)
+![](http://i.imgur.com/WUlQ2dU.png)
 
 #### **Notifications** #
 
