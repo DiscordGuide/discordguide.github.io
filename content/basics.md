@@ -73,7 +73,7 @@ If you have questions or need more details, ask in the server!
 
 So first of all, to get into your user settings your need to click the gear by your name at the bottom left of your screen.
 
-![]()
+![](https://cdn.discordapp.com/attachments/232878406302171138/232897610636066816/unknown.png)
 
 Once you've done that a window should pop up, the first tab on it is called "Account" this is your basic account settings. Your profile picture, username, email, and password.
 
@@ -167,118 +167,6 @@ To avoid hackers you can enable 2FA (Two Factor Authentication) which can help p
 
 This is the orange words at the bottom of the tab list which has the recent update information!
 
----
-
 **Hope this guide helped, and please keep reading if you need to learn anything else!**
 
 **Check out the desktop guides for more on servers or Bots for bot stuff!**
-
----
-
-
-## Mobile Introduction
-
-**Hello!!** Most likely, you're here because you need assistance on how to use the Mobile version of the all holy Discord, created by Hammer and Chisel. 
-So, before we begin, all the screenshots are from iOS Discord v. 1.7.4 on iOS 10.1 Developer Beta 1, iPhone 6.
-
-Upon launching the app and logging in, this is the screen you're greeted with.
- 
- ![](image)
-
-This is the **Friends** tab. From within this tab, there are five sections. 
-
-***All*** shows you a list of all of your friends, online or offline. 
-
-***Online*** shows all of your friends, online or away, or Do Not Disturb even. 
-
-***Pending*** shows all the outgoing and incoming friend requests sent or received by you.
-
-***Suggestions*** shows a list of people who, in your Friends/Contacts of Steam, Skype, and Battle.net, who have a Discord linked to their account that are not your friend yet. Remember, you need to link it too.
-
-***Blocked*** will give you a list of people you've blocked.
-  Now, slide from left to right. Or click the three dashes up top, if that's your thing.
-
-
-You should be welcomed by a very humble screen that looks like this. 
-
-![]()
-
-On top, you can find a conversation, or start one. Pretty self-explanatory there. 
-So, do you already have servers? Click them if you do.
-
-This is what it should look like.
-  
-![]()
-
-Now, you can slide up and down to navigate through the different text and voice channels. Text on top, voice on bottom.
-
-The interface looks like this when in a text chat.
-
-![]()
-
-Swipe from right to left, or click the little two people in the upper right corner, shall bring you...... THE MEMBER LIST! ONLINE AND OFFLINE!
-
-
-_(**Warning:** offline will not be shown if server has 100 or more members)_
-  
-![]()
-
-And, that's about it! Keep scrolling to see how the user settings work! 
-
-
-Mastered the mobile settings already? 
-Look at the mobile guides for server creation info and differences between the mobile and PC versions of Discord!
-
-## Mobile User Settings!!
-
-So. you want to try to customize your settings. Makes sense. 
-
-
-Upon clicking into the User Settings page, this is what you will be presented with
- 
- ![]()
- 
-This is what the **Account** tab has to offer. 
-_Remember, all sensitive information has been edited out._
-
-Here, you can change your username and profile icon.
-
- ![]()
-
-This is what the **Voice** tab has to offer. The settings have been tweaked, these are not the default settings.
-
-Here, you can edit how sensitive your mic is, maybe auto sensitivity? Change the way you're voice is being inputted, and some advanced voice shenanigans in the bottom.
-
- ![]()
-
-This is what **Appearance** has to offer. Doesn't look like much but it's something. 
-In here, you can change the way Discord looks.
-  
- ![]()
-
-This is what **Language** has to offer. You can come in and change Discord's language!
-
- ![]()
-
-**Text & Images** settings are right here. You can tweak how certain text, images, and links are viewed.
-
- ![]()
-
-Oh, the **Changelog** looks kinda like this! Pretty self-explanatory. The Discord Mobile changelog!
-
- ![]()
-
-And upon clicking the **Support** won't take you here, silly! We wish. We really do.... But it does bring this up! You can send an email to Discord Support. 
-_Remember, sensitive information has been removed._
-
- ![]()
-
-And simply just clicking **Sign Out**, signs you out. Duh.
-
-
-And that's essentially it! 
-Head over to the mobile guide to check out how to create, and manage a server using mobile!
-Oh you want to read something on desktop? Take a look at the desktop guides!
-
-
-If you need help or have suggestions just drop by the support server.
