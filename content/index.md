@@ -1,6 +1,6 @@
 # Welcome
 
-#### Heya, welcome to _Discord Guide_!
+### Heya, welcome to _Discord Guide_!
 
 Hey there! I want to welcome you, whether you come from Discord or other places unknown!
 We are beyond happy that you chose to visit us today, and we hope we can help you!
@@ -12,7 +12,7 @@ If you're new to Discord, please join the server and read the guides. We are mor
 
 So please feel free to take a look through the guides you'll see above or visit our [ server](https://discord.gg/h67TkHf).
 
-##### Our guides are as follows...
+### Our guides are as follows...
 **Please keep in mind we are still updating the guides, and Mobile guides arent currently up yet!**
 
 * Basics
