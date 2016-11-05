@@ -501,6 +501,10 @@ and (orientation : portrait) {
 img {
     width: 100%;
 }
+.staff-content {
+    max-height: 314px;
+    min-height: 314px;
+}
 .loading-content {
 	width: 800px;
 	height: 600px;
