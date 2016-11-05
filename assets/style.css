@@ -499,7 +499,9 @@ and (orientation : portrait) {
 }
 }
 img {
-    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    display: block;
 }
 .staff-content {
     max-height: 314px;
