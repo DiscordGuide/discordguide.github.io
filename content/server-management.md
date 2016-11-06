@@ -8,8 +8,6 @@ Here are all our tips and tricks to getting your server **just right.**
 
 By now you should have some members joining, and gotten a good grasp of what you are doing. These will help you for later down the road, or even things you may just decide to add.
 
----
-
 **Server Settings**
 
 So these are a bit more basic and I could probably add them earlier, but by now you know your way around enough to do these things.
@@ -25,8 +23,6 @@ Look at your "Overview" tab on "Server Settings"
 
 **"Location"** the location of your server changes how the Voice Channels work, and how good reception your members have. Most world-wide servers use US-East as a default area, if your server is more specific then you can set it for your area. 
 
----
-
   **Limbo Rooms and Limbo Servers**
 
 You are probably like, "What."
@@ -38,12 +34,10 @@ Limbo Rooms and Limbo Servers are rooms or servers that require a Staff approvin
 A limbo room is pretty easy to make, remember how you set those staff rooms and special perks rooms? We are doing the opposite here. 
 Every channel in the server requires a base room to see, and not having those limits you to seeing the welcome room and a channel where you can request to join the rest of the server; some servers even have bots you can use to give yourself the role to get out. 
 This is a good use for 42 who has the `+giveme` command.
-![]()
+![](http://i.imgur.com/wzvK0B8.png)
   Limbo rooms, and Limbo servers allow you to keep things private and keep a better grasp on who has what permissions and who can join. Unless YOU or a Staff approves it... they can't do anything at all.
-![]()
+![](http://i.imgur.com/KXk2G1f.png)
   This is a great tool for making private servers you don't want anyone joining, if they are stuck on a dead end channel they'll either get kicked or leave.
-
----
 
 **Inactivity Penalties**
 
@@ -52,23 +46,20 @@ This is one of the fun features in discord, the Inactivity penalties.
 On your "Server Settings" you should see a tab named "Members" at the bottom is an area called 'Prune', this allows you to remove members who haven't said anything for certain amounts of time.
 
 **WARNING:** This does not work on users with roles, so it's not smart to assign every member a role if you want to prune inactive people.
-![]()
+![](blob:http://imgur.com/c0fe7826-1d7b-4ae2-927a-3277c936f4b2)
   This allows you to remove members who don't contribute anything to the server.
 
----
 
 **Bans List**
 
 The bans list tab on "Server Settings" is pretty self explanatory. You can ban/unban people using this, and the member list tab allows you to kick, ban, or even give your Ownership of the server over to any other member.
 
----
 
 **Instant Invites**
 
 This tab on "Server Settings" allows you to cancel any invite link made, or see how many members each one has been used to get for the server. 
 This is great for tracking statistics, and seeing who has done a lot of recruiting.
 
----
 
 **Voice Chat Magic**
 Your voice chat causes glitching? or maybe it's fine but you want it better?
@@ -77,7 +68,6 @@ Well on the Voice Chat you can decide maximum member limits, and decide the MBPS
 
 Member limits allow you to restrict how many people are talking, or are listening to the music bot, etc.
 
----
 
 This has been the first server management guide!
 
@@ -95,7 +85,6 @@ A lot of servers try to base things only on a unique concept and don’t establi
 
 This is what I want to try to help you guys fix, or prepare for.
 
----
 
 **Idea and Concept**
 I may sound like a broken record, but don’t run away!
@@ -105,27 +94,24 @@ The whole point of your server is key, you need to have an appealing idea with a
 If you are just like “OH I WANT A FANDOM SERVER!!!!!!!” and don’t put the effort into seeing if there are other servers and exploiting something they don’t have, then don’t be sad if your server doesn’t grow. 
 It isn’t as easy as just making the server ?? 
 
----
 
 **Organization**
 
 Sorry but… a sloppily organized server first of all just doesnt look nice, next of all it’s just plain hard to function.
 
-If you can’t put the time into cleaning it up and organizing it, your members could get confused about things or get lost. I’ve seen someone get lost in a server, I mean… it had 94 channels BUT STILL.
+If you can’t put the time into cleaning it up and organizing it, your members could get confused about things or get lost. I’ve seen someone get lost in a server, I mean… it had 94 channels *BUT STILL.*
 
 Organized server? Here’s an example in my mind
-![]()
+![](https://cdn.discordapp.com/attachments/232881527002759168/233363353387401216/unknown.png)
 
----
 
-  **Communication**
+**Communication**
 
 So the next few are kinda about staff and member relations.
 
 Communication is big, letting your members know about updates and making sure your staff know what is going on in the server. 
 I myself like to know what’s going on, and if I am in a server without communication… I rarely will stay.
 
----
 
 **Understanding**
 
@@ -134,7 +120,6 @@ Understanding? This means a lot. Not just understanding what your doing with you
 You need to be able to be open to feedback from your members, and improve as new ideas are made. It’s the main thing discord functions around. Discord get’s it’s concepts from the suggestions area of the site. 
 Sure the staff come up with stuff, most of them use or used discord as server members, **BUT** we say what we want to see and they try to meet that. Server owners can learn a lot from that.
 
----
 
 **Trust**
 
@@ -147,7 +132,6 @@ Posting pictures? Links? Making instant invites? These are all permissions you T
 
 Catch my drift?
 
----
 
 If you want more stuff on expanding your server just keep scrolling, if not then go about your day!
 
@@ -160,7 +144,6 @@ Remember, help is offered on the server, suggestions are always loved too.
 
 So we went over the basics, and all that jazz… let’s talk growth.
 
----
 
 **Ideals**
 Well, guess we’re back to this! Not really, this is slightly different.
@@ -168,7 +151,6 @@ Well, guess we’re back to this! Not really, this is slightly different.
 “Ideals? What are those…?” 
 Well… where do you want your server to go? What are your dreams for this server? 44,000 members? Or maybe just 40? Getting an image of where you want to go is core for your growth.
 
----
 
 **Content and Ability**
 
@@ -178,7 +160,6 @@ How is your **Ability** as a Owner? How well is your server setup? How much do y
 
 Having these two working together will give people a reason to join, while your Ideals decides what your going for.
 
----
 
 **Advertisement**
 There are SO MANY WAYS to advertise.
@@ -190,15 +171,15 @@ _`*`_ Bot to Site lists
 _`*`_ Server lists
    Server’s that allow you to post, or ask them to post your server in categories or on one large list.
 
-**I will show you a show examples below: Please remember there are WAY MORE THAN THIS**
-  _`*`_ Discord Server List (discordservers.com) **BOT**
-![]()
-  _`*`_ ServerHound (discordlist.net) **BOT**
-![]()
+**I will show you a few examples below: Please remember there are WAY MORE THAN THIS**
+  _`*`_ Discord Server List (https://www.discordservers.com) **BOT**
+![](http://i.imgur.com/jC9SXYC.png)
+  _`*`_ ServerHound (https://www.discordlist.net) **BOT**
+![](http://i.imgur.com/B2kp4ZH.png)
   _`*`_ The Portal (https://discord.gg/6HtGJ98) **server**
-![]()
+![](http://i.imgur.com/Ep2lEqk.png)
   _`*`_ Discord Server List (https://discord.gg/ptg4XSK) **server**
-![]()
+![](http://i.imgur.com/gaAShB1.png)
 
 **Members**
 The last piece is members.
@@ -211,7 +192,6 @@ This also means you have to be careful with rules and making sure you have good 
 Kick - removed from server, can rejoin
 Ban - removed from server, can’t rejoin
 
----
 
 Alright, hope this guide helped!
 

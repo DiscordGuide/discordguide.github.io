@@ -2,21 +2,18 @@
 
 **We'll be covering some uses of bots, and how to start the basics of them as well.**
 
----
+
 ## Discord Bots
----
+
+**WARNING** We are still editing this guide, due to some recently updates and new changes to running bots. We will update this as soon as possible.
 
 Hey it’s me, we’re here to talk to you about Bots!
 
-
 Yeah Bots, those funny programs you see doing all sorts of things all around Discord! Ever wondered what others are out there and how to make them? That’s pretty much what these Bot guides are for!
-
----
 
 #### Types and Uses of Bots
 
 **We have to start somewhere… and that somewhere is with the basics!**
-
 
 “What are the types of bots?” You might ask, well I gave a rough idea in the server guides but here we’ll go a bit more in depth.
 
@@ -32,29 +29,35 @@ This breed of bot serves the purpose of posting messages, such as cleverbot or a
  • Data Bots:
 Data Bots… these bots record and send, or receive and record information. A bot like these could track people streaming on twitch, updates to a github repo or give you stats on your server on a central site… as well as listing your server as mentioned in the server guides!
 
-
-
 #### Creativity with Bots
 
+How you approach using bots is probably the best thing about it. Bots themselves are code that purposefully use Discord's API so you can get what you want from them.
+
+Like, if a bot can allow people to add roles to themselves... why not setup your notification roles to be self-addable instead of needing to have staff do it?
+
+I'll go more into detail later, but how you decide to use your bots is definitely the best part of having them.
 
 #### Where to find Bots
 
+Where to find bots! Well, you can use [This Site, Carbon](https://www.carbonitex.net/discord/bots) or you could wander around the "Discord Bots" server, which will be posted at the top of the Resources guide!
 
 #### Recommended Bots
 
-Keep scrolling for information on starting the process to making your own bots!
+Compiling a list of these for your pleasure later! Come back when I notify you guys I added to this guide!
 
----
+
+**Keep scrolling for information on starting the process to making your own bots!**
+
+
 ## Bot Development
----
+
 
 **Well**, you’ve made it this far.
 
 I’m assuming now you want to know the basics of making your future bot?
 
-Let’s dive right on in!
+Let’s just dive right on in!
 
----
 
 #### Ideas and Goal
 
@@ -66,7 +69,6 @@ So what you need to do is check around and see what other bots can do and then f
 
 You need to decide what you want it to do, every bot and every coding language has things it is better at.
 
----
 
 #### Coding Languages/Libraries
 
@@ -80,9 +82,8 @@ What I suggest doing is looking over the languages you know or can learn and dec
 
 **Etc...**
 
-The list really goes on for days, you can find all the frequently used ones on the discord api server in <#232881751851139072> every channel below the information channels are different coding language libraries.
+The list really goes on for days, you can find all the frequently used ones on the discord api server on the top of the resource guide, when it comes out. Every channel below the information channels are different coding language libraries, such as discord.py or discord.js.
 
----
 
 #### Bot Accounts
 
@@ -90,7 +91,7 @@ _“I DECIDED ON MY LANGUAGE, WHAT NOW?”_ Well now is the time to begin your b
 
 The fancy place where you make a bot is the “Developers” tab on the discord website **(You need to be logged in on browser version)** You head into _My Applications_ and you should see this.
 
-![]()
+![](http://i.imgur.com/rkLTlMk.png)
 
 But wait… there isn’t anything there.
 
@@ -98,17 +99,17 @@ Right! You need to make a new ‘application’ via the big _”New Application�
 
 When you click it, this blank form looking page should pop up! 
 
-![]()
+![](http://i.imgur.com/lnYrxxu.png)
 
 From here you fill out the information for your application. **(Right now this is mostly for organization purposes)** _The App name and the App Icon will be your bots name and icon! So choose carefully, only the icon can be changed after the fact._
 
 Once you have everything filled out 
 
-![]()
+![](http://i.imgur.com/167cRs7.png)
 
 You can click save, and then you want to click “Create a Bot User” 
 
-![]()
+![](http://i.imgur.com/OrmBTfq.png)
 
 This bot user will be the actual “Bot” (No you can’t choose the discrim. The name is whatever your App name was.)
 
@@ -116,7 +117,7 @@ Once that is done your bots account has been made. From here you just need to ta
 
 Your bot isn’t done yet, but to finish it you have to go get help!
 
----
+
 #### Utilizing Resources
 
 From here you have to utilize your resources. We can give you basic information on how to get your bot online, and supporting you through basic setup for a few coding libraries over in #support but we can’t do everything.
@@ -124,7 +125,6 @@ From here you have to utilize your resources. We can give you basic information 
 You will need to do your own research, and check out all the info in the Resources guide.
 It isn’t easy to make a bot that’ll actually do anything.... but the people who do it seem to find it rewarding? so maybe you will too!
 
----
 **If you need any help, let us know!**
 
 **This has been how to start making a bot, and where to go once you’ve made it past the basics.**
