@@ -278,6 +278,7 @@ ul.tab li a:hover, .staff-tab-active {
     height: 10%;
     width: 10%;
     margin-bottom: -8px;
+    display: initial;
 }
 .role-name {
     color: #fff;
