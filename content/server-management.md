@@ -171,7 +171,7 @@ _`*`_ Bot to Site lists
 _`*`_ Server lists
    Server’s that allow you to post, or ask them to post your server in categories or on one large list.
 
-**I will show you a show examples below: Please remember there are WAY MORE THAN THIS**
+**I will show you a few examples below: Please remember there are WAY MORE THAN THIS**
   _`*`_ Discord Server List (https://www.discordservers.com) **BOT**
 ![](http://i.imgur.com/jC9SXYC.png)
   _`*`_ ServerHound (https://www.discordlist.net) **BOT**
