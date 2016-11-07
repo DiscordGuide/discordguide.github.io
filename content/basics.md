@@ -26,11 +26,11 @@ Upon joining servers you can friend people and when you right click people on PC
 
 #### **Friend Requests** #
 
-The second thing that stands out on your discord when you join is the Friend area. As you go around discord meeting people, your friends list allows you to more easily keep track of those people who you connect with or work on stuff with. 
+The second thing that stands out on your discord when you join is the Friend area. As you go around discord meeting people, your friend's list allows you to more easily keep track of those people who you connect with or work on stuff with. 
 
 Perks: Being friends with someone gives you some special perks
 * You can message them even if you don't share servers!
-* You can get some cool abilities to do stuff with them.. Like Group Direct Messaging!
+* You can get some cool abilities to do stuff with them. Like Group Direct Messaging!
 
 ![](http://i.imgur.com/DV5Oskg.png)
 
@@ -44,7 +44,7 @@ This allows more private conversations with friends.
 
 #### **Profiles** #
 
-So you've noticed people have profiles? Well these profiles allow us to learn more about the user we are looking at. 
+So you've noticed people have profiles? Well, these profiles allow us to learn more about the user we are looking at. 
 Features of the profile include:
 * Notes (small sections on profiles where you can write stuff about them for reference)
 * Connections (twitter, youtube, twitch, steam, battle.net, and league of legends)
@@ -64,10 +64,10 @@ Features of the profile include:
 **Ain't nobody gonna make me use the instruction manual for nothing, bertha!**
 Well if you are here, that is obviously not you! 
 
-Here we are at the next guide, "User Settings", which will cover your... User Settings. These names are pretty self explanatory, aren't they? 
+Here we are in the next guide, "User Settings", which will cover your... User Settings. These names are pretty self-explanatory, aren't they? 
 
 _Just zoom in on the images if needed_
-If you have questions or need more details, ask in the server!
+If you have questions or need more details, ask the server!
 
 #### **Your Account** #
 
@@ -123,13 +123,13 @@ These are super useful if you don't want to manually do everything.
 
 #### **Appearance** #
 
-This is my **favorite** user setting. This allows you to change how Discord looks, and allows you to use Discord Developer mode (which allows you to copy user and message IDs, which in bot development is huge)
+This is my **favorite** user setting. This allows you to change how Discord looks and allows you to use Discord Developer mode (which allows you to copy user and message IDs, this helps with bot development i)
 
 ![](http://i.imgur.com/CcQI0jI.png)
 
 #### **Games** #
 
-The magical Games area. This allows you to view games you've played or that are on your computer and even rename some. Something a lot of people like to do is rename their games to something funny, or something that has a meaning for them. (I do this to explain what i'm doing or working on usually)
+The magical Games area. This allows you to view games you've played or that are on your computer and even rename some. Something a lot of people like to do is rename their games to something funny or something that has a meaning for them. (I do this to explain what I'm doing or working on usually)
 
 ![](http://i.imgur.com/sCvpJha.png)
 
@@ -165,7 +165,7 @@ To avoid hackers you can enable 2FA (Two Factor Authentication) which can help p
 
 #### **Changelog** #
 
-This is the orange words at the bottom of the tab list which has the recent update information!
+This is the orange words at the bottom of the tab list which have the recent update information!
 
 **Hope this guide helped, and please keep reading if you need to learn anything else!**
 
