@@ -10,7 +10,7 @@
 Creating a server can seem like a HUGE thing, but it has some pretty basic steps. A lot of how your server will do depends on how well it is set-up. Your idea, goal, and how well it is made are the keys to the server.
 
 
-#### Step One
+#### _Step One_
 
 The first step in creating a server is coming up with an idea. Your magical dream server won't actually get anywhere until you can decide what to do with it. Servers tend to take off if the idea is unique and appealing than if it is something more common and has nothing attractive about it to potential members. **(People don't usually join just because you ask nicely, I've tried it)**
 
