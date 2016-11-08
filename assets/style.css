@@ -280,6 +280,13 @@ ul.tab li a:hover, .staff-tab-active {
     margin-bottom: -8px;
     display: initial;
 }
+.guide-logo {
+    border-radius: 30px;
+    max-width: initial;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: -22px;
+}
 .role-name {
     color: #fff;
     text-transform: uppercase;
