@@ -14,6 +14,7 @@ So please feel free to take a look through the guides you'll see above or visit 
 
 ### Our guides are as follows...
 **Please keep in mind we are still updating the guides, and Mobile guides arent currently up yet!**
+**We are in the process of finishing then uploading everything, as well as making the site mobile friendly**
 
 * Basics
 
