@@ -5,9 +5,9 @@
 
 ## Discord Bots
 
-**WARNING** We are still editing this guide, due to some recently updates and new changes to running bots. We will update this as soon as possible.
+**WARNING** We are still editing this guide, due to some recent updates and new changes to running bots. We will update this as soon as possible.
 
-Hey it’s me, we’re here to talk to you about Bots!
+Hey, it’s me, we’re here to talk to you about Bots!
 
 Yeah Bots, those funny programs you see doing all sorts of things all around Discord! Ever wondered what others are out there and how to make them? That’s pretty much what these Bot guides are for!
 
@@ -15,7 +15,7 @@ Yeah Bots, those funny programs you see doing all sorts of things all around Dis
 
 **We have to start somewhere… and that somewhere is with the basics!**
 
-“What are the types of bots?” You might ask, well I gave a rough idea in the server guides but here we’ll go a bit more in depth.
+“What are the types of bots?” You might ask, well I gave a rough idea in the server guides but here we’ll go a bit more in-depth.
 
 
   • Interface Bots:
@@ -23,28 +23,27 @@ These are bots that manage channels, add roles, kick people, and make sure peopl
 
 
  • Text Bots:
-This breed of bot serves the purpose of posting messages, such as cleverbot or a bot that replies to commands with a preset message. These bots are good for rule channels and having mindless dialogue.
+This breed of bot serves the purpose of posting messages, such as Cleverbot or a bot that replies to commands with a preset message. These bots are good for rule channels and having mindless dialogue.
 
 
  • Data Bots:
-Data Bots… these bots record and send, or receive and record information. A bot like these could track people streaming on twitch, updates to a github repo or give you stats on your server on a central site… as well as listing your server as mentioned in the server guides!
+Data Bots… these bots record and send, or receive and record information. A bot like these could track people streaming on twitch, updates to a GitHub repo or give you stats on your server on a central site… as well as listing your server as mentioned in the server guides!
 
 #### Creativity with Bots
 
-How you approach using bots is probably the best thing about it. Bots themselves are code that purposefully use Discord's API so you can get what you want from them.
+How you approach using bots is probably the best thing about it. Bots themselves are code that purposefully uses Discord's API so you can get what you want from them.
 
-Like, if a bot can allow people to add roles to themselves... why not setup your notification roles to be self-addable instead of needing to have staff do it?
+Like, if a bot can allow people to add roles to themselves... why not set up your notification roles to be self-addable instead of needing to have staff do it?
 
-I'll go more into detail later, but how you decide to use your bots is definitely the best part of having them.
+
 
 #### Where to find Bots
 
-Where to find bots! Well, you can use [This Site, Carbon](https://www.carbonitex.net/discord/bots) or you could wander around the "Discord Bots" server, which will be posted at the top of the Resources guide!
+Where to find bots! Well, you can use [This Site, Carbon](https://www.carbonitex.net/discord/bots) or you could wander around the "Discord Bots" [server](https://discord.gg/xbgUBZQ) or [site](https://bots.discord.pw/) (more details on the top of the resource guide when it comes out)
 
 #### Recommended Bots
 
 Compiling a list of these for your pleasure later! Come back when I notify you guys I added to this guide!
-
 
 **Keep scrolling for information on starting the process to making your own bots!**
 
@@ -54,7 +53,7 @@ Compiling a list of these for your pleasure later! Come back when I notify you g
 
 **Well**, you’ve made it this far.
 
-I’m assuming now you want to know the basics of making your future bot?
+Am I assuming now you want to know the basics of making your future bot?
 
 Let’s just dive right on in!
 
@@ -63,11 +62,11 @@ Let’s just dive right on in!
 
 Wait, why isn’t this the actual making of the bot…?
 
-Well that’s pretty simple, 10 points for the good question! You can’t just go ahead and make a bot without some sort of plan, if you try to make it up as you go and have 0 idea what you're planning to do it’ll just make **everything** harder down the line.
+Well, that’s pretty simple, 10 points for the good question! You can’t just go ahead and make a bot without some sort of plan if you try to make it up as you go and have 0 ideas what you're planning to do it’ll just make **everything** harder down the line.
 
-So what you need to do is check around and see what other bots can do and then figure out what yours should do. A bot that talks back when you @mention it? A bot that auto roles members? Maybe a bot that unflips all those pesky tables? (We love you spoo.py)
+So what you need to do is check around and see what other bots can do and then figure out what yours should do. A bot that talks back when you @mention it? A bot that auto roles members? Maybe a bot that un-flips all those pesky tables? (We love you spoo.py)
 
-You need to decide what you want it to do, every bot and every coding language has things it is better at.
+You need to decide what you want it to do, every bot and every coding language have things it is better at.
 
 
 #### Coding Languages/Libraries
@@ -76,13 +75,17 @@ So the first _real_ step is deciding on a language. If you have no prior coding 
 
 The discord libraries are different than the actual languages themselves, they use the coding languages in a restricted way to apply to discord. No bot would work without the people who devote time to these libraries.
 
-So to start off you’ll need to decide what language you plan to use, if you don’t know coding then why make a bot? One way some people learn is by reviewing open source bots on github and playing with things to see how it works, but that’ll only **git** you so far. _(Hah, I made a funny)_
+So to start off you’ll need to decide what language you plan to use, if you don’t know coding then why make a bot? One way some people learn is by reviewing open source bots on GitHub and playing with things to see how it works, but that’ll only **git** you so far. _(Hah, I made a funny)_
 
-What I suggest doing is looking over the languages you know or can learn and decide where to go from there. **Like:** * discord.js This is a Javascript library * discord.py This is a python library * discord.go This is a google go library
+What I suggest doing is looking over the languages you know or can learn and decide where to go from there. 
+**Like:** 
+* **discord.js** is a Javascript library 
+* **discord.py** is a python library 
+* **discord.go** is a golang library
 
 **Etc...**
 
-The list really goes on for days, you can find all the frequently used ones on the discord api server on the top of the resource guide, when it comes out. Every channel below the information channels are different coding language libraries, such as discord.py or discord.js.
+The list really goes on for days, you can find all the frequently used ones on the discord API server on the top of the resource guide, when it comes out. Every channel below the information channels is different coding language libraries, such as discord.py or discord.js.
 
 
 #### Bot Accounts
@@ -120,12 +123,20 @@ Your bot isn’t done yet, but to finish it you have to go get help!
 
 #### Utilizing Resources
 
-From here you have to utilize your resources. We can give you basic information on how to get your bot online, and supporting you through basic setup for a few coding libraries over in #support but we can’t do everything.
+From here you have to utilize your resources. We can give you basic information on how to get your bot online, and support you through the basic setup for a few coding libraries over in #support but we can’t do everything.
 
 You will need to do your own research, and check out all the info in the Resources guide.
 It isn’t easy to make a bot that’ll actually do anything.... but the people who do it seem to find it rewarding? so maybe you will too!
 
 **If you need any help, let us know!**
+
+#### What happens next?
+
+Well, once you are down the road making your bot you have to worry about other factors.
+
+Hosting a bot isn't just have the code made. You also have to have some sort of host running the bot, such as your computer or a server (VPS) running the bot. The better the uptime of your bot, the more people who will be interested in it... no one wants a bot that is down frequently.
+
+Hosting a bot on your computer isn't smart if you plan to have it on multiple servers, or if it uses a lot of your CPU. Bots are just like any other program on your computer, THEY WON'T RUN BY THEMSELVES. You have to turn them on, update them, and make sure they run.
 
 **This has been how to start making a bot, and where to go once you’ve made it past the basics.**
 
