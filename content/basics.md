@@ -55,7 +55,7 @@ Features of the profile include:
 * Mutual Friends (seeing friends you share with the other person)
 * Issue Response (Blocking, Reporting, and Removing them as friends)
 
-![](http://i.imgur.com/jIpvAqH.png)
+![](http://i.imgur.com/BOaeFa8.png)
 
 **This was a basic overview of all the discord features outside of servers.**
 
