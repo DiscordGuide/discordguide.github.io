@@ -39,4 +39,4 @@ Our Resource guides involve the various tricks to Discord, tools for Bot Develop
 If you have any other questions, or feel you can contribute to our efforts... please join the support server, mentioned above and shown in our task bar, and feel free to talk to the staff.
 
 ###### Have a beautiful time on Discord. 
-![](http://i.imgur.com/LGVlCsq.png)
+![](https://i.imgur.com/LGVlCsq.png)
