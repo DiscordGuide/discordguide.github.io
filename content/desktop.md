@@ -1,23 +1,23 @@
 # Desktop Guides
 
-**These are the guides to using Discord on Desktop, mostly foused around servers.**
+**These are the guides to using Discord on Desktop, mostly focused around servers.**
 
 
 ## **Creating a Server**
 
-**_Hello there!_** Today i'm gonna show you guys how to create a server!
+**_Hello there!_** Today I'm gonna show you guys how to create a server!
 
-Creating a server can seem like a HUGE thing, but it has some pretty basic steps. Alot of how your server will do depends on how well it is set-up. Your idea, goal, and how well it is made are the keys to the server.
+Creating a server can seem like a HUGE thing, but it has some pretty basic steps. A lot of how your server will do depends on how well it is set-up. Your idea, goal, and how well it is made are the keys to the server.
 
 
-#### Step One
+#### _Step One_
 
-The first step in creating a server is coming up with an idea. Your magical dream server won't actually get anywhere until you can decide what to do with it. Servers tend to take off if the idea is more unique and appealing than if it is something more common and has nothing attractive about it to potential members. **(People don't usually join just because you ask nicely, I've tried it)**
+The first step in creating a server is coming up with an idea. Your magical dream server won't actually get anywhere until you can decide what to do with it. Servers tend to take off if the idea is unique and appealing than if it is something more common and has nothing attractive about it to potential members. **(People don't usually join just because you ask nicely, I've tried it)**
 
 
 #### _Step Two_
 
-You have that idea? Awesome! Step Two time!
+Have that idea? Awesome! Time for Step Two!
 
 The second step in creating this magical thing is finding a few friends interested in the idea, run it past some people and see what they think. If enough people like it, then you can move to Step Three! Remember, member base is what makes most servers run!
 
@@ -51,7 +51,7 @@ Now head on down the page for the next steps!
 
 Fineeee, time to setup your beautiful server you created in the last guide!
 
-Setting up a server is a good thing to do before even inviting anyone. Having a clean nice look with all your roles and channels in place makes the server **WAY** more appealing when your friends, and future members join this creation of yours!
+Setting up a server is a good thing to do before even inviting anyone. Having a clean nice look with all your roles and channels in place makes the server **WAY** more appealing when your friends and future members join this creation of yours!
 
 
 #### Setting up Roles
@@ -65,7 +65,7 @@ then click "Server Settings" and BOOM you have this popup where you can edit alm
 
 ![](http://i.imgur.com/0IbY7Vb.png)
 
-From here the first thing I normally do is click **Roles** (this is what i'll show you right now) 
+From here the first thing I normally do is click **Roles** (this is what I'll show you right now) 
 
 ![](http://i.imgur.com/WnYu3ca.png)
 
@@ -110,7 +110,7 @@ These permissions allow certain roles to be able to talk/hear on voice chat, or 
 
 **Mute** **:** Can't talk on VC. **Deafen** **:** Can't hear on VC. **Move** **:** Can move a person from one VC to the other.
 
-This ties a lot into music bots, but i'll explain that in the Bot guides ??
+This ties a lot into music bots, but I'll explain that in the Bot guides ??
 
 **For all channels remember this...**
 ![](http://i.imgur.com/zxJqkt4.png)
@@ -121,19 +121,19 @@ This ties a lot into music bots, but i'll explain that in the Bot guides ??
 **Wait... Oh server info now...**
 Hey, welcome to basic server information!
 
-Now that you have a setup server, and got your basic roles going lets look at some more setup you can do!
+Now that you have a setup server, and got your basic roles going let's look at some more setup you can do!
 
 
 #### Checking your Roles
 
-So lets say you are making a server for a fandom, each different character you might like is a seperate role with that fandom characters' favorite color. How would you put all these together and keep a good role order?
+So let's say you are making a server for a fandom, each different character you might like is a separate role with that fandom characters' favorite color. How would you put all these together and keep a good role order?
 
 Should your roles look like this? 
 
 ![](http://i.imgur.com/yEEFHAC.png)
 
 **No!** That picture shows a messy role setup that would make a hierarchy impossible, to keep a server functioning well you need a nice order to be set up, usually.
-If you are going for organization, that wouldn’t do well for you.
+If you are going for some organization, that wouldn’t do well for you.
 
 A good way to do this is to put leadership roles on the top, and then you can organize the other by color, or even by alphabet. (OCD people... I feel your pain)
 
@@ -163,7 +163,7 @@ A good practice on channels is to not add every role specifically, just set the 
 The above is only a problem if you make a hidden channel, like a Moderators only channel. 
 To do this simply unclick view for everyone and click view on Moderators/Admins. 
 
-Making one of these channels is one of the exceptions to the "You shouldn't manually add each role." rule. Manually setting these is usually smarter, so for example: mods can't delete other mods messages in this channel. 
+Making one of these channels is one of the exceptions to the "You shouldn't manually add each role." rule. Manually setting these is usually smarter, so for example mods can't delete other mods messages in this channel. 
 
 ![](http://i.imgur.com/cAPul1s.png)
 
@@ -171,7 +171,7 @@ Making one of these channels is one of the exceptions to the "You shouldn't manu
 #### Checking your Voice Channels
 
 Voice Channels can be a bit trickier than regular Channels, but the idea is pretty much the same. 
-You shouldn't have to worry about any of the permissions as long as it isn't restricted to a role, if it is then you have to add all the roles that can access it. (Like a staff, or vip voice chat)
+You shouldn't have to worry about any of the permissions as long as it isn't restricted to a role if it is then you have to add all the roles that can access it. (Like a staff, or via voice chat)
 
 
 #### Rules and Welcome
@@ -183,6 +183,6 @@ The only reason I wouldn’t is if the rules are super obvious, or if you have n
 
 I will post more examples in the Server Management guides but these channels should only allow Admins and you, the owner, to talk. This allows you to post rules everyone can see. 
 
-**If you have any questions so far, just ask in the server!**
+**If you have any questions so far, just ask the server!**
 
 **If not head on down to the Server Management guides for more server advice, or the Bot guide for your Bot related information!**

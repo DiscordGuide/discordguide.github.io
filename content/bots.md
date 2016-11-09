@@ -71,9 +71,11 @@ You need to decide what you want it to do, every bot and every coding language h
 
 #### Coding Languages/Libraries
 
+Got some big words incoming...
+
 So the first _real_ step is deciding on a language. If you have no prior coding experience you’ll want to check out sites like Code Academy, or khan academy and learn basic coding.
 
-The discord libraries are different than the actual languages themselves, they use the coding languages in a restricted way to apply to discord. No bot would work without the people who devote time to these libraries.
+The discord libraries are simply API (Application Programming Interface)'s to Discord's system, a bot could be created without the use of a library but it would be limited and hard to maintain, so hard working people (or teams of people) devote their time to creating libraries for public use, these teams may not share ideas about how to work with their selected language, which is why you will see multiple libraries for the same language... eg. Discord.JS and Discord.io.
 
 So to start off you’ll need to decide what language you plan to use, if you don’t know coding then why make a bot? One way some people learn is by reviewing open source bots on GitHub and playing with things to see how it works, but that’ll only **git** you so far. _(Hah, I made a funny)_
 

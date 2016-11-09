@@ -5,7 +5,9 @@
 Hey there! I want to welcome you, whether you come from Discord or other places unknown!
 We are beyond happy that you chose to visit us today, and we hope we can help you!
 
-We are a site/server for you, the Discord user. We want to bring easy support, and simple guides for Discord to every user. 
+This is a community ran service where users of discord are trying to help fellow users by using our experiences. 
+We are **not** Discord Staff, and none of our staff will try to tell you we are.
+We are simply a service for you, the Discord user. We want to bring easy support, and simple guides for Discord to every user, using our experience as users. 
 We also want to build a bridge between the different communities of Discord, and share this with you.
 
 If you're new to Discord, please join the server and read the guides. We are more than happy to try to help you find servers, and get help with learning how to use Discord!
@@ -14,6 +16,7 @@ So please feel free to take a look through the guides you'll see above or visit 
 
 ### Our guides are as follows...
 **Please keep in mind we are still updating the guides, and Mobile guides arent currently up yet!**
+**We are in the process of finishing then uploading everything, as well as making the site mobile friendly**
 
 * Basics
 
@@ -35,7 +38,7 @@ These guides go over the different types of bots in Discord, and how you might u
 
 Our Resource guides involve the various tricks to Discord, tools for Bot Developers, and our Video guides... which can also be found at our [Youtube](https://www.youtube.com/channel/UCP5vVXFrOsIvh9vw_mOFTMg)
 
-If you have any other questions, or feel you can contribute to our efforts... please join the support server, mentioned above and shown in our task bar, and feel free to talk to the staff.
+If you have any other questions, or feel you can contribute to our efforts... please join the support server, mentioned above and shown in our task bar, and feel free to talk to our staff.
 
 ###### Have a beautiful time on Discord. 
-![](http://i.imgur.com/LGVlCsq.png)
+![](https://i.imgur.com/LGVlCsq.png)
