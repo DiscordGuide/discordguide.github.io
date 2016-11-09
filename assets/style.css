@@ -50,7 +50,7 @@
     text-shadow: 0 1px 1px rgba(34,34,34,0.3);
 }
 .hero-discord {
-    background: url(../assets/custom-logo.png);
+    background: url(../assets/logo-with-bg.png);
     position: absolute;
     top: 4px;
     left: 4px;
@@ -279,6 +279,9 @@ ul.tab li a:hover, .staff-tab-active {
     width: 10%;
     margin-bottom: -8px;
     display: initial;
+}
+.is-discord .hero-circle {
+    background-color: #1d2124;
 }
 .guide-logo {
     border-radius: 30px;
@@ -1074,3 +1077,4 @@ img {
 		transform: scale(0);
 	}
 }
+
