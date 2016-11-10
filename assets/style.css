@@ -582,7 +582,7 @@ button.hamburger.animated.fadeInLeft.is-closed {
     -ms-flex-pack: center;
     justify-content: center;
     margin: 0 auto;
-    width: 10%;
+    width: 28%;
 }
     .nav-projects,.nav-pages {
         display: none;
@@ -746,7 +746,7 @@ button.hamburger.animated.fadeInLeft.is-closed {
   display: block;
   height: 32px;
   margin-left: 15px;
-  position: fixed;
+  position: absolute;
   top: 20px;
   width: 32px;
   z-index: 999;
@@ -865,6 +865,29 @@ button.hamburger.animated.fadeInLeft.is-closed {
   bottom: 0;
   background-color: rgba(0, 0, 0, 0.4);
   z-index: 1;
+}
+}
+@media only screen and (max-width: 670px) {
+    .index-tab li a {
+    padding: 13px 8px;
+}
+}
+@media only screen and (max-width: 640px) {
+    .index-tab li a {
+    padding: 13px 1px;
+}
+}
+@media only screen and (max-width: 400px) {
+.index-tab {
+    width: 84%;
+    margin-top: -41px;
+    margin-right: 30px;
+}
+    .index-tab li a {
+    padding: 13px 18px;
+}
+    .dcc {
+    margin-top: 30%;
 }
 }
 img {
