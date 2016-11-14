@@ -877,7 +877,20 @@ button.hamburger.animated.fadeInLeft.is-closed {
     padding: 13px 1px;
 }
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 540px) {
+    .index-tab {
+    width: 84%;
+    margin-top: -41px;
+    margin-right: 8%;
+}
+    .index-tab li a {
+    padding: 13px 18px;
+}
+    .dcc {
+    margin-top: 20%;
+}
+}
+@media only screen and (max-width: 455px) {
 .index-tab {
     width: 84%;
     margin-top: -41px;
