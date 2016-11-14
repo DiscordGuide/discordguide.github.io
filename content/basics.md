@@ -35,7 +35,8 @@ Perks: Being friends with someone gives you some special perks
 * You can message them even if you don't share servers!
 * You can get some cool abilities to do stuff with them. Like Group Direct Messaging!
 
-![](http://i.imgur.com/DV5Oskg.png)
+On Desktop to add a friend just left click their name and...
+![](http://i.imgur.com/7aESvKy.png)
 
 #### _Group Direct Messaging_ #
 
@@ -112,7 +113,7 @@ These are your basic and advanced voice settings. You can decide input and outpu
 
 Notifications? Well duh! these are the beeps, pings, noises, and flashes your discord does for things! This also allows you to decide if Text-To-Speech plays or not.
 
-![](http://i.imgur.com/6htQ5WR.png)
+![](http://i.imgur.com/oyWcs8F.jpg)
 I consider this one of the most important areas of the User Settings.
 
 
@@ -147,8 +148,6 @@ Useful for gamers who still like to chat and check their servers.
 
 Locale is a big area for lagging and voice chat settings. 
 Your locale tells what language you are in and area, your location here will respond better with similar/same locations. 
-
-In server this is huge, based on where the server is located will change your connection to the server. Most international servers do US-EAST as the main Location because it makes the server closer to more people.
 
 ![](http://i.imgur.com/B6fxHNd.png)
 
