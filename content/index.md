@@ -1,44 +1,38 @@
 # Welcome
 
-### Heya, welcome to _Discord Guide_!
+### Welcome to the **Discord Guide** 
+Whether you are new to Discord, or a long time user... we are beyond happy you could visit us today!
 
-Hey there! I want to welcome you, whether you come from Discord or other places unknown!
-We are beyond happy that you chose to visit us today, and we hope we can help you!
+**What are we?**
+This is a community ran project on Discord!
+We are a service ran discord users, like you, to help all people who may use Discord.
 
-This is a community ran service where users of discord are trying to help fellow users by using our experiences. 
-We are **not** Discord Staff, and none of our staff will try to tell you we are.
-We are simply a service for you, the Discord user. We want to bring easy support, and simple guides for Discord to every user, using our experience as users. 
-We also want to build a bridge between the different communities of Discord, and share this with you.
+Our goal is to give everyone a place to enjoy, and find help with whatever they need help with when it comes to Discord... or even some things that are unrelated!
+Our 24/7 support team, and other users in the community, are always here to help you!
 
-If you're new to Discord, please join the server and read the guides. We are more than happy to try to help you find servers, and get help with learning how to use Discord!
+**What are these _Guides_ I see...?**
+Our guides are not quite done, but we are working on them as fast as a wumpus can roll! (Which if you didn't know, is very fast when things aren't in its way!)
+IF you want to contribute to the process, please contact Jet#0038 on the server or visit our GitHub! (Link above)
 
-So please feel free to take a look through the guides you'll see above or visit our [ server](https://discord.gg/h67TkHf).
+I think that about wraps it up!
+So please feel free to take a look through the guides you'll see above or visit our [server](https://discord.gg/zXsAHTd).
 
-### Our guides are as follows...
-**Please keep in mind we are still updating the guides, and Mobile guides arent currently up yet!**
-**We are in the process of finishing then uploading everything, as well as making the site mobile friendly**
+**Our guides are as follows...**
+_You can find all the guides listed below on the blue toolbar at the top!_
 
-* Basics
+* **Basics Guides** are the Basics to Discord, on Desktop or Mobile clients.
 
-The Basics to Discord, on Desktop or Mobile clients.
+* **Desktop Guides** are the details of using Discord on Desktop, mostly focused on Servers.
 
-* Desktop
+* **Mobile Guides** are the uses of Mobile Discord for Servers, and what is different between it and the Desktop clients.
 
-The details of using Discord on Desktop, mostly focused on Servers.
+* **Bot Guides** go over the different types of bots in Discord, and how you might use them. We also cover the basics of making a bot.
 
-* Mobile
+* **Resource Guides** involve the resources on Discord, and tricks to using Discord. This somewhat includes our Video guides which can also be found at our [Youtube](https://www.youtube.com/channel/UCP5vVXFrOsIvh9vw_mOFTMg).
 
-The uses of Mobile Discord for Servers, and what is different between it and the Desktop clients.
 
-* Bots
+If you have any other questions, or feel you can contribute to our efforts then please join the support server mentioned above and talk to our staff. 
+We don't bite, only the wumpus bites.
 
-These guides go over the different types of bots in Discord, and how you might use them. We also cover a few of the basics of making a bot.
-
-* Resources
-
-Our Resource guides involve the various tricks to Discord, tools for Bot Developers, and our Video guides... which can also be found at our [Youtube](https://www.youtube.com/channel/UCP5vVXFrOsIvh9vw_mOFTMg)
-
-If you have any other questions, or feel you can contribute to our efforts... please join the support server, mentioned above and shown in our task bar, and feel free to talk to our staff.
-
-###### Have a beautiful time on Discord. 
+### _Have a beautiful time on Discord._
 ![](https://i.imgur.com/LGVlCsq.png)
