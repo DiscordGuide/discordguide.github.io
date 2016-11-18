@@ -60,14 +60,14 @@ So you are at the screen shown in the above image, where everything's all blank 
 
 From here go to the three lines icon by the server name, and click them 
 
-![](http://i.imgur.com/tWs8Rks.png)
+![](https://i.imgur.com/tWs8Rks.png)
 then click "Server Settings" and BOOM you have this popup where you can edit almost everything on your server in one place. 
 
-![](http://i.imgur.com/0IbY7Vb.png)
+![](https://i.imgur.com/0IbY7Vb.png)
 
 From here the first thing I normally do is click **Roles** (this is what I'll show you right now) 
 
-![](http://i.imgur.com/WnYu3ca.png)
+![](https://i.imgur.com/WnYu3ca.png)
 
 Roles are what decide what everyone on your server can do, from simple things like Emotes to major things like being able to edit the whole server.
 
@@ -91,11 +91,11 @@ Whether someone can or cannot do something goes in a specific order, it goes the
 
 Setting up the permissions look a lot similar to roles 
 
-![](http://i.imgur.com/8yNOEoQ.png)
+![](https://i.imgur.com/8yNOEoQ.png)
 
 there are slight differences, but not much you'll notice. 
 
-![](http://i.imgur.com/sxduMR1.png)
+![](https://i.imgur.com/sxduMR1.png)
 
 
 #### Setting up Voice Channels
@@ -104,7 +104,7 @@ Voice channels? They are pretty much the same as Text channels except... instead
 
 The row you saw missing from Text? Those go here. 
 
-![](http://i.imgur.com/pY5Ak6c.png)
+![](https://i.imgur.com/pY5Ak6c.png)
 
 These permissions allow certain roles to be able to talk/hear on voice chat, or even mute/deafen others.
 
@@ -113,7 +113,7 @@ These permissions allow certain roles to be able to talk/hear on voice chat, or 
 This ties a lot into music bots, but I'll explain that in the Bot guides ??
 
 **For all channels remember this...**
-![](http://i.imgur.com/zxJqkt4.png)
+![](https://i.imgur.com/zxJqkt4.png)
 
 
 ## **Basic Server Information**
@@ -130,7 +130,7 @@ So let's say you are making a server for a fandom, each different character you 
 
 Should your roles look like this? 
 
-![](http://i.imgur.com/yEEFHAC.png)
+![](https://i.imgur.com/yEEFHAC.png)
 
 **No!** That picture shows a messy role setup that would make a hierarchy impossible, to keep a server functioning well you need a nice order to be set up, usually.
 If you are going for some organization, that wouldn’t do well for you.
@@ -139,7 +139,7 @@ A good way to do this is to put leadership roles on the top, and then you can or
 
 Once you've done this, it'll probably look like this. 
 
-![](http://i.imgur.com/49tYxrO.png)
+![](https://i.imgur.com/49tYxrO.png)
 
 It's important that roles like "Admin" "Mod" and other leadership roles are at/near the top, a Moderator with a role below everyone else wouldn't be able to do anything besides delete messages and mute people on Voice Chat. The permissions system works in order, the higher the role, the higher the authority **NO MATTER WHAT PERMISSIONS ARE CLICKED**
 
@@ -154,18 +154,18 @@ Your channels permissions are also major as I said before, any role without "Adm
 
 You could make Mod have every permission except "Administrator" but if the channels block all of them then the Mod is useless on that channel. 
 
-![](http://i.imgur.com/sxduMR1.png)
+![](https://i.imgur.com/sxduMR1.png)
 
 A good practice on channels is to not add every role specifically, just set the roles permissions and then on each channel just click view for everyone and leave the rest of them Blank, not an X or a Check. This means all the permissions will be set exactly how they are in the roles. 
 
-![](http://i.imgur.com/ZMw5wF4.png)
+![](https://i.imgur.com/ZMw5wF4.png)
 
 The above is only a problem if you make a hidden channel, like a Moderators only channel. 
 To do this simply unclick view for everyone and click view on Moderators/Admins. 
 
 Making one of these channels is one of the exceptions to the "You shouldn't manually add each role." rule. Manually setting these is usually smarter, so for example mods can't delete other mods messages in this channel. 
 
-![](http://i.imgur.com/cAPul1s.png)
+![](https://i.imgur.com/cAPul1s.png)
 
 
 #### Checking your Voice Channels
@@ -179,7 +179,7 @@ You shouldn't have to worry about any of the permissions as long as it isn't res
 This is a basic thing on a server, every server should have a Rules and Welcome unless the server is based around chaos, like a meme or shitpost server. 
 The only reason I wouldn’t is if the rules are super obvious, or if you have none.
 
-![](http://i.imgur.com/SVZ9Ej4.png)
+![](https://i.imgur.com/SVZ9Ej4.png)
 
 I will post more examples in the Server Management guides but these channels should only allow Admins and you, the owner, to talk. This allows you to post rules everyone can see. 
 

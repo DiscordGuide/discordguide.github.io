@@ -34,9 +34,9 @@ Limbo Rooms and Limbo Servers are rooms or servers that require a Staff approvin
 A limbo room is pretty easy to make, remember how you set those staff rooms and special perks rooms? We are doing the opposite here. 
 Every channel in the server requires a base room to see, and not having those limits you to seeing the welcome room and a channel where you can request to join the rest of the server; some servers even have bots you can use to give yourself the role to get out. 
 This is a good use for 42 who has the `+giveme` command.
-![](http://i.imgur.com/wzvK0B8.png)
+![](https://i.imgur.com/wzvK0B8.png)
   Limbo rooms and Limbo servers allow you to keep things private and keep a better grasp on who has what permissions and who can join. Unless YOU or a Staff approves it... they can't do anything at all.
-![](http://i.imgur.com/KXk2G1f.png)
+![](https://i.imgur.com/KXk2G1f.png)
   This is a great tool for making private servers you don't want anyone joining if they are stuck on a dead-end channel they'll eventually either get kicked or leave.
 
 **Inactivity Penalties**
@@ -46,7 +46,7 @@ This is one of the fun features in Discord, the Inactivity penalties.
 On your "Server Settings" you should see a tab named "Members" at the bottom is an area called 'Prune', this allows you to remove members who haven't said anything for certain amounts of time.
 
 **WARNING:** This does not work on users with roles, so it's not smart to assign every member a role if you want to prune inactive people.
-![](blob:http://imgur.com/c0fe7826-1d7b-4ae2-927a-3277c936f4b2)
+![](blob:https://imgur.com/c0fe7826-1d7b-4ae2-927a-3277c936f4b2)
   This allows you to remove members who don't contribute anything to the server.
 
 
@@ -173,13 +173,13 @@ _`*`_ Server lists
 
 **I will show you a few examples below: Please remember there are WAY MORE THAN THIS**
   _`*`_ Discord Server List (https://www.discordservers.com) **BOT**
-![](http://i.imgur.com/jC9SXYC.png)
+![](https://i.imgur.com/jC9SXYC.png)
   _`*`_ ServerHound (https://www.discordlist.net) **BOT**
-![](http://i.imgur.com/B2kp4ZH.png)
+![](https://i.imgur.com/B2kp4ZH.png)
   _`*`_ The Portal (https://discord.gg/6HtGJ98) **server**
-![](http://i.imgur.com/Ep2lEqk.png)
+![](https://i.imgur.com/Ep2lEqk.png)
   _`*`_ Discord Server List (https://discord.gg/ptg4XSK) **server**
-![](http://i.imgur.com/gaAShB1.png)
+![](https://i.imgur.com/gaAShB1.png)
 
 **Members**
 The last piece is members.

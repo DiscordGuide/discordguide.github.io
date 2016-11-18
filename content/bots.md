@@ -96,7 +96,7 @@ _“I DECIDED ON MY LANGUAGE, WHAT NOW?”_ Well now is the time to begin your b
 
 The fancy place where you make a bot is the “Developers” tab on the discord website **(You need to be logged in on browser version)** You head into _My Applications_ and you should see this.
 
-![](http://i.imgur.com/rkLTlMk.png)
+![](https://i.imgur.com/rkLTlMk.png)
 
 But wait… there isn’t anything there.
 
@@ -104,17 +104,17 @@ Right! You need to make a new ‘application’ via the big _”New Application�
 
 When you click it, this blank form looking page should pop up! 
 
-![](http://i.imgur.com/lnYrxxu.png)
+![](https://i.imgur.com/lnYrxxu.png)
 
 From here you fill out the information for your application. **(Right now this is mostly for organization purposes)** _The App name and the App Icon will be your bots name and icon! So choose carefully, only the icon can be changed after the fact._
 
 Once you have everything filled out 
 
-![](http://i.imgur.com/167cRs7.png)
+![](https://i.imgur.com/167cRs7.png)
 
 You can click save, and then you want to click “Create a Bot User” 
 
-![](http://i.imgur.com/OrmBTfq.png)
+![](https://i.imgur.com/OrmBTfq.png)
 
 This bot user will be the actual “Bot” (No you can’t choose the discrim. The name is whatever your App name was.)
 
