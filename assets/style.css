@@ -1712,7 +1712,7 @@ img {
     right: 21px;
     padding: 3px 6px;
     border-radius: 3px;
-    background-color: #b12f2f;
+    background-color: #5b71bd;
     color: #fff;
     float: right;
     z-index: 1;
@@ -1721,4 +1721,14 @@ img {
 
 .row .col.m6 {
     position: relative;
+}
+.temp-banner {
+    background-image: url(/banners/temp_banner.png) !important;
+}
+.temp-server {
+    color: #647dd0;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 19px;
 }
