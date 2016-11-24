@@ -11,7 +11,7 @@ We will try to get these online as soon as possible eitherway!
 
 **Thanks for your support as always <3**
 
-### Android
+### Android (v3.1.8)
 
 Here is a little GIF walkthrough of the Android version v3.1.8 on Android 6.0 w/ EMUI 4.0.1.
 
@@ -20,12 +20,17 @@ Here is a little GIF walkthrough of the Android version v3.1.8 on Android 6.0 w/
 #### Sidebar
 <img src="https://cdn.discordapp.com/attachments/217112909610876928/251390185076555777/Screenshot_2016-11-24-11-54-05.png" width="360"> <img src="https://cdn.discordapp.com/attachments/217112909610876928/251390128679944192/Screenshot_2016-11-24-11-54-17.png" width="360">
 
-By clicking at ![Friends icon](https://cdn.discordapp.com/attachments/217112909610876928/251397025642446849/Screen_Shot_2016-11-24_at_12.21.40_PM.png) or any DM and private group, you will reach the Friend display (left). Otherwise, you will reach the Server display (right).
+To open sidebar, you can swipe the screen to the right, or you can click the 3-line button at the upper-left corner.
+
+By clicking at ![Friends icon](https://cdn.discordapp.com/attachments/217112909610876928/251397025642446849/Screen_Shot_2016-11-24_at_12.21.40_PM.png) or any DM and private group, you will reach the Friend display (left) which shows you all recent private conversations. By clicking at a server icon, you will reach the Server display (right) which shows all text/voice channels of the servers, a 3-dot button for various settings and a "Create Instant Invite" button.
 
 #### Friend List
 Open the left sidebar. Click on "Friends" at the top of the [sidebar](#sidebar). You will see your online friends, by default.
 
 * You can check all your friends / pending friend requests / suggestions / blocked users at the top.
-* When you click on a friend, instead of showing the [chat dialog](#chat-dialog), it will show his [profile](#profile).
+* **!!!** When you click on a friend, instead of showing the [chat dialog](#chat-dialog) in PC versions, it will show the [profile](#profile).
 
 #### Profile
+<img src="https://cdn.discordapp.com/attachments/217112909610876928/251400323674013697/Screenshot_2016-11-24-12-23-59.png" width="240"> <img src="https://cdn.discordapp.com/attachments/217112909610876928/251400356477665281/Screenshot_2016-11-24-12-24-05.png" width="240"> <img src="https://cdn.discordapp.com/attachments/217112909610876928/251400399070691329/Screenshot_2016-11-24-12-24-08.png" width="240">
+
+Same as the PC version.
