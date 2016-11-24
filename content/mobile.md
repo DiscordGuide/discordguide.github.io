@@ -49,3 +49,10 @@ Same as the PC version. When displaying messages of a channel, you can swipe to 
 ![](https://cdn.discordapp.com/attachments/251445450454859777/251450913816969227/2016-11-24_15_55_43.gif)
 
 **!!!** Always click the refresh button after you change the setting.
+
+#### Server Preferences
+<img src="https://cdn.discordapp.com/attachments/251445450454859777/251451746709143552/Screenshot_2016-11-24-15-58-48.png" width="180"> <img src="https://cdn.discordapp.com/attachments/251445450454859777/251451793664507904/Screenshot_2016-11-24-15-58-56.png" width="180"> <img src="https://cdn.discordapp.com/attachments/251445450454859777/251451822420656128/Screenshot_2016-11-24-15-59-03.png" width="180"> <img src="https://cdn.discordapp.com/attachments/251445450454859777/251451853932331009/Screenshot_2016-11-24-15-59-09.png" width="180">
+
+Open the [sidebar](#sidebar) when displaying a channel. Click the three-dot button to open the menu.
+
+**!!!** Nickname and server setting options will not appear if you have no respective permissions.
