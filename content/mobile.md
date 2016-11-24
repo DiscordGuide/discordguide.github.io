@@ -1,6 +1,6 @@
 ## Mobile Guides
 
-Due to the difficulty in writing these, we havent finished these for the public yet!
+Due to the difficulty in writing these, we haven't finished these for the public yet!
 
 Feel free to offer suggestions for what should have here to Jet#0038
 It's very hard to write guides for something you don't use **;_;**
@@ -11,11 +11,8 @@ We will try to get these online as soon as possible eitherway!
 
 **Thanks for your support as always \<3**
 
-## Android (v3.1.8)
-
-Here is a little GIF walkthrough of the Android version v3.1.8 on Android 6.0 w/ EMUI 4.0.1.
-
-[![2016-11-24 11_39_38.gif](https://s12.postimg.org/e6tw32ail/2016_11_24_11_39_38.gif)](https://postimg.org/image/bcqqpm8c9/)
+## Android
+In the presentation, Discord v3.1.8 running in Android 6.0 with [EMUI](http://emui.huawei.com/en/) 4.0.1 is used. Download from [here](https://play.google.com/store/apps/details?id=com.discord). Also, join the beta testing squad [here](https://play.google.com/apps/testing/com.discord).
 
 ### Sidebar
 <img src="https://cdn.discordapp.com/attachments/251445450454859777/251446813163388928/Screenshot_2016-11-24-15-38-41.png" width="240"> <img src="https://cdn.discordapp.com/attachments/251445450454859777/251446838673014784/Screenshot_2016-11-24-15-38-47.png" width="240"> <img src="https://cdn.discordapp.com/attachments/251445450454859777/251446867513180170/Screenshot_2016-11-24-15-38-53.png" width="240">
