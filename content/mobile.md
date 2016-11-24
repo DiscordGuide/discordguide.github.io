@@ -27,7 +27,7 @@ By clicking at ![Friends icon](https://cdn.discordapp.com/attachments/2171129096
 By clicking at your avatar at the bottom, you can change your status (right). You can also mute/deafen yourself, or change your [user settings](#user-settings), using the buttons in the right.
 
 #### Friend List
-Open the left sidebar. Click on "Friends" at the top of the [sidebar](#sidebar). You will see your online friends, by default.
+Open the left sidebar. Click ![Friends icon](https://cdn.discordapp.com/attachments/217112909610876928/251397025642446849/Screen_Shot_2016-11-24_at_12.21.40_PM.png), then "Friends" at the top of the [sidebar](#sidebar). You will see your online friends, by default.
 
 * You can check all your friends / pending friend requests / suggestions / blocked users at the top.
 * **!!!** When you click on a friend, instead of showing the [chat dialog](#chat-dialog) in PC versions, it will show the [profile](#profile).
