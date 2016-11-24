@@ -18,7 +18,7 @@ Here is a little GIF walkthrough of the Android version v3.1.8 on Android 6.0 w/
 [![2016-11-24 11_39_38.gif](https://s12.postimg.org/e6tw32ail/2016_11_24_11_39_38.gif)](https://postimg.org/image/bcqqpm8c9/)
 
 #### Sidebar
-![Friend display](https://cdn.discordapp.com/attachments/217112909610876928/251390185076555777/Screenshot_2016-11-24-11-54-05.png) ![Server display](https://cdn.discordapp.com/attachments/217112909610876928/251390128679944192/Screenshot_2016-11-24-11-54-17.png)
+<img src="https://cdn.discordapp.com/attachments/217112909610876928/251390185076555777/Screenshot_2016-11-24-11-54-05.png" width="360"> <img src="https://cdn.discordapp.com/attachments/217112909610876928/251390128679944192/Screenshot_2016-11-24-11-54-17.png" width="360">
 
 By clicking at ![Friends icon](https://cdn.discordapp.com/attachments/217112909610876928/251397025642446849/Screen_Shot_2016-11-24_at_12.21.40_PM.png) or any DM and private group, you will reach the Friend display (left). Otherwise, you will reach the Server display (right).
 
