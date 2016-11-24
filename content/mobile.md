@@ -38,6 +38,6 @@ Open the left sidebar. Click ![Friends icon](https://cdn.discordapp.com/attachme
 Same as the PC version.
 
 #### Chat Dialog
-<img src="https://cdn.discordapp.com/attachments/217112909610876928/251439922874023947/Screenshot_2016-11-24-15-10-29.png" width="240"> <img src="https://cdn.discordapp.com/attachments/217112909610876928/251439958760488960/Screenshot_2016-11-24-15-10-13.png" width="240"> <img src="https://cdn.discordapp.com/attachments/217112909610876928/251440150494576660/Screenshot_2016-11-24-15-13-03.png" width="240">
+<img src="https://cdn.discordapp.com/attachments/251445450454859777/251445501226909696/Screenshot_2016-11-24-15-34-13.png" width="240"> <img src="https://cdn.discordapp.com/attachments/251445450454859777/251445656961417216/Screenshot_2016-11-24-15-35-00.png" width="240"> <img src="https://cdn.discordapp.com/attachments/251445450454859777/251445683725271050/Screenshot_2016-11-24-15-35-06.png" width="240">
 
 Same as the PC version. When displaying messages of a channel, you can swipe to the left for the member list (right).
