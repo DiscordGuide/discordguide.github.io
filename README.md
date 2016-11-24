@@ -2,7 +2,7 @@
 # Discord Guides #
 ### Assistance with the world of discord #
 
-If you are curious about the guides, check out our [server](https://discord.gg/h67TkHf) and [site](httpL//discordguide.us) .
+If you are curious about the guides, check out our [server](https://discord.gg/h67TkHf) and [site](http://discordguide.us) .
 
 If you are looking for a pastrami bagel... you're out of luck.
 
