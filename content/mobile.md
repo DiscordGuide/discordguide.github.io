@@ -9,7 +9,7 @@ If you want to join the team, and help write these... how about you just message
 
 We will try to get these online as soon as possible eitherway!
 
-**Thanks for your support as always <3**
+**Thanks for your support as always \<3**
 
 ### Android (v3.1.8)
 
@@ -18,7 +18,7 @@ Here is a little GIF walkthrough of the Android version v3.1.8 on Android 6.0 w/
 [![2016-11-24 11_39_38.gif](https://s12.postimg.org/e6tw32ail/2016_11_24_11_39_38.gif)](https://postimg.org/image/bcqqpm8c9/)
 
 #### Sidebar
-<img src="https://cdn.discordapp.com/attachments/217112909610876928/251390185076555777/Screenshot_2016-11-24-11-54-05.png" width="240"> <img src="https://cdn.discordapp.com/attachments/217112909610876928/251390128679944192/Screenshot_2016-11-24-11-54-17.png" width="240"> <img src="https://cdn.discordapp.com/attachments/217112909610876928/251401404629909505/Screenshot_2016-11-24-12-39-16.png" width="240">
+<img src="https://cdn.discordapp.com/attachments/251445450454859777/251446813163388928/Screenshot_2016-11-24-15-38-41.png" width="240"> <img src="https://cdn.discordapp.com/attachments/251445450454859777/251446838673014784/Screenshot_2016-11-24-15-38-47.png" width="240"> <img src="https://cdn.discordapp.com/attachments/251445450454859777/251446867513180170/Screenshot_2016-11-24-15-38-53.png" width="240">
 
 To open sidebar, you can swipe the screen to the right, or you can click the 3-line button at the upper-left corner.
 
