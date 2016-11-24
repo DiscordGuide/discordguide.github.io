@@ -18,7 +18,7 @@ Here is a little GIF walkthrough of the Android version v3.1.8 on Android 6.0 w/
 [![2016-11-24 11_39_38.gif](https://s12.postimg.org/e6tw32ail/2016_11_24_11_39_38.gif)](https://postimg.org/image/bcqqpm8c9/)
 
 #### Sidebar
-<img src="https://cdn.discordapp.com/attachments/217112909610876928/251390185076555777/Screenshot_2016-11-24-11-54-05.png" width="240"><img src="https://cdn.discordapp.com/attachments/217112909610876928/251390128679944192/Screenshot_2016-11-24-11-54-17.png" width="240"> <img src="https://cdn.discordapp.com/attachments/217112909610876928/251401404629909505/Screenshot_2016-11-24-12-39-16.png" width="240">
+<img src="https://cdn.discordapp.com/attachments/217112909610876928/251390185076555777/Screenshot_2016-11-24-11-54-05.png" width="240"> <img src="https://cdn.discordapp.com/attachments/217112909610876928/251390128679944192/Screenshot_2016-11-24-11-54-17.png" width="240"> <img src="https://cdn.discordapp.com/attachments/217112909610876928/251401404629909505/Screenshot_2016-11-24-12-39-16.png" width="240">
 
 To open sidebar, you can swipe the screen to the right, or you can click the 3-line button at the upper-left corner.
 
@@ -33,6 +33,6 @@ Open the left sidebar. Click on "Friends" at the top of the [sidebar](#sidebar).
 * **!!!** When you click on a friend, instead of showing the [chat dialog](#chat-dialog) in PC versions, it will show the [profile](#profile).
 
 #### Profile
-<img src="https://cdn.discordapp.com/attachments/217112909610876928/251400323674013697/Screenshot_2016-11-24-12-23-59.png" width="240"><img src="https://cdn.discordapp.com/attachments/217112909610876928/251400356477665281/Screenshot_2016-11-24-12-24-05.png" width="240"><img src="https://cdn.discordapp.com/attachments/217112909610876928/251400399070691329/Screenshot_2016-11-24-12-24-08.png" width="240">
+<img src="https://cdn.discordapp.com/attachments/217112909610876928/251400323674013697/Screenshot_2016-11-24-12-23-59.png" width="240"> <img src="https://cdn.discordapp.com/attachments/217112909610876928/251400356477665281/Screenshot_2016-11-24-12-24-05.png" width="240"> <img src="https://cdn.discordapp.com/attachments/217112909610876928/251400399070691329/Screenshot_2016-11-24-12-24-08.png" width="240">
 
 Same as the PC version.
