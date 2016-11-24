@@ -87,7 +87,7 @@ What I suggest doing is looking over the languages you know or can learn and dec
 
 **Etc...**
 
-The list really goes on for days, you can find all the frequently used ones on the discord API server on the top of the resource guide, when it comes out. Every channel below the information channels is different coding language libraries, such as discord.py or discord.js.
+The list really goes on for days. You can find the officially-vetted library list [here](https://discordapp.com/developers/docs/topics/libraries), or the unofficial list [here](https://discordapi.com/unofficial/libs.html)
 
 
 #### Bot Accounts
