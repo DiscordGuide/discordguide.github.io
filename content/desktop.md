@@ -185,4 +185,4 @@ I will post more examples in the Server Management guides but these channels sho
 
 **If you have any questions so far, just ask the server!**
 
-**If not head on down to the Server Management guides for more server advice, or the Bot guide for your Bot related information!**
+**If not head on down to the [Server Management guides](http://discordguide.us/#/server-management) for more server advice, or the Bot guide for your Bot related information!**

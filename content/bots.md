@@ -18,16 +18,11 @@ Yeah Bots, those funny programs you see doing all sorts of things all around Dis
 “What are the types of bots?” You might ask, well I gave a rough idea in the server guides but here we’ll go a bit more in-depth.
 
 
-  • Interface Bots:
-These are bots that manage channels, add roles, kick people, and make sure people are following rules or allow you to deal with people who aren’t.
+* Interface Bots: These are bots that manage channels, add roles, kick people, and make sure people are following rules or allow you to deal with people who aren’t.
 
+* Text Bots: This breed of bot serves the purpose of posting messages, such as Cleverbot or a bot that replies to commands with a preset message. These bots are good for rule channels and having mindless dialogue.
 
- • Text Bots:
-This breed of bot serves the purpose of posting messages, such as Cleverbot or a bot that replies to commands with a preset message. These bots are good for rule channels and having mindless dialogue.
-
-
- • Data Bots:
-Data Bots… these bots record and send, or receive and record information. A bot like these could track people streaming on twitch, updates to a GitHub repo or give you stats on your server on a central site… as well as listing your server as mentioned in the server guides!
+* Data Bots: These bots record and send, or receive and record information. A bot like these could track people streaming on twitch, updates to a GitHub repo or give you stats on your server on a central site… as well as listing your server as mentioned in the server guides!
 
 #### Creativity with Bots
 
@@ -47,16 +42,13 @@ Compiling a list of these for your pleasure later! Come back when I notify you g
 
 **Keep scrolling for information on starting the process to making your own bots!**
 
-
 ## Bot Development
-
 
 **Well**, you’ve made it this far.
 
 Am I assuming now you want to know the basics of making your future bot?
 
 Let’s just dive right on in!
-
 
 #### Ideas and Goal
 
@@ -68,6 +60,7 @@ So what you need to do is check around and see what other bots can do and then f
 
 You need to decide what you want it to do, every bot and every coding language have things it is better at.
 
+Since Discord bot market is expanding extremely fast, it is harder to make a bot standing there. Before you start making a global bot, you should consider about your ability to provide support and deal with pressure (Specifically, anti-bullying abilities). You should also consider about posibility of reaching your goal. *I am serious.*
 
 #### Coding Languages/Libraries
 
@@ -81,20 +74,20 @@ So to start off you’ll need to decide what language you plan to use, if you do
 
 What I suggest doing is looking over the languages you know or can learn and decide where to go from there. 
 **Like:** 
-* **discord.js** is a Javascript library 
+* **discord.js** is a Javascript library (More accurately, node.js)
 * **discord.py** is a python library 
 * **discord.go** is a golang library
 
 **Etc...**
 
-The list really goes on for days. You can find the officially-vetted library list [here](https://discordapp.com/developers/docs/topics/libraries), or the unofficial list [here](https://discordapi.com/unofficial/libs.html)
+The list really goes on for days. You can find the officially-vetted library list [here](https://discordapp.com/developers/docs/topics/libraries), or the unofficial list [here](https://discordapi.com/unofficial/libs.html).
 
 
 #### Bot Accounts
 
 _“I DECIDED ON MY LANGUAGE, WHAT NOW?”_ Well now is the time to begin your bot experience.
 
-The fancy place where you make a bot is the “Developers” tab on the discord website **(You need to be logged in on browser version)** You head into _My Applications_ and you should see this.
+The fancy place where you make a bot is the “Developers” tab on the discord website **(You need to be logged in on browser version)** You head into [_My Applications_](https://discordapp.com/developers/applications/me) and you should see this.
 
 ![](https://i.imgur.com/rkLTlMk.png)
 
@@ -118,7 +111,7 @@ You can click save, and then you want to click “Create a Bot User”
 
 This bot user will be the actual “Bot” (No you can’t choose the discrim. The name is whatever your App name was.)
 
-Once that is done your bots account has been made. From here you just need to take your “Client ID” and put in in this link where it says CLIENT ID https://discordapp.com/oauth2/authorize?&client_id=CLIENT ID&scope=bot This will allow you to add it to a server.
+Once that is done your bots account has been made. Go to [Discord Permissions Calculator](https://discordapi.com/permissions.html), insert your client ID in the box at the bottom of the page, and choose what default permissions you want users to give your bot. **Only add minimum permissions! Also, avoid adding Administrator permission!** Then you'll get a nice, neat link.
 
 Your bot isn’t done yet, but to finish it you have to go get help!
 
@@ -138,7 +131,9 @@ Well, once you are down the road making your bot you have to worry about other f
 
 Hosting a bot isn't just have the code made. You also have to have some sort of host running the bot, such as your computer or a server (VPS) running the bot. The better the uptime of your bot, the more people who will be interested in it... no one wants a bot that is down frequently.
 
-Hosting a bot on your computer isn't smart if you plan to have it on multiple servers, or if it uses a lot of your CPU. Bots are just like any other program on your computer, THEY WON'T RUN BY THEMSELVES. You have to turn them on, update them, and make sure they run.
+If you want to spend the least money on your bot, you can use [Heroku](http://heroku.com). You need to add your credit card (Depends on your bank, it may cost you $1, one-time fee) so that you can get 1000 uptime hours a month (You don't need to buy a plan: The 1000 hours are free). For further deployment, refer to [Heroku guide](https://devcenter.heroku.com/start). If you want your bot 24/7, go to [UptimeRobot](http://uptimerobot.com) and set up a robot that pings your application every 5 minutes.
+
+Hosting a bot on your computer isn't smart if you plan to have it on multiple servers, or if it uses a lot of your CPU. Bots are just like any other program on your computer, THEY WON'T RUN BY THEMSELVES. You have to turn them on, update them, and make sure they run. You also need to keep your computer awake.
 
 **This has been how to start making a bot, and where to go once you’ve made it past the basics.**
 

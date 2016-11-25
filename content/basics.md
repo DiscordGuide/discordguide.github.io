@@ -50,6 +50,7 @@ This allows more private conversations with friends.
 
 So you've noticed people have profiles? Well, these profiles allow us to learn more about the user we are looking at. 
 Features of the profile include:
+
 * Notes (small sections on profiles where you can write stuff about them for reference)
 * Connections (twitter, youtube, twitch, steam, battle.net, and league of legends)
 * Mutual Servers (seeing servers you share with the other person)
@@ -71,7 +72,7 @@ Well if you are here, that is obviously not you!
 Here we are in the next guide, "User Settings", which will cover your... User Settings. These names are pretty self-explanatory, aren't they? 
 
 _Just zoom in on the images if needed_
-If you have questions or need more details, ask the server!
+If you have questions or need more details, ask in the server!
 
 #### _Your Account_ #
 
@@ -82,7 +83,7 @@ So first of all, to get into your user settings your need to click the gear by y
 Once you've done that a window should pop up, the first tab on it is called "Account" this is your basic account settings. Your profile picture, username, email, and password.
 
 ![](https://i.imgur.com/lbiyxrT.png)
-You use this to setup your personal details.
+You can use this to setup your personal details.
 
 #### _Connections_ #
 
@@ -94,6 +95,8 @@ These allow friends to easier find you on/from those!
 #### _Friends_ #
 
 This section allows you to choose who can friend you, and how easily it is for them to friend you. This also could allow you to make it to where no one can friend you!
+
+*Note: Allowing friend requests by Email address is no longer available, and the respective setting has been removed.*
 
 ![](https://i.imgur.com/y6kLDLb.png)
 
@@ -142,6 +145,8 @@ The magical Games area. This allows you to view games you've played or that are 
 The overlay is what happens when you play a game, do you want discord to be able to show during the game? How do you want it to show? What notifications? and size.
 Useful for gamers who still like to chat and check their servers.
 
+**Overlay is only available in Windows**
+
 ![](https://i.imgur.com/9RN2j2l.png)
 
 #### _Locale_ #
@@ -161,7 +166,7 @@ This allows you to turn on the mode which tells discord to look for you streamin
 #### _Security_ #
 
 Security, the big thing on discord. 
-To avoid hackers you can enable 2FA (Two Factor Authentication) which can help prevent people from breaking into your account. 
+To avoid hackers you can enable 2FA (Two Factor Authentication) which can help prevent people from breaking into your account. For detailed description on 2FA, [click here](http://discordguide.us/#/resources/em2faem).
 
 ![](https://i.imgur.com/JsWlYQ3.png)
 
