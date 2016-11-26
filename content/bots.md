@@ -131,8 +131,6 @@ Well, once you are down the road making your bot you have to worry about other f
 
 Hosting a bot isn't just have the code made. You also have to have some sort of host running the bot, such as your computer or a server (VPS) running the bot. The better the uptime of your bot, the more people who will be interested in it... no one wants a bot that is down frequently.
 
-If you want to spend the least money on your bot, you can use [Heroku](http://heroku.com). You need to add your credit card (Depends on your bank, it may cost you $1, one-time fee) so that you can get 1000 uptime hours a month (You don't need to buy a plan: The 1000 hours are free). For further deployment, refer to [Heroku guide](https://devcenter.heroku.com/start). If you want your bot 24/7, go to [UptimeRobot](http://uptimerobot.com) and set up a robot that pings your application every 5 minutes.
-
 Hosting a bot on your computer isn't smart if you plan to have it on multiple servers, or if it uses a lot of your CPU. Bots are just like any other program on your computer, THEY WON'T RUN BY THEMSELVES. You have to turn them on, update them, and make sure they run. You also need to keep your computer awake.
 
 **This has been how to start making a bot, and where to go once you’ve made it past the basics.**
