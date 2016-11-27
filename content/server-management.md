@@ -200,13 +200,6 @@ _`*`_ Server lists
 * [Discord Server List](http://discord.me/list) (Ask an admin)
 * [Server Central](https://discord.gg/tNBd92m) (#submit-a-server)
 * [The Portal](https://discord.gg/6HtGJ98) (Ask an user in the role "Server Owners" or "Portal Mods" to submit)
-* [Transfer Station](https://discord.gg/PcJKPrd) (Post in #channel-links or #18plus)
-* [United Server Listings](https://discord.gg/GM2AqsR) (#submit-server)
-* [ServerCave](https://discord.gg/C3jtppz) (Ask a mod)
-
-**Other**
-
-* [An iOS app](https://itunes.apple.com/ca/app/server-list-for-discord/id1148794691?mt=8)
 
 ### Members
 The last piece is members.
