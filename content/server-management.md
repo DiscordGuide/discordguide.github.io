@@ -8,22 +8,21 @@ Here are all our tips and tricks to getting your server **just right.**
 
 By now you should have some members joining, and gotten a good grasp of what you are doing. These will help you for later down the road, or even things you may just decide to add.
 
-**Server Settings**
+### Server Settings
 
 So these are a bit more basic and I could probably add them earlier, but by now you know your way around enough to do these things.
 
 Look at your "Overview" tab on "Server Settings"
 
-**"Verification Levels"** these are the levels of being able to send a message if a user doesn't meet these they cannot send messages to the server. 
-**(This is canceled out by roles, so be careful when giving out roles to new people!)**
+* **"Verification Levels"** are the levels of being able to send a message if a user doesn't meet these they cannot send messages to the server.  **(This is canceled out by roles, so be careful when giving out roles to new people!)**
 
-**"Default Notifications"** Good practice for this is to have these set to "@mentions only" so that way people aren't spammed with every message.
+* **"Default Notifications"**: Good practice for this is to have these set to "@mentions only" so that way people aren't spammed with every message.
 
-**"AFK channel"** this is where people go when they go AFK for a certain amount of time, moving them off one Voice Channel and into another you decide is the AFK channel.
+* **"AFK channel"** is where people go when they go AFK for a certain amount of time, moving them off one Voice Channel and into another you decide is the AFK channel.
 
-**"Location"** the location of your server changes how the Voice Channels work, and how good reception your members have. Most worldwide servers use US-East as a default area, if your server is more specific then you can set it for your area. 
+* The **"Location"** location of your server changes how the Voice Channels work, and how good reception your members have. Most worldwide servers use US-East as a default area, if your server is more specific then you can set it for your area. 
 
-  **Limbo Rooms and Limbo Servers**
+* **Limbo Rooms and Limbo Servers**
 
 You are probably like, "What."
 
@@ -39,7 +38,7 @@ This is a good use for 42 who has the `+giveme` command.
 ![](https://i.imgur.com/KXk2G1f.png)
   This is a great tool for making private servers you don't want anyone joining if they are stuck on a dead-end channel they'll eventually either get kicked or leave.
 
-**Inactivity Penalties**
+* **Inactivity Penalties aka. Prune Members**
 
 This is one of the fun features in Discord, the Inactivity penalties. 
 
@@ -50,18 +49,18 @@ On your "Server Settings" you should see a tab named "Members" at the bottom is 
   This allows you to remove members who don't contribute anything to the server.
 
 
-**Bans List**
+* **Bans List**
 
 The bans list tab on "Server Settings" is pretty self-explanatory. You can ban/unban people using this, and the member list tab allows you to kick, ban, or even give your Ownership of the server over to any other member.
 
 
-**Instant Invites**
+* **Instant Invites**
 
 This tab on "Server Settings" allows you to cancel any invite link made, or see how many members each one has been used to get for the server. 
 This is great for tracking statistics, and seeing who has done a lot of recruiting.
 
 
-**Voice Chat Magic**
+* **Voice Chat Magic**
 Your voice chat causes glitching? or maybe it's fine but you want it better?
 
 Well on the Voice Chat you can decide maximum member limits, and decide the MBPS for the Voice Channel. The higher the MBPS, the higher the quality (and lag) the lower, the lesser the quality (and lag)
@@ -86,7 +85,7 @@ A lot of servers try to base things only on a unique concept and don’t establi
 This is what I want to try to help you guys fix, or prepare for.
 
 
-**Idea and Concept**
+### Idea and Concept
 I may sound like a broken record, but don’t run away!
 
 The whole point of your server is key, you need to have an appealing idea with a well-made concept.
@@ -95,7 +94,7 @@ If you are just like “OH I WANT A FANDOM SERVER!!!!!!!” and don’t put the 
 It isn’t as easy as just making the server ?? 
 
 
-**Organization**
+### Organization
 
 Sorry but… a sloppily organized server first of all just doesn't look nice, next of all it’s just plain hard to function.
 
@@ -105,7 +104,7 @@ Organized server? Here’s an example in my mind
 ![](https://cdn.discordapp.com/attachments/232881527002759168/233363353387401216/unknown.png)
 
 
-**Communication**
+### Communication
 
 So the next few are kinda about your staff and member relations.
 
@@ -113,7 +112,7 @@ Communication is big, letting your members know about updates and making sure yo
 I myself like to know what’s going on, and if I am in a server without communication… I rarely will stay.
 
 
-**Understanding**
+### Understanding
 
 Understanding? This means a lot. Not just understanding what you're doing with your server but understanding the members.
 
@@ -121,7 +120,7 @@ You need to be able to be open to feedback from your members, and improve as new
 Sure the staff comes up with stuff, most of them use or used Discord as server members, **BUT** we say what we want to see and they try to meet that. Server owners can learn a lot from that.
 
 
-**Trust**
+### Trust
 
 No staff team is perfect, but finding those you trust… what happens if you vanish? Who’ll run things?
 And your permissions? Who can you trust to do what?
@@ -145,14 +144,14 @@ Remember, help is offered on the server, suggestions are always loved too.
 So we went over the basics and all that jazz… let’s talk growth.
 
 
-**Ideals**
+### Ideals
 Well, guess we’re back to this! Not really, this is slightly different.
 
 “Ideals? What are those…?” 
 Well… where do you want your server to go? What are your dreams for this server? 44,000 members? Or maybe just 40? Getting an image of where you want to go is the core of your growth.
 
 
-**Content and Ability**
+### Content and Ability
 
 What **content** is on your server? Do you have lots of unique ideas and strong guidelines? Do you have people interested in the channels on your server?
 
@@ -161,7 +160,7 @@ How is your **Ability** as an Owner? How well is your server setup? How much do 
 Having these two working together will give people a reason to join, while your Ideals decides what you're going for.
 
 
-**Advertisement**
+### Advertisement
 There are SO MANY WAYS to advertise.
 
 Ever heard of server lists? Well, Discord has quite a few.
@@ -171,17 +170,38 @@ _`*`_ Bot to Site lists
 _`*`_ Server lists
    Server’s that allow you to post, or ask them to post your server in categories or on one large list.
 
-**I will show you a few examples below: Please remember there are WAY MORE THAN THIS**
-  _`*`_ Discord Server List (https://www.discordservers.com) **BOT**
-![](https://i.imgur.com/jC9SXYC.png)
-  _`*`_ ServerHound (https://www.discordlist.net) **BOT**
-![](https://i.imgur.com/B2kp4ZH.png)
-  _`*`_ The Portal (https://discord.gg/6HtGJ98) **server**
-![](https://i.imgur.com/Ep2lEqk.png)
-  _`*`_ Discord Server List (https://discord.gg/ptg4XSK) **server**
-![](https://i.imgur.com/gaAShB1.png)
+#### List of all advertising platforms
+**Websites**
 
-**Members**
+* [Discord Servers](http://discservs.co)
+  * Largest
+  * Server owners can bump every 6 hours
+* [Discord.me](http://discord.me)
+  * Second-Largest, Most traffic
+  * Server owners can bump every 6 hours
+  * Free custom link for invites
+* [DiscordList.net](http://discordlist.net)
+  * Server owners can bump every 4 hour for free
+* [DiscordList.me](http://discordlist.me)
+  * Server owners can bump every 6 hours
+  * Free custom link for invites
+  * Server members can vote for servers (using the + button)
+* [Discordea.me](http://discordea.me)
+  * **Website in Spanish**
+  * Free custom links for invites
+* [Discord Server Hub](http://discord.shoutwiki.com/wiki/Server_List)
+  * Server owners can create custom pages, support images and fonts
+  * **Manual** Submission using request pages
+* [DiscordList.com](http://discordlist.com)
+  * **Manual** Submission by GitHub pull request
+  
+**Servers**
+
+* [Discord Server List](http://discord.me/list) (Ask an admin)
+* [Server Central](https://discord.gg/tNBd92m) (#submit-a-server)
+* [The Portal](https://discord.gg/6HtGJ98) (Ask an user in the role "Server Owners" or "Portal Mods" to submit)
+
+### Members
 The last piece is members.
 
 No server can grow without members, which means you need to have a member base.

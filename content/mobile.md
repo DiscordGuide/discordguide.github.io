@@ -1,6 +1,6 @@
 ## Mobile Guides
 
-Due to the difficulty in writing these, we havent finished these for the public yet!
+Due to the difficulty in writing these, we haven't finished these for the public yet!
 
 Feel free to offer suggestions for what should have here to Jet#0038
 It's very hard to write guides for something you don't use **;_;**
@@ -9,4 +9,4 @@ If you want to join the team, and help write these... how about you just message
 
 We will try to get these online as soon as possible eitherway!
 
-**Thanks for your support as always <3**
+**Thanks for your support as always \<3**

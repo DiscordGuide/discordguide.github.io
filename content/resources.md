@@ -74,7 +74,7 @@ Your normal messages can hold 2000 characters (letters/spaces/symbols)
 
 You are judged on your user icons. **fun fact**
 
-You can’t be more famous than Alabahahahaha and B1nzy unless you are Voltana.
+You can’t be more famous than abalabahaha and B1nzy unless you are Voltana.
 
 Discord was made/launched in March 2015
 
@@ -91,19 +91,15 @@ Why cant we be friends? Because I’m too busy.
 So have you ever seen people highlight, cross through, italicize, or bold their words?
 Well here I get to show you how this is done.
 
-Discord makes all these work using some funny symbol combinations: This functions off Highlight js
-Get a full list at [**this site**]()
+Discord makes all these work using some funny symbol combinations, using Markdown:
 
-![](https://cdn.discordapp.com/attachments/232878512502079488/232919505825693696/unknown.png)
+![](https://cdn.discordapp.com/attachments/232878512502079488/232919815847673856/unknown.png)
   
 Wait... what about programming languages? You are saying you can make these boxes (last one) show the programming code with different colors in order to help developers?
- 
- ![](https://cdn.discordapp.com/attachments/232878512502079488/232919815847673856/unknown.png)
 
-above are three examples for discord.js, discord.py, and ruby.
-These obviously aren’t all of the different kinds of boxes, but you saw quite a few!
+![](https://cdn.discordapp.com/attachments/232878512502079488/232919505825693696/unknown.png)
 
-**We will be adding to this to give you guys a full list and examples as soon as possible!**
+Here are three examples for javascript, python, and ruby. A list of accepted languages is available [here](https://highlightjs.org/static/demo/). You can also see how the code is colored by choosing "Solarized Dark" from "Styles" on the left sidebar of that page.
 
 Next?
 
@@ -125,7 +121,7 @@ Pictures?
 _Pictures are fun._
 Something I like to do for my servers is put banners on my welcome channels with clear backgrounds so they blend in. 
 
-A good site for making these is [http://www197.lunapic.com/] just go to "Edit" and then Transparent! (Make sure the background is a solid color)
+A good site for making these is http://www197.lunapic.com/. Just go to "Edit" and then Transparent! (Make sure the background is a solid color)
 
 Sadly, i'm not a picture expert so I can't say much more... but this can be handy when doing custom emotes like I discuss below!
 
