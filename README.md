@@ -22,7 +22,3 @@ Well of course we want to grow and spread, but our main goal is to provide help 
 We want to be a hub of discord activity that everyone enjoys, and where people can find ideas and help.
 
 **We want to be an all around nice place to be.**
-
-• [Dyno]()
-
-This bot isn't exactly new... but it sure is growing fast! This is a bot only second to Botwinder, in my opinion. This bot can be a bit tricky, but the dev and its staff work hard to see it prosper! You can rely on the fact that this bot will stay around and try to steal the crown as Lord Bot all mighty!
