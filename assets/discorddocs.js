@@ -110,15 +110,16 @@ $(function(){
 
 	// Documents list, a markdown file with serialized name must exist in the
 	// /content/ directory with .md file extension
-	// Example: "Basics" -> /content/basics.md
+	// Example: "Desktop" -> /content/desktop.md
 	var documents = [
-		'Index',
-		'Basics',
+		'Index', // This one won't show in the header :eyes:
 		'Desktop',
 		'Mobile',
-		'Server Management',
+		'Servers',
 		'Bots',
-		'Resources'
+		'Development',
+		'Resources',
+		'Manual' // This one won't show in the header :eyes:
 	];
 
 	/**
