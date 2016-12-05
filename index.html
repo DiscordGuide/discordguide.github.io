@@ -7,30 +7,63 @@
     <meta content="IE=edge" http-equiv=X-UA-Compatible>
     <meta content="width=device-width,initial-scale=1" name=viewport>
     <meta content="Discord Support, and Guides from users to you!" name="description">
-    <meta content="Discord Guide Help Omni DiscordApp Help Support Video" name="keywords">
+    <meta content="Discord Guide Help Omni Support Help Videos DiscordApp" name="keywords">
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://discordguide.us" />
     <meta property="og:site_name" content="Discord Guides" />
     <meta property="og:title" content="Guides for Discord" />
-    <meta property="og:image" content="http://i.imgur.com/2SavNHu.png" />
+    <meta property="og:image" content="https://i.imgur.com/2SavNHu.png" />
     <!-- Icon -->
     <link href=assets/discord-logo-blue-png.png rel="shortcut icon">
     <!-- Extras -->
     <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="assets/normal.css" />
     <link rel="stylesheet" href="assets/style.css" />
+    <meta name=viewport content="width=device-width, initial-scale=1">
 </head>
 
 <body class="is-discord">
     <nav class="nav">
-        <a href="#/index">
             <div class="logo-container">
                 <div class="logo-class">
+                    <a href="#/index">
                     <img src="assets/custom-logo.png" class="guide-logo">
+                    </a>
                 </div>
+                
+                <button type="button" class="hamburger is-closed animated fadeInLeft" data-toggle="offcanvas">
+            <span class="hamb-top"></span>
+            <span class="hamb-middle"></span>
+            <span class="hamb-bottom"></span>
+          </button>
+                <nav class="navbar navbar-inverse navbar-fixed-top" id="sidebar-wrapper" role="navigation">
+            <ul class="nav sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="#">
+                       Discord Guide
+                    </a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-fw fa-home"></i> Home</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-fw fa-folder"></i> Page one</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-fw fa-file-o"></i> Second page</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-fw fa-cog"></i> Third page</a>
+                </li>
+                
+                <li>
+                    <a href="#"><i class="fa fa-fw fa-bank"></i> Page four</a>
+                </li>
+            </ul>
+        </nav>
+                
             </div>
-        </a>
         <div class="centered">
             <div class="nav-projects">
                 <a class="nav-project nav-project-discord active" href="#">
@@ -53,6 +86,7 @@
         </div>
     </nav>
 
+    
     <div class="hero hero-oneline">
         <div class="hero-centered">
             <h1>Discord Guides</h1>
@@ -61,7 +95,7 @@
             </div>
         </div>
     </div>
-    <div class="discord-content">
+    <div class="discord-content dcc">
         <div class="docs">
             <div id="js-anchor-bar" class="docs-nav"></div>
             <div id="js-docs-content" class="docs-content">
@@ -152,6 +186,44 @@
     <script src="assets/jquery.min.js"></script>
     <script src="assets/marked.min.js"></script>
     <script src="assets/discorddocs.js"></script>
+    <script>
+    $(document).ready(function () {
+  var trigger = $('.hamburger'),
+      overlay = $('.overlay'),
+     isClosed = false;
+
+    trigger.click(function () {
+      hamburger_cross();      
+    });
+
+    function hamburger_cross() {
+
+      if (isClosed == true) {          
+        overlay.hide();
+        trigger.removeClass('is-open');
+        trigger.addClass('is-closed');
+        isClosed = false;
+      } else {   
+        overlay.show();
+        trigger.removeClass('is-closed');
+        trigger.addClass('is-open');
+        isClosed = true;
+      }
+  }
+  
+  $('[data-toggle="offcanvas"]').click(function () {
+        $('#wrapper').toggleClass('toggled');
+  });  
+});
+    </script>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-87697105-1', 'auto');
+  ga('send', 'pageview');
+</script>
 </body>
 
 </html>
