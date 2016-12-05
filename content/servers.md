@@ -163,7 +163,7 @@ A suspended channel is pretty easy to make, remember how you set those staff roo
 Every channel in the server requires a base channel to see, and not having those limit you to seeing the welcome channel and a channel where you can request to join the rest of the server; some servers even have bots you can use to give yourself the role to get out. 
 This is a good use for botwinder who has the !join command!
 
-![](NEW IMAGE FOR BOTWINDER JOIN COMMAND)
+![](http://i.imgur.com/7yEXXOf.png)
 
 Suspended channels and servers allow you to keep things private and keep a better grasp on who has what permissions and who can join. Unless YOU or a Staff approve it... they can't do anything at all.
 
@@ -190,7 +190,11 @@ The bans list tab on "Server Settings" is pretty self-explanatory.
 
 You can ban/unban people using this, and the member list tab allows you to kick, ban, or even give your Ownership of the server over to any other member. If a user is inactive, you'll be able to prune them using the button near the middle at the bottom.
 
-![](Insert Image of Member list)
+* Member List
+![](http://i.imgur.com/H6InShF.png)
+
+* Ban List
+![](http://i.imgur.com/9xnoK9T.png)
 
 You probably shouldn't play with this channel too much if you don't know what you are doing.
 
@@ -334,10 +338,10 @@ Ever heard of server lists? Well, Discord has quite a few.
 ![](http://i.imgur.com/gaAShB1.png)
 
 [Discord Server Central]() **server**
-![](INSERT SC IMAGE)
+![](http://i.imgur.com/Z1h4syV.png)
 
 [Discord United Servers]() **server**
-![](INSERT USL IMAGE)
+![](http://i.imgur.com/o4u0F1N.png)
 
 #### _Members_
 
