@@ -1,7 +1,209 @@
-# Desktop Guides
+# **Desktop Basics** #
 
-**These are the guides to using Discord on Desktop, mostly focused around servers.**
+**Hello!** This is the first section, the basics of Discord... on the Desktop!
 
+I will cover some stuff in the tutorial as well as some other basic information that isn't included. Writing a guide to discord was a big task, but the goal is to make discord easier to use for everyone!
+
+_(Most of the content is for Client instead of the Browser... I will mention what is/isn't when I get to that point.)_
+
+#### **Introduction** #
+So what is Discord? Discord is a site/program that is basically a network of rooms that connect together like building blocks or legos. You can stack them in different orders, pick which ones you choose to add to your list and remove ones you don’t want anymore. Each server (chat room) is like a specific lego creation: the permissions are different blocks and it all ties together to create this amazing chat site.
+I think of Discord like a house with all it’s various rooms, and your designing how you want it to be laid out!
+
+So you are probably wondering, "What are you going to cover in an Intro to discord?"
+Well, I thought I could cover the basics, and go over all the features you have outside servers.
+
+First of all, do you have an account with Discord? If not you want to drop by [Discords Site](https://www.DiscordApp.com/register) this link will take you to the account login/creation page! Another way you can do this is by clicking the join server button in the top corner! This will take you to creating an account, and then directly to our server!
+
+When you do click our link it'll show something kinda like this.
+![](http://i.imgur.com/nbTc6rd.jpg)
+
+Just enter a name, and verify you are a human!
+
+![](http://i.imgur.com/e5Qj9X8.jpg)
+
+Once you've created an account Discord has a tutorial like thing that goes through how to do some basic things, and shows you a screen that will let you set a profile picture! Go through this before coming back to this guide!
+
+![](http://i.imgur.com/vmZc0LE.jpg)
+
+then you have this page!
+
+![](http://i.imgur.com/RJmMmMF.jpg)
+
+Once you are verified, and have downloaded the client you can use that instead: The Client allows you more customization with settings, and some fun features. You wont fully be able to use Discord until you have a client for Desktop and/or Mobile.
+
+Now discord is offering to have you download the client since you are verified! The client comes with loads of more features than Browser.
+
+![](http://i.imgur.com/GZViVYo.jpg)
+
+then just go through the download, and install it.
+
+Just make sure you go back to your email and finish verifying! You could lose your account if you don't, you couldn't log back into it!
+
+![](http://i.imgur.com/1AfJIRF.jpg)
+
+**Now you are ready to learn the basics!**
+_Some users don't download the client, and keep using the Browser... this is fine, you just get less features and different fonts!_
+
+#### _Direct Messaging_ ####
+
+So the first thing you'll notice on discord is you can directly message people.
+Upon joining discord, if you didn't follow a server link you'll be staring at a blank channel saying you have no friends and no messages... how sad. **;_;**
+
+Upon joining servers you can friend people and when you right click people on PC it'll allow you to 'DM' them, this is Direct Message or as it called on other chat rooms 'Private Messaging' or 'Whispers' this allows you to talk to people with no one else reading.
+
+![](https://i.imgur.com/rLKglH0.jpg)
+
+If you are looking for a server to join right off the bat, just eye the server link in our top right corner! [(Or Click me!)](https://discord.gg/zXsAHTd)
+
+This means you now have a server you are in! Feel free to read through stuff, and talk to us! If you need help, just use #support
+
+#### _Friend Requests_ #
+
+The second thing that stands out on your discord when you join is the Friend area. As you go around discord meeting people, your friend's list allows you to more easily keep track of those people who you connect with or work on stuff with. 
+
+Perks: Being friends with someone gives you some special perks
+* You can message them even if you don't share servers!
+* You can get some cool abilities to do stuff with them. Like Group Direct Messaging!
+
+![](http://i.imgur.com/DV5Oskg.png)
+
+#### _Group Direct Messaging_ #
+
+So you are in servers, but what if you want to **just** message 2 or 3 people and have no one else involved? Well if all of them are your friends you can add them to a "Group Message" which is like a small server that is moderated by whoever made it!
+
+This allows more private conversations with friends. (Remember... people in it can add more people!)
+
+![](http://i.imgur.com/8wCdQoJ.png)
+
+#### _Profiles_ #
+
+So you've noticed people have profiles? Well, these profiles allow us to learn more about the user we are looking at. 
+Features of the profile include:
+* Notes (small sections on profiles where you can write stuff about them for reference)
+* Connections (twitter, youtube, twitch, steam, battle.net, and league of legends)
+* Mutual Servers (seeing servers you share with the other person)
+* Mutual Friends (seeing friends you share with the other person)
+* Issue Response (Blocking, Reporting, and Removing them as friends)
+
+![](http://i.imgur.com/BOaeFa8.png)
+
+**This was a basic overview of all the discord features outside of servers.**
+
+**For the guide on all your user settings and settings just keep scrolling where I will discuss how to setup your account and from there do much more on Discord!**
+
+---
+
+## **Desktop User Settings!** #
+
+**Ain't nobody gonna make me use the instruction manual for nothing, bertha!**
+Well if you are here, that is obviously not you! 
+
+Here we are in the next guide, "User Settings", which will cover your... User Settings. These names are pretty self-explanatory, aren't they? 
+
+_Just zoom in on the images if needed_
+If you have questions or need more details, ask the server!
+
+#### _Your Account_ #
+
+So first of all, to get into your user settings your need to click the gear by your name at the bottom left of your screen.
+
+![](https://cdn.discordapp.com/attachments/232878406302171138/232897610636066816/unknown.png)
+
+Once you've done that a window should pop up, the first tab on it is called "Account" this is your basic account settings. Your profile picture, username, email, and password.
+
+![](http://i.imgur.com/lbiyxrT.png)
+You use this to setup your personal details.
+
+#### _Connections_ #
+
+Connections are your connections between your account and media. These include Twitch, YouTube, Battle.net, Skype, League of Legends, and Steam.
+These allow friends to easier find you on/from those!
+
+![](http://i.imgur.com/dIywWkf.png)
+
+#### _Friends_ #
+
+This section allows you to choose who can friend you, and how easily it is for them to friend you. This also could allow you to make it to where no one can friend you!
+
+On Desktop to add a friend just left click their name and...
+![](https://i.imgur.com/7aESvKy.png)
+
+#### _Text & Images_ #
+
+These settings allow you to customize what text and images do for your discord; like whether links show sites or images, whether emojis automatically get made from typing faces, and text to speech (TTS) playback.
+
+![](http://i.imgur.com/cdLCmLo.png)
+
+#### _Voice_ #
+
+These are your basic and advanced voice settings. You can decide input and output levels and other voice options like input sensitivity.
+
+![](http://i.imgur.com/WUlQ2dU.png)
+
+#### _Notifications_ #
+
+Notifications? Well duh! these are the beeps, pings, noises, and flashes your discord does for things! This also allows you to decide if Text-To-Speech plays or not.
+
+![](INSERT NEW IMG LINK)
+I consider this one of the most important areas of the User Settings.
+
+
+#### _Keybinds_ #
+
+Keybinds are different key commands you can use to do different things on discord, such as enable streamer mode or mute yourself. 
+
+These are super useful if you don't want to manually do everything.
+
+![](http://i.imgur.com/Ojcc26d.png)
+
+#### _Appearance_ #
+
+This is my **favorite** user setting. This allows you to change how Discord looks and allows you to use Discord Developer mode (which allows you to copy user and message IDs, this helps with bot development i)
+
+![](http://i.imgur.com/CcQI0jI.png)
+
+#### _Games_ #
+
+The magical Games area. This allows you to view games you've played or that are on your computer and even rename some. Something a lot of people like to do is rename their games to something funny or something that has a meaning for them. (I do this to explain what I'm doing or working on usually)
+
+![](http://i.imgur.com/sCvpJha.png)
+
+#### _Overlay_ #
+
+The overlay is what happens when you play a game, do you want discord to be able to show during the game? How do you want it to show? What notifications? and size.
+Useful for gamers who still like to chat and check their servers.
+
+![](http://i.imgur.com/9RN2j2l.png)
+
+#### _Locale_ #
+
+Locale is a big area for lagging and voice chat settings. 
+Your locale tells what language you are in and area, your location here will respond better with similar/same locations. 
+
+In server this is huge, based on where the server is located will change your connection to the server. Most international servers do US-EAST as the main Location because it makes the server closer to more people.
+
+![](http://i.imgur.com/B6fxHNd.png)
+
+#### _Streamer Mode_ #
+
+Streamer mode is useful for those of us who like to stream to different media platforms. A lot of twitch streamers use discord so this is a big thing. When you stream it shows your icon as purple and shows what you are streaming or where you are streaming instead of your game.
+This allows you to turn on the mode which tells discord to look for you streaming.
+
+![](http://i.imgur.com/WsXMUBm.png)
+
+#### _Security_ #
+
+Security, the big thing on discord. 
+To avoid hackers you can enable 2FA (Two Factor Authentication) which can help prevent people from breaking into your account.
+
+For detailed description on 2FA, [click here](http://discordguide.us/#/resources/em2faem).
+
+![](http://i.imgur.com/JsWlYQ3.png)
+
+#### _Changelog_ #
+
+This is the orange words at the bottom of the tab list which have the recent update information!
 
 ## **Creating a Server**
 
@@ -10,19 +212,19 @@
 Creating a server can seem like a HUGE thing, but it has some pretty basic steps. A lot of how your server will do depends on how well it is set-up. Your idea, goal, and how well it is made are the keys to the server.
 
 
-#### _Step One_
+* Step One
 
 The first step in creating a server is coming up with an idea. Your magical dream server won't actually get anywhere until you can decide what to do with it. Servers tend to take off if the idea is unique and appealing than if it is something more common and has nothing attractive about it to potential members. **(People don't usually join just because you ask nicely, I've tried it)**
 
 
-#### _Step Two_
+* Step Two
 
 Have that idea? Awesome! Time for Step Two!
 
 The second step in creating this magical thing is finding a few friends interested in the idea, run it past some people and see what they think. If enough people like it, then you can move to Step Three! Remember, member base is what makes most servers run!
 
 
-#### _Step Three_
+* Step Three
 
 _Friends gave ya that Golden-Seal-Of-Approval!_
 
@@ -41,148 +243,8 @@ Once it's all done click the Create and... WOW! Here's your server!
 
 ![](https://cdn.discordapp.com/attachments/232878564045881347/232936034856337408/unknown.png) 
 
-Now head on down the page for the next steps!
+**Now head on down the page for the next steps!**
 
+**Hope this guide helped, and please keep reading if you need to learn anything else!**
 
-## **Setting Up**
-
-
-**Huh?** _What!?!?!? It's time already!?_
-
-Fineeee, time to setup your beautiful server you created in the last guide!
-
-Setting up a server is a good thing to do before even inviting anyone. Having a clean nice look with all your roles and channels in place makes the server **WAY** more appealing when your friends and future members join this creation of yours!
-
-
-#### Setting up Roles
-
-So you are at the screen shown in the above image, where everything's all blank ?
-
-From here go to the three lines icon by the server name, and click them 
-
-![](https://i.imgur.com/tWs8Rks.png)
-then click "Server Settings" and BOOM you have this popup where you can edit almost everything on your server in one place. 
-
-![](https://i.imgur.com/0IbY7Vb.png)
-
-From here the first thing I normally do is click **Roles** (this is what I'll show you right now) 
-
-![](https://i.imgur.com/WnYu3ca.png)
-
-Roles are what decide what everyone on your server can do, from simple things like Emotes to major things like being able to edit the whole server.
-
-Common roles I add as shown above are "Admin" "Mod" "Member" and "Visitor" these allow you to decide who has what permissions. The basic idea for these roles are…
-
-*   An "Admin" will have all permissions, this is someone you trust to control anything on the server.
-*   A "Mod" will have message remove permissions, etc. This is someone you expect to help control any potential behavioral issues.
-*   "Member" someone who can maybe post pictures and links, while others cannot.
-*   "Visitor" someone who hasn't been around long enough to be the other roles.
-
-This role system allows you to keep the chat functioning without you, and have a benefits system for good behavior. Some servers are super specific or are for Roleplay and have roles built around that system but almost all servers have Admins, Mods, and Member type roles.
-
-
-#### Setting up Channels
-
-Now you got your roles figured out, here's the tricky part... **Channels**
-
-Channels are where your members actually talk, this is where all the action happens. Each Channel has permissions you can set, and you can name them for their purposes.
-
-Whether someone can or cannot do something goes in a specific order, it goes the "`@everyone`" permission first, then their specific role, and then their personal permissions. Example: if "everyone" has _denied read messages_, "Mod" has a _allow read messages_ but "Example Name" who has the "Mod" role has _deny read messages_, then "Example Name" will not see that channel.
-
-Setting up the permissions look a lot similar to roles 
-
-![](https://i.imgur.com/8yNOEoQ.png)
-
-there are slight differences, but not much you'll notice. 
-
-![](https://i.imgur.com/sxduMR1.png)
-
-
-#### Setting up Voice Channels
-
-Voice channels? They are pretty much the same as Text channels except... instead of messaging permissions, this has voice permissions.
-
-The row you saw missing from Text? Those go here. 
-
-![](https://i.imgur.com/pY5Ak6c.png)
-
-These permissions allow certain roles to be able to talk/hear on voice chat, or even mute/deafen others.
-
-**Mute** **:** Can't talk on VC. **Deafen** **:** Can't hear on VC. **Move** **:** Can move a person from one VC to the other.
-
-This ties a lot into music bots, but I'll explain that in the Bot guides ??
-
-**For all channels remember this...**
-![](https://i.imgur.com/zxJqkt4.png)
-
-
-## **Basic Server Information**
-
-**Wait... Oh server info now...**
-Hey, welcome to basic server information!
-
-Now that you have a setup server, and got your basic roles going let's look at some more setup you can do!
-
-
-#### Checking your Roles
-
-So let's say you are making a server for a fandom, each different character you might like is a separate role with that fandom characters' favorite color. How would you put all these together and keep a good role order?
-
-Should your roles look like this? 
-
-![](https://i.imgur.com/yEEFHAC.png)
-
-**No!** That picture shows a messy role setup that would make a hierarchy impossible, to keep a server functioning well you need a nice order to be set up, usually.
-If you are going for some organization, that wouldn’t do well for you.
-
-A good way to do this is to put leadership roles on the top, and then you can organize the other by color, or even by alphabet. (OCD people... I feel your pain)
-
-Once you've done this, it'll probably look like this. 
-
-![](https://i.imgur.com/49tYxrO.png)
-
-It's important that roles like "Admin" "Mod" and other leadership roles are at/near the top, a Moderator with a role below everyone else wouldn't be able to do anything besides delete messages and mute people on Voice Chat. The permissions system works in order, the higher the role, the higher the authority **NO MATTER WHAT PERMISSIONS ARE CLICKED**
-
-If Admin has "Administrator" clicked, and Mod has "Manage Roles" clicked, but Admin is below Mod, then Mod can just give themselves Admin and Admin can't do anything to stop them. 
-
-The "Administrator" permission is like clicking all of them, (so you don't need to click them all) but it doesn't allow people to skip the order of the roles.
-
-
-#### Checking your Channels
-
-Your channels permissions are also major as I said before, any role without "Administrator" permission clicked will have to follow any permissions set any channel. 
-
-You could make Mod have every permission except "Administrator" but if the channels block all of them then the Mod is useless on that channel. 
-
-![](https://i.imgur.com/sxduMR1.png)
-
-A good practice on channels is to not add every role specifically, just set the roles permissions and then on each channel just click view for everyone and leave the rest of them Blank, not an X or a Check. This means all the permissions will be set exactly how they are in the roles. 
-
-![](https://i.imgur.com/ZMw5wF4.png)
-
-The above is only a problem if you make a hidden channel, like a Moderators only channel. 
-To do this simply unclick view for everyone and click view on Moderators/Admins. 
-
-Making one of these channels is one of the exceptions to the "You shouldn't manually add each role." rule. Manually setting these is usually smarter, so for example mods can't delete other mods messages in this channel. 
-
-![](https://i.imgur.com/cAPul1s.png)
-
-
-#### Checking your Voice Channels
-
-Voice Channels can be a bit trickier than regular Channels, but the idea is pretty much the same. 
-You shouldn't have to worry about any of the permissions as long as it isn't restricted to a role if it is then you have to add all the roles that can access it. (Like a staff, or via voice chat)
-
-
-#### Rules and Welcome
-
-This is a basic thing on a server, every server should have a Rules and Welcome unless the server is based around chaos, like a meme or shitpost server. 
-The only reason I wouldn’t is if the rules are super obvious, or if you have none.
-
-![](https://i.imgur.com/SVZ9Ej4.png)
-
-I will post more examples in the Server Management guides but these channels should only allow Admins and you, the owner, to talk. This allows you to post rules everyone can see. 
-
-**If you have any questions so far, just ask the server!**
-
-**If not head on down to the [Server Management guides](http://discordguide.us/#/server-management) for more server advice, or the Bot guide for your Bot related information!**
+**Check out the desktop guides for more on servers or Bots for bot stuff!**

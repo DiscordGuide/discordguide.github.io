@@ -20,6 +20,8 @@ These are resources for various things across discord.
 
 [**Discord Beta Testing**](https://discord.gg/discord-testers) The server for testing new discord content, and reporting bugs with it!
 
+[**Discord API**](https://discord.gg/discord-api) The official, unofficial, server of the Discord API! Home of Discord Coding.
+
 [**Discord Game Night**](https://discord.gg/gamenight) The fun party night server ran by a mix of staff, and the community. A nice place to hang out.
 
 **RESOURCE SERVERS**
@@ -42,7 +44,7 @@ These are resources for various things across discord.
 
 **BOT RESOURCES**
 
-*Sites and Servers that can help with your descent into bots (madness)*
+*Sites and Servers that can help with your descent into bots/coding (madness)*
 
 [**Cheese.lab Academy**](https://discord.gg/academy) The land of cheese, a place to get help with coding from people who do it daily!
 
@@ -172,28 +174,6 @@ To do these just click your icon on the bottom left on Desktop and Voila!
 
 You're probably wondering what's gonna be here... I decided to cover some of the less used or less common features on Discord...
 I thought _"Hey! These things should probably have a guide since I'm already doing this."_ and no one decided to stop me. 
-
-So here we go. First let's start with my favorite mode of all!
-
-#### _Developer Mode_ #
-
-**Here we are again,** I briefly touched on this during the User Settings, but I feel it is important to know about this tool.
-
-Developer mode allows a user to grab the IDs of any object in Discord, from message to user, from bot to channel. These ID's allow easy access shortcuts to channels, and mentioning a user.
-
-![](http://i.imgur.com/viZYSnL.png)
-
-Just click that option on the user, BOOM you copied there ID.
-
-Once you have an ID you can do a few things with it.
-
-![](http://i.imgur.com/kwwY9u7.png)
-
-So as it says, <#INSERT ID> will mention a channel, and <@INSERT ID> will mention a user. These will work **no matter where you are** but if someone doesn't share a server with that user, or have that server with that channel... it'll just look like <#CHANNEL-ID> not #channel.
-
-Developer mode can be fun, and is very useful for bots and trying to report spammers but... there is no but.
-
-Keep on down the list for more stuff!
 
 #### _Key Commands_ #
 

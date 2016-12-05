@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>404!?</title>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="assets/normal.css" />
+    <link rel="stylesheet" href="assets/style.css" />
+    <link rel="icon" href="assets/discord-logo-blue-png.png" />
+</head>
+
+<body class="is-discord">
+    <nav class="nav">
+        <a href="index.html">
+            <div class="logo-container">
+                <div class="logo-class">
+                    <img src="assets/custom-logo.png" class="guide-logo">
+                </div>
+            </div>
+        </a>
+        <div class="centered">
+            <div class="nav-projects">
+                <a class="nav-project nav-project-discord" href="index">
+                     The
+                     <br/>Guides
+                </a>
+                <a class="nav-project nav-project-discord-pservers" href="partners">
+                     Our
+                    <br/>Servers
+                </a>
+            </div>
+            <div class="nav-pages">
+
+                <a href="staff">Staff</a>
+
+                <a href="https://discord.gg/zXsAHTd">Server</a>
+
+                <a href="https://github.com/DiscordGuide">Github</a>
+            </div>
+        </div>
+    </nav>
+
+    <header class="hero hero-discord-bodyy">
+        <div class="centered">
+            <div class="hero-title">
+                <h1>Nothing here! <span>404</span></h1>
+                <h2>Seems like you searched for your soul.</h2>
+            </div>
+        </div>
+    </header>
+    <!-- Core Tab -->
+    <div id="Core" class="tabcontent">
+        <div class="staff-builds">
+            <div class="row center">
+                404
+            </div>
+        </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script>
+        function openCity(evt, cityName) {
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+            tablinks = document.getElementsByClassName("tablinks");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" staff-tab-active", "");
+            }
+            document.getElementById(cityName).style.display = "block";
+            evt.currentTarget.className += " staff-tab-active";
+        }
+
+        // Get the element with id="defaultOpen" and click on it
+        document.getElementById("defaultOpen").click();
+    </script>
+</body>
+
+</html>
