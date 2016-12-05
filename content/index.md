@@ -1,38 +1,33 @@
-# Welcome
+# Hello there!
 
 ### Welcome to the **Discord Guide** 
-Whether you are new to Discord, or a long time user... we are beyond happy you could visit us today!
+Whether you are new to Discord or a long time user, we are glad you could visit today!
 
 **What are we?**
-This is a community ran project on Discord!
-We are a service ran discord users, like you, to help all people who may use Discord.
 
-Our goal is to give everyone a place to enjoy, and find help with whatever they need help with when it comes to Discord... or even some things that are unrelated!
-Our 24/7 support team, and other users in the community, are always here to help you!
+We are a community ran project on Discord! Our goal is to be a friendly community where you find help with [Discord](https://discordapp.com) from a users perspective.
 
-**What are these _Guides_ I see...?**
-Our guides are our way of giving to the community, a way to help users with direct access to information. If you want to contribute to the process, please contact Jet#0038 on the server.
+**What are these _Guides_ I see?**
 
-_I think that about wraps it up!_
+Our guides are our way of giving to the community, a way to help users with direct access to information. 
 
-So please feel free to take alook through the guides you'll see above or visit our [server](https://discord.gg/zXsAHTd).
+**Our guides are as follows...** _You can find all the guides listed below on the blue toolbar at the top!_
 
-**Our guides are as follows...**
-_You can find all the guides listed below on the blue toolbar at the top!_
+* **Desktop Guides** are the details of using Discord on Desktop, this stops after the Basics.
 
-* **Basics Guides** are the Basics to Discord, on Desktop or Mobile clients.
+* **Mobile Guides** go over Mobile Discord, such as the Basics or even basic stuff like Servers on Mobile.
 
-* **Desktop Guides** are the details of using Discord on Desktop, mostly focused on Servers.
+* **Server Guides** go over Servers, this section is mostly focused towards Desktop... but in general it is about improving your server!
 
-* **Mobile Guides** are the uses of Mobile Discord for Servers, and what is different between it and the Desktop clients.
+* **Bot Guides** go over the different types of bots in Discord, and how you might use them in a server! (Development covers the actual making of a bot)
 
-* **Bot Guides** go over the different types of bots in Discord, and how you might use them. We also cover the basics of making a bot.
+* **Development Guides** cover different development tools, and things you can do with bots. Think of this as the basic tutorials to Bots, VPS's, and a little about similar resources.
 
 * **Resource Guides** involve the resources on Discord, and tricks to using Discord. This somewhat includes our Video guides which can also be found at our [Youtube](https://www.youtube.com/channel/UCP5vVXFrOsIvh9vw_mOFTMg).
 
 
-If you have any other questions, or feel you can contribute to our efforts then please join the support server mentioned above and talk to our staff. 
+If you have any other questions, please visit our [server](https://discord.gg/zXsAHTd). 
 
-We don't bite, only the wumpus bites.
+If you want to contribute to the process, just contact an Admin. _We don't bite, only the wumpus bites._
 ### _Have a beautiful time on Discord._
 ![](https://i.imgur.com/LGVlCsq.png)

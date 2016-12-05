@@ -205,13 +205,46 @@ For detailed description on 2FA, [click here](http://discordguide.us/#/resources
 
 This is the orange words at the bottom of the tab list which have the recent update information!
 
+## **Creating a Server**
+
+**_Hello there!_** Today I'm gonna show you guys how to create a server!
+
+Creating a server can seem like a HUGE thing, but it has some pretty basic steps. A lot of how your server will do depends on how well it is set-up. Your idea, goal, and how well it is made are the keys to the server.
+
+
+* Step One
+
+The first step in creating a server is coming up with an idea. Your magical dream server won't actually get anywhere until you can decide what to do with it. Servers tend to take off if the idea is unique and appealing than if it is something more common and has nothing attractive about it to potential members. **(People don't usually join just because you ask nicely, I've tried it)**
+
+
+* Step Two
+
+Have that idea? Awesome! Time for Step Two!
+
+The second step in creating this magical thing is finding a few friends interested in the idea, run it past some people and see what they think. If enough people like it, then you can move to Step Three! Remember, member base is what makes most servers run!
+
+
+* Step Three
+
+_Friends gave ya that Golden-Seal-Of-Approval!_
+
+The third step is pretty simple, find the + circle at the bottom of your server list as shown below
+![](https://cdn.discordapp.com/attachments/232878564045881347/232934806885761024/unknown.png) 
+
+once you find that circle click it, and this tab should pop up
+
+![](https://cdn.discordapp.com/attachments/232878564045881347/232935814055591936/unknown.png) 
+
+from here simply click create, fill out the name, and click the circle where letters appear as you type the name to choose an icon 
+
+![](https://cdn.discordapp.com/attachments/232878564045881347/232935971665084416/unknown.png) 
+
+Once it's all done click the Create and... WOW! Here's your server!
+
+![](https://cdn.discordapp.com/attachments/232878564045881347/232936034856337408/unknown.png) 
+
+**Now head on down the page for the next steps!**
+
 **Hope this guide helped, and please keep reading if you need to learn anything else!**
 
 **Check out the desktop guides for more on servers or Bots for bot stuff!**
-
-# **Mobile Basics**
-
-**Sorry but right this content isn't avaliable yet, but it will be soon!
-If you have suggestions for what should be included, or want to help write these... please contact an Admin on the Discord Server.**
-
----

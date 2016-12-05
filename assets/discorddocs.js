@@ -112,14 +112,13 @@ $(function(){
 	// /content/ directory with .md file extension
 	// Example: "Basics" -> /content/basics.md
 	var documents = [
-		'Index', // This one won't show in the header :eyes:
+		'Index',
 		'Basics',
 		'Desktop',
 		'Mobile',
 		'Server Management',
 		'Bots',
-		'Resources',
-		'Manual' // This one won't show in the header :eyes:
+		'Resources'
 	];
 
 	/**
@@ -135,7 +134,7 @@ $(function(){
 	// Populate guide index area in the page header
 	var index = document.getElementById('js-docs-index');
 	for (var i = 0; i < documents.length; i++) {
-		if (documents[i] === 'Index' || documents[i] === 'Manual') continue;
+		if (documents[i] === 'Index') continue;
 		index.innerHTML = index.innerHTML + '<li><a id="js-docs-index-' + serialize(documents[i]) + '" href="#/' + serialize(documents[i]) + '" class="tablinks">' + documents[i] + '</a></li>';
 	}
 
@@ -234,7 +233,7 @@ $(function(){
 
 			// Update the tablinks state
 			for (var i = 0; i < documents.length; i++) {
-				if (documents[i] === 'Index' || documents[i] === 'Manual') continue;
+				if (documents[i] === 'Index') continue;
 				document.getElementById('js-docs-index-' + serialize(documents[i])).className = 'tablinks' + (h[0] === serialize(documents[i]) ? ' staff-tab-active' : '');
 			}
 
