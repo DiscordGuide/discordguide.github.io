@@ -74,36 +74,8 @@ We know we have our recommended bots and all... but how about some interesting g
 
 We know it isn't as easy and just adding a bot and it suddenly knowing what you want it to do, so how about we help you with some bot basics! **User Interface to the rescue!**
 
-### _Aethex_
+We're still writing these, bear with us!
 
-The king of all bots!, not really. The high powered Aethex.
-
-### _Botwinder_
-
-Mod bot extraordinare.
-
-### _TypicalBot_
-
-A typical bot that isn't so typical...
-
-### _DynoBot_
-
-I'm a dynosaur, rawrsies. 
-
-### _Mee6_
-
-Mr. Meeseeks!
-
-### _KawaiiBot_
-
-Just a really cute bot, ayyyy?
-
-### _FredBoat_
-
-Fred**boat**, because it isn't a yacht yet.
-
-### _PvPcraft_
-
-Last but not least is this old rusty pile, PvPcraft!
+---
 
 If you have any more questions, please free to ask in our support server or if it's related to the bots... just ask at their support servers!
