@@ -4,7 +4,7 @@
 
 _We will cover policy, the staff inner-workings (Chain of Command, and Departments) as well as the different guideslines for roles._
 
-Make sure you are in our [Staff Server](https://discord.gg/), this is where we handle Interviews, Evaluations, and Staff Training.
+Make sure you are in our [Staff Server](https://discord.gg/6aZrPgB), this is where we handle Interviews, Evaluations, and Staff Training.
 
 On the same note, all staff channels will be moving over to this server as well, we don't want to cram your channel list with a ton of servers... but we want to make sure we have a clean main server!
 
