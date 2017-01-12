@@ -497,3 +497,5 @@ One of the key things for handling member behavior is a mod bot, they allow your
 **Alright, hope this guide helped! We still have more to add, but please give us suggestions if you feel we need to add stuff.**
 
 _Maybe you’re a seasoned pro and don't need to read the other guides? Always able to talk to us about staff positions!_
+
+**P.S. Some Discord Dev words of wisdom... [ratelimit](https://blog.discordapp.com/how-to-get-the-most-out-of-your-community-server/).**
