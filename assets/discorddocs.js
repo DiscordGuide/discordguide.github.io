@@ -118,7 +118,7 @@ $(function(){
 		'Servers',
 		'Bots',
 		'Development',
-		'Resources',
+		'Tools',
 		'Manual' // This one won't show in the header :eyes:
 	];
 
