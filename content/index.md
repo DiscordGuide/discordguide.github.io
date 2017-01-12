@@ -8,7 +8,7 @@ I'm glad to see you here at our site today!
 Well, we are Discord Guide! Discord Guide is a Discord Partnered Community-ran project on [DiscordApp](https://discordapp.com)
 What we do is we provide content, and support for how to utilize Disord.
 
-![](http://i.imgur.com/WhRsySd.png)
+![](http://i.imgur.com/okvUjXI.png)
 
 **What content do you guys provide...?**
 
@@ -61,4 +61,4 @@ If you know a way to help that I didn't say above, just contact "Jet#0038" in th
 * [**Discord Game Night**](https://discord.gg/gamenight) The fun party night server ran by a mix of staff, and the community. A nice place to hang out... let's use our *brain power*.
 
 **If you have any questions please us know!**
-![](https://i.imgur.com/LGVlCsq.png)
+![](https://discordapp.com/assets/8b2623dcfd6bbf07e6a6b8f8402cd21f.png)
