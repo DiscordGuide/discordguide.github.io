@@ -1,4 +1,4 @@
-# DiscordGuides.us #
+# DiscordGuide.us #
 ### Assistance with the world of DiscordApp #
 
 If you are curious about the guides, check out our [server](https://discord.gg/zXsAHTd) and [site](https://discordguide.us) .
