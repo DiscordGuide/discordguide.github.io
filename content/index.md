@@ -1,33 +1,64 @@
-# Hello there!
+# Welcome!
 
-### Welcome to the **Discord Guide** 
-Whether you are new to Discord or a long time user, we are glad you could visit today!
+### Welcome everyone!
+I'm glad to see you here at our site today!
 
-**What are we?**
+**So what is this?**
 
-We are a community ran project on Discord! Our goal is to be a friendly community where you find help with [Discord](https://discordapp.com) from a users perspective.
+Well, we are Discord Guide! Discord Guide is a Discord Partnered Community-ran project on [DiscordApp](https://discordapp.com)
+What we do is we provide content, and support for how to utilize Disord.
 
-**What are these _Guides_ I see?**
+![](http://i.imgur.com/WhRsySd.png)
 
-Our guides are our way of giving to the community, a way to help users with direct access to information. 
+**What content do you guys provide...?**
 
-**Our guides are as follows...** _You can find all the guides listed below on the blue toolbar at the top!_
+To put it simply; Guides.
+We have guides to teach new users the basics of their user settings, more advanced tricks that allow you to format text or setup 2fa, and server guides which are a server owners best friend!
+On top of our existing guides for the UI, we have guides that cover development; This is setting up bots, and projects on Discord. 
 
-* **Desktop Guides** are the details of using Discord on Desktop, this stops after the Basics.
+We want everyone to know the tips to reign supreme!
 
-* **Mobile Guides** go over Mobile Discord, such as the Basics or even basic stuff like Servers on Mobile.
+**So why do you guys do this?**
 
-* **Server Guides** go over Servers, this section is mostly focused towards Desktop... but in general it is about improving your server!
+Well, the answer to this is a lot simpler than you might expect. 
+We don't do this for profit; We are a free service that has no paid services. The only payment is donations, we give extra perks and early content for donating but that isn't our main focus. (Donating allows us to handle domain costs as well as hosting for our bots.)
 
-* **Bot Guides** go over the different types of bots in Discord, and how you might use them in a server! (Development covers the actual making of a bot)
+**So do I get involved?**
 
-* **Development Guides** cover different development tools, and things you can do with bots. Think of this as the basic tutorials to Bots, VPS's, and a little about similar resources.
+Well! There are a few ways to get involved with our project!
 
-* **Resource Guides** involve the resources on Discord, and tricks to using Discord. This somewhat includes our Video guides which can also be found at our [Youtube](https://www.youtube.com/channel/UCP5vVXFrOsIvh9vw_mOFTMg).
+* If you want to get involved on the [Discord Server](https://discord.gg/zXsAHTd) you can become a Staff and help us operate, or just be a community helper. (Just Read [this page](index.html#/manual))
+
+* If you want to get involved with the guides you can just join the server and contact "Jet#0038"
+
+* If you want to get your server involved as a sponsor or supporter you can check our [network](network), we love all endorsement and our network is just our way of giving back! 
+
+* The last is donations, our [patreon]() is the place to drop all donations and help fund our project.
+
+If you know a way to help that I didn't say above, just contact "Jet#0038" in the server and we'll see what we can do!
 
 
-If you have any other questions, please visit our [server](https://discord.gg/zXsAHTd). 
+### Sites/Servers
 
-If you want to contribute to the process, just contact an Admin. _We don't bite, only the wumpus bites._
-### _Have a beautiful time on Discord._
+*The keys sites/resources for Discord help!*
+
+* [**Our Server**](https://discord.gg/zXsAHTd) This is our community/support server!
+
+* [**Our Video Guides**](https://www.youtube.com/channel/UCP5vVXFrOsIvh9vw_mOFTMg) This is our youtube, which will have our video guides soon!
+
+* [**Discord Support Site**](https://support.discordapp.com/) The mighty Discord FAQ and Support site. It's similar to this... just less step-by-step.
+
+**OFFICIAL SERVERS**
+
+*Servers manned/help run by the Discord Staff themselves*
+
+* [**Discord Developers**](https://discord.gg/discord-developers) The allmighty official server itself.
+
+* [**Discord Testers**](https://discord.gg/discord-testers) The server for testing new discord content, and reporting bugs!
+
+* [**Discord API**](https://discord.gg/discord-api) The official, unofficial, server of the Discord API! Home of Discord Coding.
+
+* [**Discord Game Night**](https://discord.gg/gamenight) The fun party night server ran by a mix of staff, and the community. A nice place to hang out... let's use our *brain power*.
+
+**If you have any questions please us know!**
 ![](https://i.imgur.com/LGVlCsq.png)
