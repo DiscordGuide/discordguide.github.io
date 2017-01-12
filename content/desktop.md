@@ -1,4 +1,4 @@
-# **Desktop Basics** #
+# **The Introduction** #
 
 **Hello!** This is the first section, the basics of Discord... on the Desktop!
 
@@ -6,14 +6,13 @@ I will cover some stuff in the tutorial as well as some other basic information 
 
 _(Most of the content is for Client instead of the Browser... I will mention what is/isn't when I get to that point.)_
 
-#### **Introduction** #
 So what is Discord? Discord is a site/program that is basically a network of rooms that connect together like building blocks or legos. You can stack them in different orders, pick which ones you choose to add to your list and remove ones you don’t want anymore. Each server (chat room) is like a specific lego creation: the permissions are different blocks and it all ties together to create this amazing chat site.
 I think of Discord like a house with all it’s various rooms, and your designing how you want it to be laid out!
 
 So you are probably wondering, "What are you going to cover in an Intro to discord?"
 Well, I thought I could cover the basics, and go over all the features you have outside servers.
 
-First of all, do you have an account with Discord? If not you want to drop by [Discords Site](https://www.DiscordApp.com/register) this link will take you to the account login/creation page! Another way you can do this is by clicking the join server button in the top corner! This will take you to creating an account, and then directly to our server!
+First of all, do you have an account with Discord? If not you want to drop by [Discord's Site](https://www.DiscordApp.com/register) this link will take you to the account login/creation page! Another way you can do this is by clicking the join server button in the top corner! This will take you to creating an account, and then directly to our server!
 
 When you do click our link it'll show something kinda like this.
 ![](http://i.imgur.com/nbTc6rd.jpg)
@@ -45,7 +44,10 @@ Just make sure you go back to your email and finish verifying! You could lose yo
 **Now you are ready to learn the basics!**
 _Some users don't download the client, and keep using the Browser... this is fine, you just get less features and different fonts!_
 
-#### _Direct Messaging_ ####
+
+#### _DM's and Friends_ ####
+
+**Direct Messaging**
 
 So the first thing you'll notice on discord is you can directly message people.
 Upon joining discord, if you didn't follow a server link you'll be staring at a blank channel saying you have no friends and no messages... how sad. **;_;**
@@ -54,11 +56,11 @@ Upon joining servers you can friend people and when you right click people on PC
 
 ![](https://i.imgur.com/rLKglH0.jpg)
 
-If you are looking for a server to join right off the bat, just eye the server link in our top right corner! [(Or Click me!)](https://discord.gg/zXsAHTd)
+If you are looking for a server to join right off the bat just eye the server link in our top right corner! or [(click me?)](https://discord.gg/zXsAHTd)
 
 This means you now have a server you are in! Feel free to read through stuff, and talk to us! If you need help, just use #support
 
-#### _Friend Requests_ #
+**Friend Requests**
 
 The second thing that stands out on your discord when you join is the Friend area. As you go around discord meeting people, your friend's list allows you to more easily keep track of those people who you connect with or work on stuff with. 
 
@@ -94,7 +96,7 @@ Features of the profile include:
 
 ---
 
-## **Desktop User Settings!** #
+## **Your User Settings!** #
 
 **Ain't nobody gonna make me use the instruction manual for nothing, bertha!**
 Well if you are here, that is obviously not you! 
@@ -117,14 +119,19 @@ You use this to setup your personal details.
 
 #### _Connections_ #
 
-Connections are your connections between your account and media. These include Twitch, YouTube, Battle.net, Skype, League of Legends, and Steam.
-These allow friends to easier find you on/from those!
+Connections are your connections between your account and media. These include Twitch, YouTube, Battle.net, Skype, League of Legends, Reddit, Skype, and Steam.
 
-![](http://i.imgur.com/dIywWkf.png)
+These allow friends to easier find you on/from those, and syncing your friends over. (Like with skype!)
+
+If one of the connections isn't working, don't worry... just keep trying and be patient! (Regular client is usually the best for connections)
+
+![](INSERT NEW IMAGE)
 
 #### _Friends_ #
 
 This section allows you to choose who can friend you, and how easily it is for them to friend you. This also could allow you to make it to where no one can friend you!
+
+We all need friends, even the wumpus. (The friends limit is 1000! Yes, they set a limit.)
 
 On Desktop to add a friend just left click their name and...
 ![](https://i.imgur.com/7aESvKy.png)
@@ -165,23 +172,25 @@ This is my **favorite** user setting. This allows you to change how Discord look
 
 #### _Games_ #
 
-The magical Games area. This allows you to view games you've played or that are on your computer and even rename some. Something a lot of people like to do is rename their games to something funny or something that has a meaning for them. (I do this to explain what I'm doing or working on usually)
+The magical Games area. This allows you to view games you've played or that are on your computer and even _rename some._ 
+
+Something a lot of people like to do is rename their games to something funny or something that has a meaning for them. (I do this to explain what I'm doing or working on usually)
+
+Just click the game name, or add one then click the name and type into the blank it gives you if you can.
 
 ![](http://i.imgur.com/sCvpJha.png)
 
 #### _Overlay_ #
 
 The overlay is what happens when you play a game, do you want discord to be able to show during the game? How do you want it to show? What notifications? and size.
-Useful for gamers who still like to chat and check their servers.
+
+Useful for gamers who still like to chat and check their servers. You can do it! **:D**
 
 ![](http://i.imgur.com/9RN2j2l.png)
 
 #### _Locale_ #
 
-Locale is a big area for lagging and voice chat settings. 
-Your locale tells what language you are in and area, your location here will respond better with similar/same locations. 
-
-In server this is huge, based on where the server is located will change your connection to the server. Most international servers do US-EAST as the main Location because it makes the server closer to more people.
+Your locale tells what language you are... who doesn't enjoy accidently clicking the wrong language and getting lost in your own client.
 
 ![](http://i.imgur.com/B6fxHNd.png)
 
@@ -190,6 +199,10 @@ In server this is huge, based on where the server is located will change your co
 Streamer mode is useful for those of us who like to stream to different media platforms. A lot of twitch streamers use discord so this is a big thing. When you stream it shows your icon as purple and shows what you are streaming or where you are streaming instead of your game.
 This allows you to turn on the mode which tells discord to look for you streaming.
 
+Connecting your account to twitch is a big step in this; if you want people to be able to find WHERE you are streaming that would be a big step. (Look above at connections)
+
+Streamer mode being on also allows your account to say you are streaming via your connected twitch account instead of it picking up the program. (This is useful if one of your staff are streaming on a Server Account for twitch, like our GuidingUs twitch account.)
+
 ![](http://i.imgur.com/WsXMUBm.png)
 
 #### _Security_ #
@@ -197,7 +210,9 @@ This allows you to turn on the mode which tells discord to look for you streamin
 Security, the big thing on discord. 
 To avoid hackers you can enable 2FA (Two Factor Authentication) which can help prevent people from breaking into your account.
 
-For detailed description on 2FA, [click here](http://discordguide.us/#/resources/em2faem).
+For detailed description on 2FA, [click here](http://discordguide.us/#/tools/em2faem) or just click Tools and look for 2fa!
+
+How you take care of your account, and preventing anyone from destroying your hard work seems important... right?
 
 ![](http://i.imgur.com/JsWlYQ3.png)
 
@@ -205,24 +220,23 @@ For detailed description on 2FA, [click here](http://discordguide.us/#/resources
 
 This is the orange words at the bottom of the tab list which have the recent update information!
 
-## **Creating a Server**
+---
+
+## **Server Basics**
 
 **_Hello there!_** Today I'm gonna show you guys how to create a server!
 
 Creating a server can seem like a HUGE thing, but it has some pretty basic steps. A lot of how your server will do depends on how well it is set-up. Your idea, goal, and how well it is made are the keys to the server.
 
-
 * Step One
 
 The first step in creating a server is coming up with an idea. Your magical dream server won't actually get anywhere until you can decide what to do with it. Servers tend to take off if the idea is unique and appealing than if it is something more common and has nothing attractive about it to potential members. **(People don't usually join just because you ask nicely, I've tried it)**
-
 
 * Step Two
 
 Have that idea? Awesome! Time for Step Two!
 
-The second step in creating this magical thing is finding a few friends interested in the idea, run it past some people and see what they think. If enough people like it, then you can move to Step Three! Remember, member base is what makes most servers run!
-
+The second step in creating this magical thing is finding a few friends interested in the idea, run it past some people and see what they think. If enough people like it, then you can move to Step Three! Remember, member base is what makes _most_ servers run!
 
 * Step Three
 
@@ -243,8 +257,35 @@ Once it's all done click the Create and... WOW! Here's your server!
 
 ![](https://cdn.discordapp.com/attachments/232878564045881347/232936034856337408/unknown.png) 
 
-**Now head on down the page for the next steps!**
 
-**Hope this guide helped, and please keep reading if you need to learn anything else!**
+## Notifications and Privacy
 
-**Check out the desktop guides for more on servers or Bots for bot stuff!**
+One more thing or two before we get rid of you... _mwahahahah!_
+
+Notifications, these are key to using servers and even setting up your own server.
+
+First off, when making a server on Server Settings change default notifications to @mentions
+![](http://i.imgur.com/7FAzeij.png)
+
+**Now for other server notifications...?**
+
+Well on every server you can click "Notifications" and "Privacy"
+![](http://i.imgur.com/H7sGpyQ.png)
+
+Clicking these should bring up these two windows where you can click/unclick stuff as needed.
+![](http://i.imgur.com/xoVusGj.png)
+
+Like... 
+* Supressing here/everyone stops you from getting red notifications from that. 
+
+* Muting the server turns all non-mention notifications off. This also goes for muting channels (but only for THAT channel you muted)
+
+* Not allowing DMs from server members means they need to share another server with you or be friends.
+
+This is all to make notifications or keeping to yourself easier. Privacy ties directly into [2FA](http://discordguide.us/#/tools/em2faem) and is all about who you want to DM you, and who you don't want to DM you.
+
+If you have any other questions about these please just ask in [our server](https://discord.gg/zXsAHTd)!
+
+---
+
+**Hope these guides helped, and please keep reading the guides if you need to learn anything else!**
