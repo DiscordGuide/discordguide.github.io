@@ -22,6 +22,8 @@ Once you have an ID you can do a few things with it...
 
 So as it says, <#INSERT ID> will mention a channel, and <@INSERT ID> will mention a user. These will work **no matter where you are** but if someone doesn't share a server with that user, or have that server with that channel... it'll just look like <#CHANNEL-ID> not #channel.
 
+(These mentions for channels still break on Mobile!)
+
 Developer mode can be fun, and is very useful for bots and trying to report spammers but... there is no but.
 
 **Now time for some real developer information, and basics!**
@@ -65,23 +67,23 @@ So to start off making your bot, you’ll need to decide what coding language yo
 One way some people learn is by reviewing open source bots on GitHub and playing with things to see how it works, but that’ll only **git** you so far. _(Hah, I made a funny)_
 
 What I suggest doing is looking over the languages you know or can learn and decide where to go from there. 
-**Like:** These are most of the public languages you can use. You can find more on the [DiscordApi Server](https://discord.gg/discord-api) 
+**Like:** (Active means the devs are actively updating and working on it)
 
-**Active means the devs are actively updating and working on it**
+All the clickable library names will take you to their specific discord server, the rest you need to go to [Discord API](http://discord.gg/discord-api) for.
 
 **.Net**
-* discord-net - An active C# library.
-* dsharpplus - A decently active C# library.
+* discord-net - An active .net library.
+* [dsharpplus](http://www.discord.gg/0oZpaYcAjfvkDuE4) - A decently active .net library.
 
 **JVM**
-* discord4j - A decently active Java library.
-* javacord - A decently active Java libary.
-* jda - A very active Java library.
+* [discord4j](https://discord.gg/NxGAeCY) - A decently active Java library.
+* [javacord](https://discord.gg/0qJ2jjyneLEgG7y3) - A decently active Java libary.
+* [jda](https://discord.gg/UMs8vgD) - A very active Java library.
 
 **Javascript**
 * eris - An active Javascript library.
-* discord.io - An active Javascript library.
-* discord.js - A very active Javascript library.
+* [discord.io](https://discord.gg/0MvHMfHcTKVVmIGP) - An active Javascript library.
+* [discord.js](https://discord.gg/bRCvFy9) - A very active Javascript library.
 * discordie - An active Javascript library.
 
 **Lua**
@@ -93,14 +95,16 @@ What I suggest doing is looking over the languages you know or can learn and dec
 * discord.py - A very active Python library.
 
 **Miscellaneous**
-* discordgo - A very active Golang library.
+* [discordgo](https://discord.gg/0f1SbxBZjYq9jLBk) - A very active Golang library.
 * swiftcord - An active Swift library.
 * discordunity - A decently active UnityScript library.
 * discordcr - An active Crystal library.
 * dscord - A very inactive D-lang library.
-* discord-dart - An active Dart library.
+* [discord-dart](https://discord.gg/6JwnkNk) - An active Dart library.
 * discord-rs - A very active Rust library.
-* discordphp - An active PHP library.
+* [discordphp](https://discord.gg/0duG4FF1ElFGUFVq) - An active PHP library.
+
+These are most of the public languages you can use. You can find more on the [Discord API server.](https://discord.gg/discord-api) 
 
 The list really goes on for days, we might've missed some... which you can find on the discord API server mentioned above. Just about every channel below the information channels are different coding language libraries, most shown above. 
 
@@ -109,7 +113,7 @@ We suggest you go in pursuit of learning how to use the base languages, before t
 
 #### _Bot Accounts_
 
-_“I DECIDED ON MY LANGUAGE, WHAT NOW?”_ Well now is the time to begin your bot experience.
+_“I decided on my language and library, what now!?”_ Well now is the time to begin your bot experience.
 
 The fancy place where you make a bot is the “Developers” tab on the discord website **(You need to be logged in on browser version)** You head into [_My Applications_](https://discordapp.com/developers/applications/me) and you should see this.
 
@@ -179,11 +183,13 @@ Due to these basics foundations, you might need to download certain files or suc
 
 When coding there are some *best practices* you should follow on Discord, some stuff is just plain rude to avoid and others will just make your life easier.
 
+(This is still in development)
+
 * Prefix's
 
 Your bot should have a prefix. A prefix is a symbol or word that goes before a command, such as **!** or **+**, All bots should have one of these because this allows people to decide when they trigger a bot command... 
 
-Say your command is **Find _____**... how would you stop it from picking up on someone saying *Find my keys* when they aren't trying to use a command...? A prefix! Now they'd have to say *!Find the dog* to use the command.
+Say your command is **Find -insert random word-**... how would you stop it from picking up on someone saying *Find my keys* when they aren't trying to use a command...? A prefix! Now they'd have to say _**!**Find the dog_ to use the command.
 
 * Compliant
 
@@ -210,147 +216,17 @@ A few good options for code editors would be things like Atom, Notepad++ (for ba
 * Notepad++
 * Brackets
 * Atom
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* Sublime
+* Visual Studio
+* IntelliJ
+* Pycharm
+* Rubymine
+* Xcode
+* Nano
+* Emacs
+* Vim
 
-This has been a little bit of a short introduction into how to get ready to code, and things you should be careful with when coding.
-
-**_(Below I have examples of code structures that will turn on the bot, and allow the command !ping to work. As for "TOKEN HERE" this means your bots token you'll find on the application when you make the bot!
-)_**
-
-#### Discord.PY
-
-Discord.py is one of the simplest libraries on Discord! Python is a pretty user friendly language, and isn't too hard to learn. A lot of python stuff is Open Source, especially Discord.py stuff... so you can practice playing with existing things in Discord.py!
-
-If you are looking for a good beginners library with a pretty friendly discord team, Discord.py is one of a few good choices!
-
-```
-import discord
-from discord.ext import commands
-
-bot = commands.Bot(command_prefix="!", description="A simple ping-pong example")
-
-@bot.event
-async def on_ready():
-    print('Logged in as')
-    print(bot.user.name)
-    print(bot.user.id)
-    print('------')
-
-@bot.command()
-async def ping():
-    await bot.say("pong")
-
-bot.run("TOKEN HERE")
-```
-
-#### Discord.JS
-
-Discord.js is another simple library on Discord! JavaScript is decently friendly, but has a very strong support team on Discord as well as devs who are devoted to maintaining it! On Discord it can be hard to find Open Source discord.js projects, but there are plenty of examples so you can mess with those and see how you like this language.
-
-This language is just all around fun to use, and is most useful with getting bots to interact through text-chat and voice-chat; such as music, or responding to messages.
-
-```
-const discord = require("discord.js");
-
-var bot = new Discord.Client();
-
-bot.on("ready", () => {
-    console.log("Ready!");
-});
-
-bot.on("message", message => {
-    if (message.content.startsWith("!ping")) {
-        message.channel.sendMessage("pong")
-            .then(res => {
-                message.channel.sendMessage(`pong ${res.timestamp-message.timestamp}ms`);
-            });
-    }
-});
-
-bot.login("TOKEN HERE");
-```
-
-#### Eris
-
-Eris is another JavaScript library, this one is very similar to discord.js but isn't the same. Eris is pretty user friendly, but you'll mostly rely on the Discord API server for help with it. It's a modified JavaScript library, not to be confused with discord.js because they don't run the same even if they are very similar.
-
-This is another fun language, it being JavaScript also. It is also useful with getting bots to interact through text-chat and voice-cat, just as discord.js is.
-
-```
-const eris = require("eris");
-
-var bot = new eris("TOKEN HERE");
-
-bot.on("ready", () => {
-    console.log("I'm ready!");
-});
-
-bot.on("messageCreate", message => {
-    message.channel.createMessage("Pong!");
-});
-
-bot.connect();
-```
-
-#### Discord.Go
-
-Discord.go is a Golang library. This one is the odd one out of the 4 listed, it is a odd library with a few requirements (such as usually only for 64 bit windows computers), but it is very useful in coding. Golang is very flexible with many options, features, and coding tools you wont find in any other language. This language has a few systems that make it almost self writing at times.
-
-This language is a pain to get to know, but beyond fun once you get past the nitty-gritty... it's one of those things you don't quite enjoy when doing it, but love what happens when you get the finished product.
-
-```
-package main
-
-import (
-	"flag"
-	"fmt"
-
-	"github.com/bwmarrin/discordgo"
-)
-
-var (
-	Token string
-	BotID string
-)
-
-func init() {
-
-	flag.StringVar(&Token, "t", "TOKEN HERE", "Bot Token")
-	flag.Parse()
-}
-
-func main() {
-	dg, err := discordgo.New("Bot " + Token)
-	if err != nil {
-		fmt.Println("error:\n", err)
-		return
-	}
-
-	dg.AddHandler(messageCreate)
-
-	err = dg.Open()
-	if err != nil {
-		fmt.Println("error:\n", err)
-		return
-	}
-
-	fmt.Println("I'm now ready!")
-	<-make(chan struct{})
-	return
-}
-
-func messageCreate(session *discordgo.Session, message *discordgo.MessageCreate) {
-	if message.Content == "!ping" {
-		_, _ = session.ChannelMessageSend(message.ChannelID, "Pong!")
-	}
-}
-```
+The list _really_ goes on, but here are some. Maybe you'll find the one you want here? If not... GOOGLE!
 
 #### VPS Basics
 
