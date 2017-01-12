@@ -1,13 +1,14 @@
 # DiscordGuides.us #
 ### Assistance with the world of DiscordApp #
 
-If you are curious about the guides, check out our [server](https://discord.gg/zXsAHTd) and [site](httpL//discordguide.us) .
+If you are curious about the guides, check out our [server](https://discord.gg/zXsAHTd) and [site](https://discordguide.us) .
 
-If you are looking for a pastrami bagel... you're out of luck, but we have guides.
+If you are looking for a pastrami bagel... you're out of luck, but we do have guides.
 
 *Guides for [Discord](https://discordapp.com)*
 
 ### Contributing
+
 If you'd like to contribute to the guides, our guides are currently stored in the
 `content` directory. Just fork, make your changes, commit them to your branch,
 and then make a pull request. Simple. 
@@ -22,3 +23,7 @@ Well of course we want to grow and spread, but our main goal is to provide help 
 We want to be a hub of discord activity that everyone enjoys, and where people can find ideas and help.
 
 **We want to be an all around nice place to be.**
+
+**Discord Partnered Project!**
+
+![](http://i.imgur.com/WhRsySd.png)
