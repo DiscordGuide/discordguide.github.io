@@ -4,21 +4,17 @@
 
 _We will cover policy, the staff inner-workings (Chain of Command, and Departments) as well as the different guideslines for roles._
 
-Make sure you are in our [Staff Server](https://discord.gg/6aZrPgB), this is where we handle Interviews, Evaluations, and Staff Training.
-
-On the same note, all staff channels will be moving over to this server as well, we don't want to cram your channel list with a ton of servers... but we want to make sure we have a clean main server!
-
 **Guide Admins**
 ```
-Jet      - General Management, and Content.
+Jet      - Public Relations, Server Affairs and Content.
 
 Luke     - Events, and Ratelimits.
+
+Akiara   - Supervision of Staff and General moderation.
 ```
 
 **Department Heads**
 ```
-Birdy    - Supervisor (Oversees the Staff, and makes sure rules are followed)   (Hiring)
-
 Cyber    - Server Geek (Handles repairing server/site errors)                  (Concept)
 
 Yeeto    - Event Coordinator (Supervises Events and Event Staff)             (Community)
@@ -27,7 +23,7 @@ TwoDog   - Public Relations (Handles our Social Media campaign)              (Co
 
 KoopaKiy - Support Trainer (Training/Support Head)                          (Assistance)
 
-Vacant   - Translator Lead (Head of Translating guides)                     (Assistance)
+Dabanya  - Translator Lead (Head of Translating guides)                     (Assistance)
 ```
 ---
 
@@ -39,7 +35,7 @@ Work Breaks
 * As a Staff you are expected to take care of yourself first, if you've been working day after day make sure you take breaks.  Overwhelming yourself leads to negative things.
 
 Activity
-* As a Staff you are expected to maintain a decent amount of activity. We understand not being super chatty, but if you cannot maintain a few messages a day, you will be demoted.
+* As a Staff you are expected to maintain a decent amount of activity. We understand not being super chatty, but if you cannot maintain normal interaction in the staff/public channels you will be demoted.
 * After a week of being semi-inactive you will be talked to, then warned/put on Pseudo, and then demotion.
 
 Grievances
@@ -81,9 +77,10 @@ The key thing to working as a staff team is following our Chain of Command; thin
 ============================
 * Admin                  1
 * Department Leads       2
+* Alpha                  2
 * Senior Staff           3
 * Staff/Psuedo           3
-* Alpha/Beta             4
+* Network/Beta           4
 * Users                  5
 ```
 
@@ -102,7 +99,7 @@ Community
 -----------
 The staff who interact with the users; Social Media, Public Relations, and Events.
 
-Concept
+Design
 -----------
 The Server Staff, and Developers; Repair Team, and Development.
 
@@ -110,7 +107,7 @@ Assistance
 -----------
 The Support and Help department; Support Staff, and Translators.
 
-Hiring
+Human Resources
 -----------
 The elite, the mighty; These are the selected people who assist with hirng/evaluations.
 ```
@@ -136,7 +133,7 @@ If you have any questions, just ask your C.O.C.
 
 ---
 
-## **Concept Manual**
+## **Design Manual**
 
 The guidelines to do's and do-not's with your jobs as Concept staff!
 
@@ -360,9 +357,11 @@ And Stan (other staff) said, "Servers are Elixir/Erland, C++. Python UI is
 React, Flux, Elctron. Voice is WebRTC with tons of mods.
 ```
 
-## **Hiring Manual**
+## **Human Resources Manual**
 
 The basics in's and out's of the Hiring process, and what we expect of you.
+
+(This is also the department that handles making sure staff are active, and Psuedo-ing/Firing staff as needed.)
 
 This process is very very important to our functioning, no departments would run without staff; so we need staff to hire the other staff. (Clever right?)
 
@@ -402,9 +401,8 @@ bearing on their general discord knowledge. The whole goal is to prove they can 
 setting up a server, using some creative idea to base it upon. We want only the best as 
 staff... right?
 
-The evaluation channel on the staff server explains more, but the basics is they are 
-given 5 channels with full control of them. They take those 5 channels and turn it into 
-a mini-server, names, roles, permissions, and content on them.
+The user creates a server inside the testing server and us, the staff, assess it.
+We can oversee and look at the work but we cannot give ideas or do the work for them.
 
 Feel the pressure.
 ```
@@ -414,13 +412,28 @@ Feel the pressure.
 ```
 So we obviously can't keep adding staff forever, but where do we cut our losses?
 
-We want aproximitely 1 staff for every 30-50 members (average of 40), this can vary
-based on whether the staff is part of Concept, Community, Assistance, or Hiring.
+We want aproximitely 1 staff for every 50-80 members (average of 100 for each support
+staff addition), this can vary based on whether the staff is part of Concept, Community,
+Assistance, or Hiring.
 
-Basicly; At 1000 users we should have 25-30 staff, the ratio should be kept as we
+Basicly; At 1000 users we should have  staff, the ratio should be kept as we
 grow... unless activity begins to drop, then the staff count will do the same.
 
 Hiring/Firing is very subjective, and depends on the circumstances.
+
+```
+
+* Psuedoing
+
+```
+Well... we obviously can't hire people and expect them to do nothing, right?
+
+So what is grounds for being put on 'Probation' or fired...?
+Well, massive inactivity (not seen for over 2 weeks) would be the first step, followed 
+by disrespecting people you're supporting, or your fellow staff. If you can't be a
+helpful and friendly personality then you won't make a good support staff.
+
+Every staff has a different attitude and approach, but we need staff who can be supportive.
 
 ```
 
