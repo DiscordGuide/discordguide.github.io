@@ -125,7 +125,7 @@ These allow friends to easier find you on/from those, and syncing your friends o
 
 If one of the connections isn't working, don't worry... just keep trying and be patient! (Regular client is usually the best for connections)
 
-![](INSERT NEW IMAGE)
+![](http://i.imgur.com/12kRSi6.png)
 
 #### _Friends_ #
 
