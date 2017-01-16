@@ -5,8 +5,8 @@ I'm glad to see you here at our site today!
 
 **So what is this?**
 
-Well, we are Discord Guide! Discord Guide is a Discord Partnered Community-ran project on [DiscordApp](https://discordapp.com)
-What we do is we provide content, and support for how to utilize Disord.
+Well, we are Discord Guide! Discord Guide is a Discord Partnered Community-ran project on [DiscordApp](https://discordapp.com).
+What we do is we provide content, and support for how to utilize Dicsord.
 
 ![](http://i.imgur.com/okvUjXI.png)
 
