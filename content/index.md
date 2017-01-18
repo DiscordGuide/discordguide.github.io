@@ -33,8 +33,6 @@ Well! There are a few ways to get involved with our project!
 
 * If you want to get your server involved as a sponsor or supporter you can check our [network](network), we love all endorsement and our network is just our way of giving back! 
 
-* The last is donations, our [patreon]() is the place to drop all donations and help fund our project.
-
 If you know a way to help that I didn't say above, just contact "Jet#0038" in the server and we'll see what we can do!
 
 
