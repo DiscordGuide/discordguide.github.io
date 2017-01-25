@@ -23,6 +23,11 @@
     padding: 15px 0px 15px 0px;
 }
 
+.guide-logo:hover {
+    background: #1d1d1d;
+    border-radius: 50px;
+}
+
 .nav-project.nav-project-discord {
     line-height: 15px;
 }
@@ -73,7 +78,7 @@
 }
 
 .hero-discord {
-    background: url(../assets/logo-with-bg.png);
+    background: url(../assets/trans-logo.png);
     position: absolute;
     top: 4px;
     left: 4px;
@@ -370,6 +375,7 @@ ul.tab li a:hover,
 .guide-logo {
     margin: -12px auto 0 auto;
     height: 50px;
+    transition: .2s all linear;
 }
 
 .role-name {
@@ -425,15 +431,19 @@ ul.tab li a:hover,
 .theme-trainer {
     background-color: #9115A8 !important;
 }
+
 .theme-social-beast {
     background-color: #246ECC !important;
 }
+
 .theme-event-coordinator {
     background-color: #18A812 !important;
 }
+
 .theme-server-geek {
     background-color: #907197 !important;
 }
+
 .theme-event-staff {
     background-color: #00CC00 !important;
 }
@@ -1710,7 +1720,7 @@ img {
     color: #fff;
     margin: 0 auto;
 }
- 
+
 .join {
     position: absolute;
     right: 21px;
@@ -1726,9 +1736,11 @@ img {
 .row .col.m6 {
     position: relative;
 }
+
 .temp-banner {
     background-image: url(/banners/temp_banner.png) !important;
 }
+
 .temp-server {
     color: #647dd0;
     font-size: 30px;
