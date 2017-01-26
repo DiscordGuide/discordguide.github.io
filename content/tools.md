@@ -43,7 +43,7 @@ _Where to begin..._ Discord Markdown!
 This is fun stuff right here. This is how everyone does things like **bold** or *italics*
 
 Well this is all done via symbols you add around the words, as shown in below image.
-![](http://i.imgur.com/XeEnlGh.png)
+![](http://i.imgur.com/K4UVPqS.png)
 
 And for mentioning objects?
 ![](http://i.imgur.com/VCDtO6A.png)
