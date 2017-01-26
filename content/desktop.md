@@ -117,6 +117,24 @@ Once you've done that a window should pop up, the first tab on it is called "Acc
 ![](http://i.imgur.com/lbiyxrT.png)
 You use this to setup your personal details.
 
+### _Nitro_ #
+
+WHAT IS THIS NEW CONTRAPTION?
+
+Discord Nitro! [Hold on... is this gold?](https://discordapp.com/nitro)
+ 
+We're happy to present you with a way to pay discord 5$ USD a month for the following features! (Or 50 a year!?)
+
+* Animated GIF avatars
+* Global emotes (All your server emotes for all the servers)
+* Boosted Upload size (8mb to 50mb)
+* Nitro badge w/ date you subscribed!
+
+If you want these perks well you're in luck! [(Credit Cards only ATM)](https://feedback.discordapp.com/forums/326712-discord-dream-land/suggestions/17528410-nitro)
+
+
+![](http://i.imgur.com/6yIGZSE.png)
+
 #### _Connections_ #
 
 Connections are your connections between your account and media. These include Twitch, YouTube, Battle.net, Skype, League of Legends, Reddit, Skype, and Steam.
