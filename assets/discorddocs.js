@@ -113,7 +113,8 @@ $(function(){
 	// Example: "Desktop" -> /content/desktop.md
 	var documents = [
 		'Index', // This one won't show in the header :eyes:
-		'Desktop',
+		'Basics'
+        'Desktop',
 		'Mobile',
 		'Servers',
 		'Bots',
