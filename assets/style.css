@@ -23,11 +23,6 @@
     padding: 15px 0px 15px 0px;
 }
 
-.guide-logo:hover {
-    background: #1d1d1d;
-    border-radius: 50px;
-}
-
 .nav-project.nav-project-discord {
     line-height: 15px;
 }
@@ -78,7 +73,7 @@
 }
 
 .hero-discord {
-    background: url(../assets/trans-logo.png);
+    background: url(../assets/logo-with-bg.png);
     position: absolute;
     top: 4px;
     left: 4px;
@@ -368,6 +363,15 @@ ul.tab li a:hover,
     display: initial;
 }
 
+.server-avatar {
+    border-radius: 1000px;
+    border: 2px solid #748bd7;
+    height: 16%;
+    width: 40%;
+    margin-bottom: -8px;
+    display: initial;
+}
+
 .is-discord .hero-circle {
     background-color: #1d2124;
 }
@@ -375,7 +379,6 @@ ul.tab li a:hover,
 .guide-logo {
     margin: -12px auto 0 auto;
     height: 50px;
-    transition: .2s all linear;
 }
 
 .role-name {
@@ -431,19 +434,15 @@ ul.tab li a:hover,
 .theme-trainer {
     background-color: #9115A8 !important;
 }
-
 .theme-social-beast {
     background-color: #246ECC !important;
 }
-
 .theme-event-coordinator {
     background-color: #18A812 !important;
 }
-
 .theme-server-geek {
     background-color: #907197 !important;
 }
-
 .theme-event-staff {
     background-color: #00CC00 !important;
 }
@@ -615,6 +614,16 @@ section.about .team> .row {
     min-height: 220px;
 }
 
+.card-help {
+    max-height: 880px;
+    min-height: 110px;
+}
+
+.card-nope {
+    max-height: 880px;
+    min-height: 310px;
+}
+
 .staff-builds {
     max-width: 1100px;
 }
@@ -693,6 +702,9 @@ button.hamburger.animated.fadeInLeft.is-closed {
     }
     .card-title {
         font-size: 45px;
+    }
+    .card-name {
+        font-size: 180px;
     }
     footer {
         font-size: 40px;
@@ -1720,7 +1732,7 @@ img {
     color: #fff;
     margin: 0 auto;
 }
-
+ 
 .join {
     position: absolute;
     right: 21px;
@@ -1733,14 +1745,22 @@ img {
     bottom: 5px;
 }
 
+.clickbait {
+    position: center;
+    right: 21px;
+    color: #fff;
+    font-size: 22px;
+    float: center;
+    z-index: 1;
+    bottom: 10px;
+}
+
 .row .col.m6 {
     position: relative;
 }
-
 .temp-banner {
     background-image: url(/banners/temp_banner.png) !important;
 }
-
 .temp-server {
     color: #647dd0;
     font-size: 30px;
