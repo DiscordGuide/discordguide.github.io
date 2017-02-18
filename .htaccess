@@ -3,3 +3,7 @@ RewriteBase /
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
 RewriteRule ^([^\.]+)$ $1.html [NC,L]
+<IfModule mod_speling.c>
+CheckSpelling on
+CheckCaseOnly on
+</IfModule>
