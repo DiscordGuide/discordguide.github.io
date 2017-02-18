@@ -296,6 +296,10 @@ Suspended channels and servers allow you to keep things private and keep a bette
 
 This is a great tool for making private servers you don't want anyone joining if they are stuck on a dead-end channel they'll eventually either get kicked or leave.
 
+**This also can be somewhat used for... MUTED ROLES**
+
+Muted roles allow you to 'mute' a user on text or you can add voice too, even though muting them is a thing.
+
 
 ## **Succesful Server Tips**
 
@@ -388,69 +392,7 @@ Ever heard of server lists? Well, Discord has quite a few.
 * Server lists
    Server’s that allow you to post, or ask them to post your server in categories or on one large list.
 
-**I will show you most of the public ones below, please mention to us if any were missed..**
-
-* [Discord Servers](https://www.discordservers.com) **Site/Bot**
-
-The #1 viewed site for Discord Advertisement with over 10,000 views a day!
-![](http://i.imgur.com/cQDTWN4.png)
-
-* [Discord Me](https://www.discord.me) **Site**
-
-The #1 most used site for Discord Advertisement and custom invite links!
-![](http://i.imgur.com/QGA5mJR.png)
-
-* [DiscordList.net](https://www.discordlist.net) **Site/Bot**
-
-A bot controlled site for adveritising of your server; placement can be changed by bumping.
-![](http://i.imgur.com/X0VcStm.png)
-
-* [DiscordList.me](https://discordlist.me) **Site/Bot**
-
-A bot controlled site for advertising of your server; bumps change server placement.
-![](http://i.imgur.com/1BBWTDu.png)
-
-* [Discord Zone](http://discord.zone/) **Site**
-
-A smaller advertisement site ran by the Nyaa~ Osu servers.
-![](http://i.imgur.com/ZXkimIE.png)
-
-* [Discord.io](https://discord.io) **Site/Server**
-
-A newer custom link osting site for servers to have custom invites.
-![](http://i.imgur.com/2qzrsqO.jpg)
-
-* [Discord Sites](http://discordSites.com) **Site/Server**
-
-A new site/server for advertisement in a new way... custom site pages!
-![](http://i.imgur.com/Tzejvrn.png)
-
-* [The Portal](https://discord.gg/6HtGJ98) **Server**
-
-The biggest and fastest growing Server Listing Server on Discord which you can post your own server on.
-![](http://i.imgur.com/y8H5zdd.png)
-
-* [Discord Server List](https://discord.gg/ptg4XSK) **Server**
-
-The oldest advertising server on Discord which staff post servers.
-![](http://i.imgur.com/4jFujRh.png)
-
-* [Discord Server Central](https://discord.gg/MyCQgms) **Server**
-
-Formerly emote central, a decently large advertsing server ran by staff.
-![](http://i.imgur.com/feW1pYv.png)
-
-* [Discord World](https://discord.gg/EmU2M35) **Server**
-
-A very new but fast growing server listing server.
-![](http://i.imgur.com/xbtrn4f.png)
-
-* [United Server Listings](https://discord.gg/GM2AqsR) **Server**
-
-A new and small server listing server.
-![](http://i.imgur.com/X61uEd5.png)
-
-**Looking for other ways to advertise...?**
+**If you want to find a list of these go over to "Server List" at the top (Or [Click This](http://discordguide.us/ServerList)) and click the "Lists" tab!!**
 
 Well.. what else do you expect you can do? WELL... networking.
 
@@ -492,10 +434,54 @@ Just set up your staff, and how you run your roles decently. Have different leve
 
 One of the key things for handling member behavior is a mod bot, they allow your server to be patrolled without needing constant staff attention. This allows your staff to have less of a work load, and that tends to lead to them staying around longer. (Stress is usually the cause of Moderations stepping down.)
 
+
+#### Discord Partnership
+
+Alright I'll slide this in as a last minute thing..
+
+Discord partnership... what is it? Well let's get into it!
+
+Discord Partners, like us, are servers/sites/groups that Discord supports with extra in-app perks and some goodies.
+
+_**The Beginning**_
+
+_In the beginning the world was nothing but a void, until a hush came over it as a hand opened in the middle of non-existance.._
+
+No, not that long ago. The beginning of your partnership journey!
+
+So first off... what's your reason to be discord partnered? The hoodie? The vanity url? Or maybe you just want the better VCs for your karaoke nights!
+
+Well, none of that matters if you don't have a reason to get them! Discord Partnership only recently opened up for Discord-only servers, before it was restricted to communities that had strong member bases off-discord that brought users to Discord. (Ex. Reddits, or Twitch streamers) and all Twitch partners are Discord partners!
+
+You might be curious about stats? Well there are aproximitely 2300+ discord partners. YOWZERS. Didn't expect that, did you?
+
+_**What do I need to do?**_
+
+How to get partnered? **;_;** I want my hoodie b0ss.
+
+How to get partnered... Are you connected to a reddit? How about a twitch partnered streamer? Let's throw out some Websites you have connected to your server...? No?
+
+Unless you are connected to an outside resource you will have a lot of struggle getting partnered until you have upwards of 2000, 3000, 10,000 users. 
+
+Discord wants unique and strong communities they can support as partners, wouldn't you?
+
+The key tips to getting to partnership level would be in the above server guides, but specific tips from us? Members and purpose.
+
+_**What do partners get?**_
+
+Partners get a few things.
+
+* Vanity URL (Custom discord.gg/ link)
+* Splash screen (Custom image on their invite link page)
+* Higher Max KBPS (Kilobytes per second) in your Voice Channels!
+* One hoodie for the Owner (Or whoever they give it to)
+* Free Nitro for the Owner (Upon global release)
+* Entrance to the glorious partner server!
+
+Those are the partner perks, won't find anything snazzier since shag carpets. 
+
 ---
 
 **Alright, hope this guide helped! We still have more to add, but please give us suggestions if you feel we need to add stuff.**
 
 _Maybe you’re a seasoned pro and don't need to read the other guides? Always able to talk to us about staff positions!_
-
-**P.S. Some Discord Dev words of wisdom... [ratelimit](https://blog.discordapp.com/how-to-get-the-most-out-of-your-community-server/).**
