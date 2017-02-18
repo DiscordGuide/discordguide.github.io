@@ -610,8 +610,8 @@ section.about .team> .row {
 }
 
 .card-staff {
-    max-height: 22px;
-    min-height: 220px;
+    max-height: 20px;
+    min-height: 250px;
 }
 
 .card-help {
@@ -621,7 +621,7 @@ section.about .team> .row {
 
 .card-nope {
     max-height: 880px;
-    min-height: 310px;
+    min-height: 340px;
 }
 
 .staff-builds {
