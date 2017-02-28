@@ -8,7 +8,7 @@ I'm glad to see you here at our site today!
 Well, we are Discord Guide! Discord Guide is a Discord Partnered Community-ran project on [DiscordApp](https://discordapp.com).
 What we do is we provide content, and support for how to utilize Discord.
 
-![](http://i.imgur.com/okvUjXI.png)
+![](https://cdn.discordapp.com/attachments/268982781739139082/286197813564538890/Asset_1.png)
 
 **What content do you guys provide...?**
 
