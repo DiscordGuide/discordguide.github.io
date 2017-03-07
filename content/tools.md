@@ -115,7 +115,7 @@ Just like skype you get to set your own status now! The options are..
 
 * Invisible
 
-To do these just click your icon on the bottom left on Desktop and Voila! 
+To do these just click your icon on the bottom left on Desktop and Voila!
 ![](http://i.imgur.com/9A7jjy8.png)
 
 *Now you can be the lurker you always wanted to be…* Oooooo invisibleeee
@@ -140,28 +140,27 @@ A good site for making these is [Lunapic](http://www197.lunapic.com/upload). Jus
 
 Sadly, i'm not a picture expert so I can't say much more... but this can be handy when making custom emotes!
 
-## **The Tools** #
+## **The Tools**
 
 **OH JEEZ....** Hello.
 
 You're probably wondering what's gonna be here... I decided to cover some of the less used or less common features on Discord...
-I thought _"Hey! These things should probably have a guide since I'm already doing this."_ and no one decided to stop me. 
+I thought _"Hey! These things should probably have a guide since I'm already doing this."_ and no one decided to stop me.
 
-#### _Key Commands_ #
+#### _Key Commands_
 
 For keyboard combos, I have some information that might help with those!
-  
-![](https://cdn.discordapp.com/attachments/232878512502079488/232920668537094144/unknown.png)
-  
-and the way to find this list? Just type these into the chat on desktop...
 
+![](https://cdn.discordapp.com/attachments/232878512502079488/232920668537094144/unknown.png)
+
+and the way to find this list? Just type these into the chat on desktop...
 
 `ctrl + /` = windows open list
 `cmd + /` = mac open list
 
 I will go more into detail on these as soon as I can!
 
-#### _Discriminators_ #
+#### _Discriminators_
 
 **What's a discriminator >_<**
 
@@ -181,16 +180,17 @@ _WELL_ What if you wanted to change yours? Ever seen some kool kat with a #6969 
 
 (The devs will forever hate you for doing this <_< )
 
-#### _2FA_ #
+#### _2FA_
 
 **Waittttttttt, what is this 2FA thingy...?**
 
-2FA is Two Factor Authentication, this allows users to improve security on their accounts by requiring passcodes from alternate application to be able to get into the account and do anything major. 
+2FA is Two Factor Authentication, this allows users to improve security on their accounts by requiring passcodes from alternate application to be able to get into the account and do anything major.
 
-Such as... 
+Such as...
+
 * Deleting a server
 * Changing your email
-* Changing your password 
+* Changing your password
 
 This also allows you to 2FA enable a server which means only 2FA users can do anything above normal member permissions.
 
@@ -198,7 +198,7 @@ This also allows you to 2FA enable a server which means only 2FA users can do an
 
 ![](http://i.imgur.com/JsWlYQ3.png)
 
-Just to to the page shown above, and click enable. 
+Just to to the page shown above, and click enable.
 
 ![](http://i.imgur.com/tBNn7vB.png)
 
@@ -212,7 +212,7 @@ Once that's been completed you now have 2FA, you will need your backup codes or 
 
 If you have any more questions, just ask in our server!
 
-#### _Webhooks and Embeds_ #
+#### _Webhooks and Embeds_
 
 We're working on getting a comprehensive webhooks and embed guide here!!
 

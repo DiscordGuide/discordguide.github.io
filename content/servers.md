@@ -30,12 +30,12 @@ I don't want to discourage you, but think.. what do you _REALLY_ have that other
 
 #### _Rules and Welcome_
 
-This is a basic thing on a server, every server should have a Rules and Welcome unless the server is based around chaos, like a meme or shitpost server. 
+This is a basic thing on a server, every server should have a Rules and Welcome unless the server is based around chaos, like a meme or shitpost server.
 The only reason I wouldn’t is if the rules are super obvious, or if you have none.
 
 ![](http://i.imgur.com/SVZ9Ej4.png)
 
-These channels should only allow Admins and you, the owner, to talk. This allows you to post rules everyone can see. 
+These channels should only allow Admins and you, the owner, to talk. This allows you to post rules everyone can see.
 
 **If you have any questions so far, just ask the server!**
 
@@ -43,30 +43,30 @@ These channels should only allow Admins and you, the owner, to talk. This allows
 
 **Already here, huh?** We'll be covering more detailed server edits, and tools here.
 
-_By now you should have some members or friends joining, and gotten a better idea of what you want to do. These tips will help you later, or you may just decide to add stuff._ 
+_By now you should have some members or friends joining, and gotten a better idea of what you want to do. These tips will help you later, or you may just decide to add stuff._
 
 So these are a bit more basic, but by now you know your way around enough to do these things. To start look at your "Overview" tab on "Server Settings"
 
-**"Verification Levels"** these are the levels of being able to send a message if a user doesn't meet these they cannot send messages to the server. 
+**"Verification Levels"** these are the levels of being able to send a message if a user doesn't meet these they cannot send messages to the server.
 **(This is canceled out by roles, so be careful when giving out roles to new people!)**
 
 **"Default Notifications"** Good practice for this is to have these set to "@mentions only" so that way people aren't spammed with every message.
 
 **"AFK channel"** this is where people go when they go AFK for a certain amount of time, moving them off one Voice Channel and into another you decide is the AFK channel.
 
-**"Location"** the location of your server changes how the Voice Channels work, and how good reception your members have. Most worldwide servers use US-East as a default area, if your server is more specific then you can set it for your area. 
+**"Location"** the location of your server changes how the Voice Channels work, and how good reception your members have. Most worldwide servers use US-East as a default area, if your server is more specific then you can set it for your area.
 
 #### _Setting up Roles_
 
 So you are on your blank server, all nice and clean it is?
-From here go to the three lines icon by the server name, and click them 
+From here go to the three lines icon by the server name, and click them
 
 ![](http://i.imgur.com/tWs8Rks.png)
-then click "Server Settings" and BOOM you have this popup where you can edit almost everything on your server in one place. 
+then click "Server Settings" and BOOM you have this popup where you can edit almost everything on your server in one place.
 
 ![](http://i.imgur.com/0IbY7Vb.png)
 
-From here the first thing I normally do is click **Roles** _(this is what I'll show you right now)_ 
+From here the first thing I normally do is click **Roles** _(this is what I'll show you right now)_
 
 ![](http://i.imgur.com/WnYu3ca.png)
 
@@ -74,37 +74,35 @@ Roles are what decide what everyone on your server can do, from simple things li
 
 Common roles I add as shown above are "Admin" "Mod" "Member" and "Visitor" these allow you to decide who has what permissions. The basic idea for these roles are…
 
-*   An "Admin" will have all permissions, this is someone you trust to control anything on the server.
-*   A "Mod" will have message remove permissions, etc. This is someone you expect to help control any potential behavioral issues.
-*   The "Member" is someone who can maybe post pictures and links, while visitors cannot.
-*   "Visitor" someone who hasn't been around long enough to be the other roles.
+* An "Admin" will have all permissions, this is someone you trust to control anything on the server.
+* A "Mod" will have message remove permissions, etc. This is someone you expect to help control any potential behavioral issues.
+* The "Member" is someone who can maybe post pictures and links, while visitors cannot.
+* "Visitor" someone who hasn't been around long enough to be the other roles.
 
 This role system allows you to keep the chat functioning without you, and have a benefits system for good behavior. Some servers are super specific or are for Roleplay and have roles built around that system but almost all servers have Admins, Mods, and Member type roles.
 
-
 So let's say you are making a server for a fandom, each different character you might like is a separate role with that fandom characters' favorite color. How would you put all these together and keep a good role order?
 
-Should your roles look like this? 
+Should your roles look like this?
 
 ![](http://i.imgur.com/yEEFHAC.png)
 
-**No!** That picture shows a messy role setup that would make a hierarchy impossible, to keep a server functioning well you need a nice order to be set up, usually. 
+**No!** That picture shows a messy role setup that would make a hierarchy impossible, to keep a server functioning well you need a nice order to be set up, usually.
 If you are going for some organization, that wouldn’t do well for you.
 
 A good way to do this is to put leadership roles on the top, and then you can organize the others by color, or even by alphabet. (OCD people... I feel your pain **;_;**)
 
-Once you've done this, it'll probably look like this. 
+Once you've done this, it'll probably look like this.
 
 ![](http://i.imgur.com/49tYxrO.png)
 
-It's important that roles like "Admin" "Mod" and other leadership roles are at/near the top, a Moderator with a role below everyone else wouldn't be able to do anything besides delete messages and mute people on Voice Chat. 
+It's important that roles like "Admin" "Mod" and other leadership roles are at/near the top, a Moderator with a role below everyone else wouldn't be able to do anything besides delete messages and mute people on Voice Chat.
 
 _The permissions system works in order, the higher the role, the higher the authority **NO MATTER WHAT PERMISSIONS ARE CLICKED**_
 
-If Admin has "Administrator" clicked, and Mod has "Manage Roles" clicked, but Admin is below Mod, then Mod can just give themselves Admin and Admin can't do anything to stop them. 
+If Admin has "Administrator" clicked, and Mod has "Manage Roles" clicked, but Admin is below Mod, then Mod can just give themselves Admin and Admin can't do anything to stop them.
 
 The "Administrator" permission is like clicking all of them, (so you don't need to click them all) but it doesn't allow people to skip the order of the roles.
-
 
 #### _Setting up Channels_
 
@@ -116,28 +114,28 @@ Channels are where your members actually talk, this is where all the action happ
 
 Whether someone can or cannot do something goes in a specific order, it goes the "`@everyone`" permission first, then their specific role, and then their personal permissions. Example: if "everyone" has _denied read messages_, "Mod" has a _allow read messages_ but "Example Name" who has the "Mod" role has _deny read messages_, then "Example Name" will not see that channel.
 
-Setting up the permissions look a lot similar to roles 
+Setting up the permissions look a lot similar to roles
 
 ![](http://i.imgur.com/8yNOEoQ.png)
 
-there are slight differences, but not much you'll notice. 
+there are slight differences, but not much you'll notice.
 
 ![](http://i.imgur.com/sxduMR1.png)
 
 Your channels permissions are also major as I said before, any role without "Administrator" permission clicked will have to follow any permissions set in that channel.
 
-You could make Mod have every permission except "Administrator" but if the channels block all of them then the Mod is useless on that channel. 
+You could make Mod have every permission except "Administrator" but if the channels block all of them then the Mod is useless on that channel.
 
 ![](http://i.imgur.com/sxduMR1.png)
 
-A good practice on channels is to not add every role specifically, just set the roles permissions and then on each channel just click view for everyone and leave the rest of them Blank, not an X or a Check. This means all the permissions will be set exactly how they are in the roles. 
+A good practice on channels is to not add every role specifically, just set the roles permissions and then on each channel just click view for everyone and leave the rest of them Blank, not an X or a Check. This means all the permissions will be set exactly how they are in the roles.
 
 ![](http://i.imgur.com/ZMw5wF4.png)
 
-The above is only a problem if you make a hidden channel, like a Moderators only channel. 
-To do this simply unclick view for everyone and click view on Moderators/Admins. 
+The above is only a problem if you make a hidden channel, like a Moderators only channel.
+To do this simply unclick view for everyone and click view on Moderators/Admins.
 
-Making one of these channels is one of the exceptions to the "You shouldn't manually add each role." rule. Manually setting these is usually smarter, so for example mods can't delete other mods messages in this channel. 
+Making one of these channels is one of the exceptions to the "You shouldn't manually add each role." rule. Manually setting these is usually smarter, so for example mods can't delete other mods messages in this channel.
 
 ![](http://i.imgur.com/cAPul1s.png)
 
@@ -149,16 +147,17 @@ Keep in mind the maximum channels is 500! _(But why the heck do you need that ma
 
 Voice channels? They are pretty much the same as Text channels except... instead of messaging permissions, this has voice permissions.
 
-The row you saw missing from Text? Those go here. 
+The row you saw missing from Text? Those go here.
 
 ![](http://i.imgur.com/pY5Ak6c.png)
 
 These permissions allow certain roles to be able to talk/hear on voice chat, or even mute/deafen others.
-* **Mute** **:** Can't talk on VC. 
-* **Deafen** **:** Can't hear on VC. 
+
+* **Mute** **:** Can't talk on VC.
+* **Deafen** **:** Can't hear on VC.
 * **Move** **:** Can move a person from one VC to the other.
 
-Voice Channels can be a bit trickier than regular Channels, but the idea is pretty much the same. 
+Voice Channels can be a bit trickier than regular Channels, but the idea is pretty much the same.
 You shouldn't have to worry about any of the permissions as long as it isn't restricted to a role if it is then you have to add all the roles that can access it. (Like a staff, or via voice chat)
 
 As some extra features on the Voice Chat you can decide maximum member limits, and decide the MBPS for the Voice Channel. The higher the MBPS, the higher the quality (and lag) the lower, the lesser the quality (and lag).
@@ -172,7 +171,7 @@ This ties a lot into music bots, but I'll explain that in the Bot guides!
 
 #### _Inactivity Penalties_
 
-This is one of the fun features in Discord, the Inactivity penalties. 
+This is one of the fun features in Discord, the Inactivity penalties.
 
 On your "Server Settings" you should see a tab named "Members" at the bottom is an area called 'Prune', this allows you to remove members who haven't said anything for certain amounts of time.
 
@@ -186,16 +185,18 @@ This allows you to remove members who don't contribute anything to the server.
 
 The bans list tab on "Server Settings" is pretty self-explanatory... (It's a list of the banned users on your server) so let's talk about the member list.
 
-You can ban/unban people using this, and the member list tab allows you to kick, ban, or even give your Ownership of the server over to any other member. 
+You can ban/unban people using this, and the member list tab allows you to kick, ban, or even give your Ownership of the server over to any other member.
 
 If a user is inactive, you'll be able to prune them using the button near the middle at the bottom, _unless they have a role_.
 
 This member list is your main way to do things outside the normal server, you can click here off server or even just use this to see ALL the members if you are locked into a certain set of channels. It's like being able to keep an eye on all the users at once.
 
 * Member List
+
 ![](http://i.imgur.com/H6InShF.png)
 
 * Ban List
+
 ![](http://i.imgur.com/9xnoK9T.png)
 
 You probably shouldn't play with the member channel too much if you don't know what you are doing.
@@ -204,7 +205,7 @@ It's always good to try to mess with things to test them, but don't go randomly 
 
 #### _Instant Invites_
 
-This tab on "Server Settings" allows you to cancel any invite link made, or see how many members each one has been used to get for the server. 
+This tab on "Server Settings" allows you to cancel any invite link made, or see how many members each one has been used to get for the server.
 This is great for tracking statistics, and seeing who has done a lot of recruiting.
 
 I suggest making a permanent invite link that you use in general, and **not deleting it**, this allows one link to be shared that will always work for the server. If you keep deleting invites, no one will be able to share the server and you won't be able to get new members.
@@ -259,13 +260,13 @@ This type of a system is very good for people who don't like any mistakes in how
 
 **What about Submissive perms?**
 
-A submissive server is going to have every channel barely setup. Almost every white box will show, and everything will be based on what the roles are. 
+A submissive server is going to have every channel barely setup. Almost every white box will show, and everything will be based on what the roles are.
 
 This type of system is very good for people who don't have time or don't like manually doing every channel, you can just let roles figure everything out.
 
 **So... Versatile then?**
 
-Well, these are a bit trickier... A versatile server is leans both ways. These servers have clearly set roles, but they also have roles added to channels. These servers will usually have a lot of roles added to channels and be setup but the @everyone role will remain pretty much all white boxes. 
+Well, these are a bit trickier... A versatile server is leans both ways. These servers have clearly set roles, but they also have roles added to channels. These servers will usually have a lot of roles added to channels and be setup but the @everyone role will remain pretty much all white boxes.
 
 This system is very effective for designating certain jobs on channels but not globally allowing things across the server.
 
@@ -285,7 +286,7 @@ Secluded State channels/servers are channels/servers that require a Staff approv
 
 A suspended channel is pretty easy to make, remember how you set those staff rooms and special perks rooms? We are doing the opposite here, even though those would be considered a suspended channel... we're approaching this differently.
 
-Every channel in the server requires a base channel to see, and not having those limit you to seeing the welcome channel and a channel where you can request to join the rest of the server; some servers even have bots you can use to give yourself the role to get out. 
+Every channel in the server requires a base channel to see, and not having those limit you to seeing the welcome channel and a channel where you can request to join the rest of the server; some servers even have bots you can use to give yourself the role to get out.
 This is a good use for botwinder who has the !join command!
 
 ![](http://i.imgur.com/7yEXXOf.png)
@@ -300,12 +301,11 @@ This is a great tool for making private servers you don't want anyone joining if
 
 Muted roles allow you to 'mute' a user on text or you can add voice too, even though muting them is a thing.
 
-
 ## **Succesful Server Tips**
 
 **Well, hello!** Guess you’re still here for server management tips right?
 
-Yeah… thought so. Sorry, I don't have as many pictures this time ?? 
+Yeah… thought so. Sorry, I don't have as many pictures this time ??
 
 Alright, so we’re going to go over the fundamentals of running a server. Without these key pieces, a server isn’t going to do too well, unless it’s a specialty server and even then what happens when it isn’t special anymore?
 
@@ -317,7 +317,7 @@ This is what I want to try to help you guys fix, or prepare for.
 
 I may sound like a broken record, but don’t run away!
 
-“Ideals? What are those…?” 
+“Ideals? What are those…?”
 Well… where do you want your server to go? What are your dreams for this server? 44,000 members? Or maybe just 40? Getting an image of where you want to go is the core of your growth.
 
 You need to keep in mind what you can handle, how much you want to go for, and not burn yourself in the first few days. A good server is one that can peddle away for weeks and get nowhere... but be so good it finally hits the gas and soars off to the 100's of members.
@@ -350,17 +350,15 @@ Having these two working together will give people a reason to join, while your 
 
 So the next few are kinda about your staff and member relations.
 
-Communication is big, letting your members know about updates and making sure your staff knows what is going on in the server. 
+Communication is big, letting your members know about updates and making sure your staff knows what is going on in the server.
 I myself like to know what’s going on, and if I am in a server without communication… I rarely will stay.
-
 
 **Understanding**
 
 Understanding? This means a lot. Not just understanding what you're doing with your server but understanding the members.
 
-You need to be able to be open to feedback from your members, and improve as new ideas are made. It’s the main thing Discord functions around. Discord get’s its concepts from the suggestions area of the site. 
+You need to be able to be open to feedback from your members, and improve as new ideas are made. It’s the main thing Discord functions around. Discord get’s its concepts from the suggestions area of the site.
 Sure the staff comes up with stuff, most of them use or used Discord as server members, **BUT** we say what we want to see and they try to meet that. Server owners can learn a lot from that.
-
 
 **Trust**
 
@@ -373,9 +371,7 @@ Posting pictures? Links? Making instant invites? These are all permissions you T
 
 Catch my drift?
 
-
 If you want more stuff on expanding your server just keep scrolling, if not then go about your day!
-
 
 Remember, help is offered on the server, suggestions are always loved too
 
@@ -426,14 +422,13 @@ This also means you have to be careful with rules and making sure you have good 
 
 _You can see who's been banned, right now we don't have audit logs yet so you can see who kicked people or who banned people..._
 
-I'd just be careful who you give permissions, but don't be a complete hog with it. It's good for a server to have backup control people, or admins. 
+I'd just be careful who you give permissions, but don't be a complete hog with it. It's good for a server to have backup control people, or admins.
 
 If a server relies on a single user, and that user is busy for a long time... guess what happens? **It can't do anything, and it'll curl up to die.**
 
 Just set up your staff, and how you run your roles decently. Have different levels, have a set system to earning roles, make things oranized. Being taken serious is pretty important... except when it isn't.
 
 One of the key things for handling member behavior is a mod bot, they allow your server to be patrolled without needing constant staff attention. This allows your staff to have less of a work load, and that tends to lead to them staying around longer. (Stress is usually the cause of Moderations stepping down.)
-
 
 #### Discord Partnership
 
@@ -461,7 +456,7 @@ How to get partnered? **;_;** I want my hoodie b0ss.
 
 How to get partnered... Are you connected to a reddit? How about a twitch partnered streamer? Let's throw out some Websites you have connected to your server...? No?
 
-Unless you are connected to an outside resource you will have a lot of struggle getting partnered until you have upwards of 2000, 3000, 10,000 users. 
+Unless you are connected to an outside resource you will have a lot of struggle getting partnered until you have upwards of 2000, 3000, 10,000 users.
 
 Discord wants unique and strong communities they can support as partners, wouldn't you?
 
@@ -478,7 +473,7 @@ Partners get a few things.
 * Free Nitro for the Owner (Upon global release)
 * Entrance to the glorious partner server!
 
-Those are the partner perks, won't find anything snazzier since shag carpets. 
+Those are the partner perks, won't find anything snazzier since shag carpets.
 
 ---
 

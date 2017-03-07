@@ -3,10 +3,9 @@
 **We'll be covering some uses of bots, and how to start the basics of them as well.**
 We will cover everything from types of bots, to uses, to basic setup and usage of a few bots!
 
-
 ## **Bots on Discord**
 
-Hey, we’re here to talk to you about Bots! 
+Hey, we’re here to talk to you about Bots!
 
 Yeah Bots, those funny programs you see doing all sorts of things all around Discord! Ever wondered what others are out there and how to make them? That’s pretty much what these Bot guides are for! **Remember this, these guides are almost all for Desktop use!**
 
@@ -30,7 +29,6 @@ Data Bots… these bots record and send, or receive and record information. A bo
 
  • **Misc Bots**
 These bots can either do it all, or fit under a specific category that wasn't mentioned above. These bots can be a pretty tough cookie, or a lagging old thing. All depends on the hosting... which we'll discuss later.
-
 
 #### _Creativity with Bots_
 
@@ -56,21 +54,21 @@ There are many different places to **find** bots, the issue is finding good reli
 There are a lot of good bots around Discord, I suggest scrolling the carbon page linked above... but for our person opinion on bots?
 Well let's start, shall we?
 
-* Aethex
-* Botwinder
-* TypicalBot
-* DynoBot
-* Mee6
-* KawaiiBot
-* FredBoat
-* PvPcraft
-* Spoo.py
+* [Aethex](https://aethex.xyz/)
+* [Botwinder](http://botwinder.info/)
+* [TypicalBot](https://typicalbot.com/)
+* [DynoBot](https://www.dynobot.net/)
+* [Mee6](https://mee6.xyz)
+* [KawaiiBot](https://kawaiibot.pw/)
+* [FredBoat](http://docs.frederikam.com/)
+* [PvPcraft](https://bot.pvpcraft.ca/)
+* [Spoo.py](https://bots.discord.pw/bots/109379894718234624)
 
 **Keep scrolling for information on usage of a few of these monsters!**
 
 ## **Bot Usage**
 
-We know we have our recommended bots and all... but how about some interesting guides on how to use these bad boys? 
+We know we have our recommended bots and all... but how about some interesting guides on how to use these bad boys?
 
 We know it isn't as easy and just adding a bot and it suddenly knowing what you want it to do, so how about we help you with some bot basics! **User Interface to the rescue!**
 

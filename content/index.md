@@ -14,13 +14,13 @@ What we do is we provide content, and support for how to utilize Discord.
 
 To put it simply; Guides.
 We have guides to teach new users the basics of their user settings, more advanced tricks that allow you to format text or setup 2fa, and server guides which are a server owners best friend!
-On top of our existing guides for the UI, we have guides that cover development; This is setting up bots, and projects on Discord. 
+On top of our existing guides for the UI, we have guides that cover development; This is setting up bots, and projects on Discord.
 
 We want everyone to know the tips to reign supreme!
 
 **So why do you guys do this?**
 
-Well, the answer to this is a lot simpler than you might expect. 
+Well, the answer to this is a lot simpler than you might expect.
 We don't do this for profit; We are a free service that has no paid services. The only payment is donations, we give extra perks and early content for donating but that isn't our main focus. (Donating allows us to handle domain costs as well as hosting for our bots.)
 
 **So do I get involved?**
@@ -31,12 +31,11 @@ Well! There are a few ways to get involved with our project!
 
 * If you want to get involved with the guides you can just join the server and contact "Jet#0038"
 
-* If you want to get your server involved as a sponsor or supporter you can check our [network](network), we love all endorsement and our network is just our way of giving back! 
+* If you want to get your server involved as a sponsor or supporter you can check our [network](network), we love all endorsement and our network is just our way of giving back!
 
 * The last is donations, our [patreon](https://www.patreon.com/guideus) is the place to drop all donations and help fund our project.
 
 If you know a way to help that I didn't say above, just contact "Jet#0038" in the server and we'll see what we can do!
-
 
 ### Sites/Servers
 
