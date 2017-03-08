@@ -4,11 +4,11 @@ This is your basic guide to Discord Development stuff! We will cover basics on b
 
 Just look at the sidebar to see what's here!
 
-#### _Developer Mode_ #
+#### *Developer Mode*
 
 **Here we are again,** So since this guide set is about development... this had to be the first thing!
 
-_I briefly touched on this during the User Settings, but I feel it is important to know about this tool._
+*I briefly touched on this during the User Settings, but I feel it is important to know about this tool.*
 
 Developer mode allows a user to grab the IDs of any object in Discord, from message to user, from bot to channel. These ID's allow easy access shortcuts to channels, and mentioning a user... as well as a bunch of other complicated things you can use them for with bots.
 
@@ -30,17 +30,15 @@ Developer mode can be fun, and is very useful for bots and trying to report spam
 
 ## **Bots**
 
-
 **Well**, you’ve made it this far... alive.
 
 Am I assuming now you want to know the basics of making your future bot?
 
 Let’s just dive right on in, no need to be slow... right?
 
+#### *Idea and Goal*
 
-#### _Idea and Goal_
-
-_Wait, why isn’t this the actual making of the bot…?_
+*Wait, why isn’t this the actual making of the bot…?*
 
 Well, that’s pretty simple, 10 points for the good question! You can’t just go ahead and make a bot without some sort of plan if you try to make it up as you go and have 0 ideas what you're planning to do it’ll just make **everything** harder down the line.
 
@@ -50,90 +48,103 @@ You need to decide what you want it to do, every bot and every coding language h
 
 For the actual specifics, you'll probably need to talk to the people who use the Libraries but i'll do everything in my power to explain them the best I can in these guides!
 
-Remember, using your own intelligence to find more information is key. 
+Remember, using your own intelligence to find more information is key.
 We can't do everything, but you need help finding stuff? Ask. We won't hold you hand every step, but we can show you where the stairs are.
 
-#### _Coding Languages/Libraries_
+#### *Coding Languages/Libraries*
 
 Got some big words incoming...
 
-So the first _real_ step is deciding on a language. If you have no prior coding experience you’ll want to check out sites like Code Academy, or khan academy and learn basic coding.
+So the first *real* step is deciding on a language. If you have no prior coding experience you’ll want to check out sites like Code Academy, or khan academy and learn basic coding.
 
 The discord libraries are simply API (Application Programming Interface)'s to Discord's system, a bot could be created without the use of a library but it would be limited and hard to maintain, so hard working people (or teams of people) devote their time to creating libraries for public use, these teams may not share ideas about how to work with their selected language, which is why you will see multiple libraries for the same language... eg. Discord.JS and Discord.io.
 
 I mean... all of us working on Discord stuff pretty much are Volunteering, a few people make profits and a few people get donations to help fund what they are doing... but most of us put **a lot** more into the community than we we receive back. I think we should at least applaud the people managing these libs.
 
-So to start off making your bot, you’ll need to decide what coding language you plan to use, if you don’t know any coding then why/how will you make a bot? 
-One way some people learn is by reviewing open source bots on GitHub and playing with things to see how it works, but that’ll only **git** you so far. _(Hah, I made a funny)_
+So to start off making your bot, you’ll need to decide what coding language you plan to use, if you don’t know any coding then why/how will you make a bot?
+One way some people learn is by reviewing open source bots on GitHub and playing with things to see how it works, but that’ll only **git** you so far. *(Hah, I made a funny)*
 
-What I suggest doing is looking over the languages you know or can learn and decide where to go from there. 
+What I suggest doing is looking over the languages you know or can learn and decide where to go from there.
 **Like:** (Active means the devs are actively updating and working on it)
 
 All the clickable library names will take you to their specific discord server, the rest you need to go to [Discord API](http://discord.gg/discord-api) for.
 
 **.Net**
-* discord-net - An active .net library.
-* [dsharpplus](http://www.discord.gg/0oZpaYcAjfvkDuE4) - A decently active .net library.
+
+* [Discord.Net](https://github.com/RogueException/Discord.Net) - An active .net library
+* [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus) - A decently active .net library ([Official Server](http://www.discord.gg/0oZpaYcAjfvkDuE4))
 
 **JVM**
-* [discord4j](https://discord.gg/NxGAeCY) - A decently active Java library.
-* [javacord](https://discord.gg/0qJ2jjyneLEgG7y3) - A decently active Java libary.
-* [jda](https://discord.gg/UMs8vgD) - A very active Java library.
+
+* [Discord4J](https://github.com/austinv11/Discord4J) - A decently active Java library ([Official Server](https://discord.gg/NxGAeCY))
+* [Javacord](https://github.com/BtoBastian/Javacord) - A decently active Java libary ([Official Server](https://discord.gg/0qJ2jjyneLEgG7y3))
+* [JDA](https://github.com/DV8FromTheWorld/JDA/) - A very active Java library ([Official Server](https://discord.gg/UMs8vgD))
 
 **Javascript**
-* eris - An active Javascript library.
-* [discord.io](https://discord.gg/0MvHMfHcTKVVmIGP) - An active Javascript library.
-* [discord.js](https://discord.gg/bRCvFy9) - A very active Javascript library.
-* discordie - An active Javascript library.
+
+* [Eris](https://github.com/abalabahaha/eris) - An active Javascript library ([Official Site](https://abal.moe/Eris))
+* [discord.io](https://github.com/izy521/discord.io) - An active Javascript library ([Official Server](https://discord.gg/0MvHMfHcTKVVmIGP))
+* [discord.js](https://github.com/hydrabolt/discord.js) - A very active Javascript library ([Official server](https://discord.gg/bRCvFy9), [Site](https://discord.js.org))
+* [discordie](https://github.com/qeled/discordie) - An active Javascript library ([Official Site](https://qeled.github.io/discordie/))
 
 **Lua**
-* discordia - A decently active Lua library.
-* litcord - A decently active Lua library.
+
+* [Discordia](https://github.com/SinisterRectus/Discordia) - A decently active Lua library
+* [litcord](https://github.com/satom99/litcord) - A decently active Lua library
 
 **Python**
-* disco - A decently active Python library.
-* discord.py - A very active Python library.
+
+* [discord.py](https://github.com/Rapptz/discord.py) - A very active Python library
+
+**PHP**
+
+* [DiscordPHP](https://github.com/teamreflex/DiscordPHP) - An active PHP library ([Official server](https://discord.gg/0duG4FF1ElFGUFVq))
+* [RestCord](https://github.com/restcord/restcord) - Another PHP library ([Official server](https://discord.gg/0duG4FF1ElFGUFVq))
+
+**Rust**
+
+* [discord-rs](https://github.com/SpaceManiac/discord-rs) - A very active Rust library
+* [serenity](https://github.com/zeyla/serenity) - Another active Rust library ([Official site](https://serenity.zey.moe/serenity/))
 
 **Miscellaneous**
-* [discordgo](https://discord.gg/0f1SbxBZjYq9jLBk) - A very active Golang library.
-* swiftcord - An active Swift library.
-* discordunity - A decently active UnityScript library.
-* discordcr - An active Crystal library.
-* dscord - A very inactive D-lang library.
-* [discord-dart](https://discord.gg/6JwnkNk) - An active Dart library.
-* discord-rs - A very active Rust library.
-* [discordphp](https://discord.gg/0duG4FF1ElFGUFVq) - An active PHP library.
 
-These are most of the public languages you can use. You can find more on the [Discord API server.](https://discord.gg/discord-api) 
+* [DiscordGo](https://github.com/bwmarrin/discordgo) - A very active Golang library ([Official server](https://discord.gg/0f1SbxBZjYq9jLBk), [Site](http://bwmarrin.github.io/discordgo/))
+* [Sword](https://github.com/Azoy/Sword) - An active Swift library ([Official Site](http://sword.azoy.gg/))
+* [DiscordUnity](https://github.com/DiscordUnity/DiscordUnity) - A decently active UnityScript library
+* [discordrb](https://github.com/meew0/discordrb) - An active Ruby library
+* [discordcr](https://github.com/meew0/discordcr) - An active Crystal library
+* [nyx](https://github.com/hackzzila/nyx) - An active Dart library ([Official server](https://discord.gg/6JwnkNk))
+* [Discord.hs](https://github.com/jano017/Discord.hs) - A very active Haskell library
 
-The list really goes on for days, we might've missed some... which you can find on the discord API server mentioned above. Just about every channel below the information channels are different coding language libraries, most shown above. 
+These are most of the public languages you can use. You can find more on the [Discord API server](https://discord.gg/discord-api).
+
+The list really goes on for days, we might've missed some... which you can find on the discord API server mentioned above. Just about every channel below the information channels are different coding language libraries, most shown above.
 
 We suggest you go in pursuit of learning how to use the base languages, before trying the Discord libraries. Sites like [Khan Academy](https://www.khanacademy.org) and [Code Academy](https://www.codeacademy.com) can help.
 
+#### *Bot Accounts*
 
-#### _Bot Accounts_
+*“I decided on my language and library, what now!?”* Well now is the time to begin your bot experience.
 
-_“I decided on my language and library, what now!?”_ Well now is the time to begin your bot experience.
-
-The fancy place where you make a bot is the “Developers” tab on the discord website **(You need to be logged in on browser version)** You head into [_My Applications_](https://discordapp.com/developers/applications/me) and you should see this.
+The fancy place where you make a bot is the “Developers” tab on the discord website **(You need to be logged in on browser version)** You head into [*My Applications*](https://discordapp.com/developers/applications/me) and you should see this.
 
 ![](http://i.imgur.com/rkLTlMk.png)
 
 But wait… there isn’t anything there.
 
-Right! You need to make a new ‘application’ via the big _”New Application”_ box right there on that page.
+Right! You need to make a new ‘application’ via the big *”New Application”* box right there on that page.
 
-When you click it, this blank form looking page should pop up! 
+When you click it, this blank form looking page should pop up!
 
 ![](http://i.imgur.com/lnYrxxu.png)
 
-From here you fill out the information for your application. **(Right now this is mostly for organization purposes)** _The App name and the App Icon will be your bots name and icon! So choose carefully, only the icon can be changed after the fact._
+From here you fill out the information for your application. **(Right now this is mostly for organization purposes)** *The App name and the App Icon will be your bots name and icon! So choose carefully, only the icon can be changed after the fact.*
 
-Once you have everything filled out 
+Once you have everything filled out
 
 ![](http://i.imgur.com/167cRs7.png)
 
-You can click save, and then you want to click “Create a Bot User” 
+You can click save, and then you want to click “Create a Bot User”
 
 ![](http://i.imgur.com/OrmBTfq.png)
 
@@ -144,7 +155,7 @@ Once that is done your bots account has been made. Go to [Discord Permissions Ca
 Your bot isn’t done yet, but to finish it you have to go get help, some of which we can provide below... some we can't.!
 **If you need any help, let us know!**
 
-#### _What next...?_
+#### *What next...?*
 
 Well, once you are down the road making your bot you have to worry about other factors.
 
@@ -165,7 +176,7 @@ It isn’t easy to make a bot that’ll actually do anything.... but the people 
 So this is where i'll talk about more detailed setup for your bot and then some fancy stuff about Hosting. We want to make sure everyone is safe with how they host, and doesn't get in any bad situations.
 I'm currently writing up this stuff but expect code examples, and VPS information when they are all done.
 
-So as a developer there are dozens of languages you can pick... here i'll give you a little overview of a few of them I picked out for this. 
+So as a developer there are dozens of languages you can pick... here i'll give you a little overview of a few of them I picked out for this.
 
 #### Basics
 
@@ -173,7 +184,7 @@ The very very basics of Developing... you have a few key things before you even 
 
 **First off**
 
-First thing you need to observe is how code works, it isn't just a simple *Oh, I tell it to do this and it does this*, it's more of a *Oh I learn German to tell this to do this*. 
+First thing you need to observe is how code works, it isn't just a simple *Oh, I tell it to do this and it does this*, it's more of a *Oh I learn German to tell this to do this*.
 
 Everyday bot languages are expanding and upgrading; what you might have down one day, you might need to relearn the next. But the basics always stay the same, the basic foundation all the code runs off. For discord.js this would be JavaScript, for discord.py this would be Python. You need some sort of dedication and willingness to learn code, or else this could be a pretty confusing journey.
 
@@ -185,15 +196,15 @@ When coding there are some *best practices* you should follow on Discord, some s
 
 (This is still in development)
 
-* Prefix's
+* Prefix
 
-Your bot should have a prefix. A prefix is a symbol or word that goes before a command, such as **!** or **+**, All bots should have one of these because this allows people to decide when they trigger a bot command... 
+Your bot should have a prefix. A prefix is a symbol or word that goes before a command, such as **!** or **+**, All bots should have one of these because this allows people to decide when they trigger a bot command...
 
 Say your command is **Find -insert random word-**... how would you stop it from picking up on someone saying *Find my keys* when they aren't trying to use a command...? A prefix! Now they'd have to say _**!**Find the dog_ to use the command.
 
 * Compliant
 
-This simply means your bot does what it is supposed to, and doesn't do anything it shouldn't. A big thing about bots is DMs, or responding to messages not intended for it. A prefix is one way to avoid this, but many bots will send out messages to DMs or the servers the bot is on... unless the server okay's this, that is not an ok thing to do. 
+This simply means your bot does what it is supposed to, and doesn't do anything it shouldn't. A big thing about bots is DMs, or responding to messages not intended for it. A prefix is one way to avoid this, but many bots will send out messages to DMs or the servers the bot is on... unless the server okay's this, that is not an ok thing to do.
 
 Bots shouldn't do anything the server using it doesn't tell it to do, unless the server set it to do something like AutoMod, then it should act without command because that is its job.
 
@@ -213,33 +224,34 @@ To be honest, there are a lot of code editors... hell, even notepad works if you
 
 A few good options for code editors would be things like Atom, Notepad++ (for basic stuff), or Brackets (I use this for the guides and site!)... But what you use is really up to you, below i'll make a short list of some good code editors I've seen used around for Discord stuff!
 
-* Notepad++
-* Brackets
-* Atom
-* Sublime
-* Visual Studio
-* IntelliJ
-* Pycharm
-* Rubymine
-* Xcode
-* Nano
-* Emacs
-* Vim
+* [Notepad++](https://notepad-plus-plus.org)
+* [Brackets](http://brackets.io)
+* [Atom](https://atom.io)
+* [Sublime Text](http://www.sublimetext.com)
+* [Visual Studio](https://www.visualstudio.com)
+* [Visual Studio Code](https://code.visualstudio.com)
+* [IntelliJ](http://www.jetbrains.com/idea)
+* [Pycharm](http://www.jetbrains.com/pycharm)
+* [Rubymine](http://www.jetbrains.com/ruby)
+* [Xcode](https://developer.apple.com/xcode)
+* [Nano](https://www.nano-editor.org)
+* [Emacs](https://www.gnu.org/software/emacs)
+* [Vim](http://www.vim.org/)
 
-The list _really_ goes on, but here are some. Maybe you'll find the one you want here? If not... GOOGLE!
+The list *really* goes on, but here are some. Maybe you'll find the one you want here? If not... GOOGLE!
 
 #### VPS Basics
 
-#### VPS 
+#### VPS
 
 These are in the works!
 If you think you can contribute to these please message Jet#0038 on the server!
 
 ---
 
-Thanks for reading!!! 
+Thanks for reading!!!
 I will put down comments in the updates channel of the server to notify everyone when we have added this content!!
 
 **If you have any suggestions, or need help just drop by the server!**
 
-_**Have a great day**_
+***Have a great day***
