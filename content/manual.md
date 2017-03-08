@@ -2,7 +2,7 @@
 
 **This is where all the staff information and duty guidelines will be!**
 
-_We will cover policy, the staff inner-workings (Chain of Command, and Departments) as well as the different guideslines for roles._
+*We will cover policy, the staff inner-workings (Chain of Command, and Departments) as well as the different guideslines for roles.*
 
 **Guide Admins**
 ```
@@ -67,7 +67,7 @@ Roles
 
 ---
 
-# _**Staff Manuals**_
+# ***Staff Manuals***
 
 **This is the general staff manual! All staff need to read this, and the support manual but this will be mostly focused on general staff!**
 
@@ -95,7 +95,7 @@ Everything functions in the above order, including who receives what information
 
 If you have an issue with a staff, you'd bring it up to your Department Lead or theirs (if they don't share departments), this allows us to quickly handle an issue without complicating things... if a Department Lead can't resolve it then it goes to the Staff Manager and Admins.
 
-#### _General Information_
+#### *General Information*
 
 So we've covered chain of command, and all the policy but... what are the departments and who does what? **Time to go over all this!**
 
@@ -175,7 +175,7 @@ This is one of the more pressuring roles... but it's also a hella fun job, who d
 
 ---
 
-## _**Assistance Manual**_
+## ***Assistance Manual***
 
 This is our bible. We will add things to this as we find them.
 
@@ -190,9 +190,9 @@ The basics of support staff... Everything you guys do shows how we feel towards 
 
 These are the core things you need to do this job! If you can meet these, or at least hit close... you will be just fine!
 
-### _Support Guidelines_
+### *Support Guidelines*
 
-_(Written by Koopa, and formatted by Jet)_
+*(Written by Koopa, and formatted by Jet)*
 
 So, there are some general guidelines we should follow here.
 
@@ -298,7 +298,7 @@ random questions in the future instead of coming to the server. If you’re fine
 that risk and telling them to leave you alone, go ahead.
 ```
 
-### _FAQ and Copypasta_
+### *FAQ and Copypasta*
 Some questions are common and pretty basic to answer, but are so frequent we need some copypasta.
 
 * 2FA
@@ -382,7 +382,7 @@ As the people in charge of making sure the best of the best are hired, we need y
 
 We know no one is perfect, but these are only guidelines. We just need consistant staff who are willing to read through and conduct interviews. Nothing is better then a solid hiring team, one that can operate outside the normal staff spectrum even.
 
-#### _Hiring Tools_
+#### *Hiring Tools*
 
 Most of the below stuff is explained vaguely across the servers, and the interview questions cover material already on the Application form but you guys don't all get to see that... plus we need to make sure they are consistant right?
 

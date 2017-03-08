@@ -9,7 +9,7 @@ These are resources for knowledge; random tricks, tips, and other material that 
 
 So where shall I begin? How about the text tricks!
 
-#### _Information and fun facts_
+#### *Information and fun facts*
 
 Your game message can hold 128 characters (letters/spaces/symbols)
 
@@ -21,7 +21,7 @@ You can’t be more famous than abalabahaha and B1nzy unless you are Voltana.
 
 Discord was made/launched in March 2015
 
-I have no life... _wait this one isn't fun._
+I have no life... *wait this one isn't fun.*
 
 Why cant we be friends? Because I’m too busy.
 
@@ -29,7 +29,7 @@ Why cant we be friends? Because I’m too busy.
 
 **Maybe you just think my hat is funny? Let me know! (I admit my hat is funny ;_; )**
 
-#### _Formatting_
+#### *Formatting*
 
 Here's the first tool you should have in your toolbox.
 **Formatting**
@@ -38,7 +38,7 @@ Formatting changes the game with everything; invites, information, and even simp
 
 If you can master the formats, then you can master anything. (Not really, you just look nice while being an idiot)
 
-_Where to begin..._ Discord Markdown!
+*Where to begin...* Discord Markdown!
 
 This is fun stuff right here. This is how everyone does things like **bold** or *italics*
 
@@ -50,7 +50,7 @@ And for mentioning objects?
 
 The combinations are *almost* endless!
 
-_And next...?_ Emotes!?
+*And next...?* Emotes!?
 
 Wait... don't emotes express feelings or reactions to things...? Why the heck would emotes be in formatting.
 
@@ -64,11 +64,11 @@ In the above image... what is the difference you see? Which one stands out more?
 
 But all of this is useless without the next piece... (Unless you want smaller titles than your emotes that you are using.)
 
-_So lastly..._ Highlight.js   **O3O**
+*So lastly...* Highlight.js   **O3O**
 
 **I will be posting these soon.... very soon™**
 
-#### _Name Game_
+#### *Name Game*
 
 Your name and your games.
 
@@ -81,7 +81,7 @@ How about emotes? Well some emotes off the chat you can copy and paste to your n
 
 Games are fun, it's Discords way of having a status message. Just please... don't use your servers invite link. Some servers **will** warn/kick/ban you for it.
 
-#### _Custom Emotes_
+#### *Custom Emotes*
 
 OH MY GOD, EMOTES!
 
@@ -102,7 +102,7 @@ There are *two* ways to have global emotes right now.
 
 So... what do you do if you want global emotes? Either become a twitch streamer with 15+ views 3 times a week, or over 1000 followers... or pay discord moneys for JUST you.
 
-#### _User Status_
+#### *User Status*
 
 Wait… NO WAY
 Just like skype you get to set your own status now! The options are..
@@ -120,9 +120,9 @@ To do these just click your icon on the bottom left on Desktop and Voila!
 
 *Now you can be the lurker you always wanted to be…* Oooooo invisibleeee
 
-#### _Colors and Pictures, Fun!_
+#### *Colors and Pictures, Fun!*
 
-_Colors?_
+*Colors?*
 OHHH Role Colors!
 
 You can use colors by going into the roles and click the white square on each role (next to the grey one by the color table)
@@ -131,7 +131,7 @@ Colors are fun right? Well here is my role color guide for Invisible on Dark The
 
 ![](https://cdn.discordapp.com/attachments/232878512502079488/232920007976288257/unknown.png)
 
-_Pictures?_
+*Pictures?*
 Pictures are fun.
 
 Something I like to do for my servers is using clear background images so they blend in. These graphics allow you to emphasize things, and can make really good information channel headers!
@@ -145,9 +145,9 @@ Sadly, i'm not a picture expert so I can't say much more... but this can be hand
 **OH JEEZ....** Hello.
 
 You're probably wondering what's gonna be here... I decided to cover some of the less used or less common features on Discord...
-I thought _"Hey! These things should probably have a guide since I'm already doing this."_ and no one decided to stop me.
+I thought *"Hey! These things should probably have a guide since I'm already doing this."* and no one decided to stop me.
 
-#### _Key Commands_
+#### *Key Commands*
 
 For keyboard combos, I have some information that might help with those!
 
@@ -160,7 +160,7 @@ and the way to find this list? Just type these into the chat on desktop...
 
 I will go more into detail on these as soon as I can!
 
-#### _Discriminators_
+#### *Discriminators*
 
 **What's a discriminator >_<**
 
@@ -172,15 +172,15 @@ Say someone came up as had the name Jet, how would you know we were different? Y
 
 Having disciminations allows easy access to that **one** user you are looking for.
 
-_But why is this a guide? That was all pretty basic you say?_
+*But why is this a guide? That was all pretty basic you say?*
 
-_WELL_ What if you wanted to change yours? Ever seen some kool kat with a #6969 discrim, or my bad self with a #0038 discrim? Well now you can get one of those also!
+*WELL* What if you wanted to change yours? Ever seen some kool kat with a #6969 discrim, or my bad self with a #0038 discrim? Well now you can get one of those also!
 
 **This will soon be a thing, working on some stuff for it...**
 
 (The devs will forever hate you for doing this <_< )
 
-#### _2FA_
+#### *2FA*
 
 **Waittttttttt, what is this 2FA thingy...?**
 
@@ -204,7 +204,7 @@ Just to to the page shown above, and click enable.
 
 Once you have done that, take the information that pops up and input it into a 2FA application such as Authy, Authenticator, or Google Authenticator. Most of these will take the image, but you can use the manual code instead.
 
-For example... I use my tablet as my 2FA, it's windows so I go to the windows store and download _for free_ the "2 Factor Authenticator" app, and now I have a 2FA application!
+For example... I use my tablet as my 2FA, it's windows so I go to the windows store and download *for free* the "2 Factor Authenticator" app, and now I have a 2FA application!
 
 As soon as you've done that, you just need to enter the code it gave you. (If you accidently click out, that's fine. Just repeat the process to get another code.)
 
@@ -212,7 +212,7 @@ Once that's been completed you now have 2FA, you will need your backup codes or 
 
 If you have any more questions, just ask in our server!
 
-#### _Webhooks and Embeds_
+#### *Webhooks and Embeds*
 
 We're working on getting a comprehensive webhooks and embed guide here!!
 
