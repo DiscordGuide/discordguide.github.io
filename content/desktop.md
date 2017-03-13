@@ -1,10 +1,10 @@
-# **The Introduction** #
+# **The Introduction**
 
 **Hello!** This is the first section, the basics of Discord... on the Desktop!
 
 I will cover some stuff in the tutorial as well as some other basic information that isn't included. Writing a guide to discord was a big task, but the goal is to make discord easier to use for everyone!
 
-_(Most of the content is for Client instead of the Browser... I will mention what is/isn't when I get to that point.)_
+*(Most of the content is for Client instead of the Browser... I will mention what is/isn't when I get to that point.)*
 
 So what is Discord? Discord is a site/program that is basically a network of rooms that connect together like building blocks or legos. You can stack them in different orders, pick which ones you choose to add to your list and remove ones you don’t want anymore. Each server (chat room) is like a specific lego creation: the permissions are different blocks and it all ties together to create this amazing chat site.
 I think of Discord like a house with all it’s various rooms, and your designing how you want it to be laid out!
@@ -42,10 +42,9 @@ Just make sure you go back to your email and finish verifying! You could lose yo
 ![](http://i.imgur.com/1AfJIRF.jpg)
 
 **Now you are ready to learn the basics!**
-_Some users don't download the client, and keep using the Browser... this is fine, you just get less features and different fonts!_
+*Some users don't download the client, and keep using the Browser... this is fine, you just get less features and different fonts!*
 
-
-#### _DM's and Friends_ ####
+#### *DM's and Friends*
 
 **Direct Messaging**
 
@@ -62,15 +61,16 @@ This means you now have a server you are in! Feel free to read through stuff, an
 
 **Friend Requests**
 
-The second thing that stands out on your discord when you join is the Friend area. As you go around discord meeting people, your friend's list allows you to more easily keep track of those people who you connect with or work on stuff with. 
+The second thing that stands out on your discord when you join is the Friend area. As you go around discord meeting people, your friend's list allows you to more easily keep track of those people who you connect with or work on stuff with.
 
 Perks: Being friends with someone gives you some special perks
+
 * You can message them even if you don't share servers!
 * You can get some cool abilities to do stuff with them. Like Group Direct Messaging!
 
 ![](http://i.imgur.com/DV5Oskg.png)
 
-#### _Group Direct Messaging_ #
+#### *Group Direct Messaging*
 
 So you are in servers, but what if you want to **just** message 2 or 3 people and have no one else involved? Well if all of them are your friends you can add them to a "Group Message" which is like a small server that is moderated by whoever made it!
 
@@ -78,10 +78,11 @@ This allows more private conversations with friends. (Remember... people in it c
 
 ![](http://i.imgur.com/8wCdQoJ.png)
 
-#### _Profiles_ #
+#### *Profiles*
 
-So you've noticed people have profiles? Well, these profiles allow us to learn more about the user we are looking at. 
+So you've noticed people have profiles? Well, these profiles allow us to learn more about the user we are looking at.
 Features of the profile include:
+
 * Notes (small sections on profiles where you can write stuff about them for reference)
 * Connections (twitter, youtube, twitch, steam, battle.net, and league of legends)
 * Mutual Servers (seeing servers you share with the other person)
@@ -96,17 +97,17 @@ Features of the profile include:
 
 ---
 
-## **Your User Settings!** #
+## **Your User Settings!**
 
 **Ain't nobody gonna make me use the instruction manual for nothing, bertha!**
-Well if you are here, that is obviously not you! 
+Well if you are here, that is obviously not you!
 
-Here we are in the next guide, "User Settings", which will cover your... User Settings. These names are pretty self-explanatory, aren't they? 
+Here we are in the next guide, "User Settings", which will cover your... User Settings. These names are pretty self-explanatory, aren't they?
 
-_Just zoom in on the images if needed_
+*Just zoom in on the images if needed*
 If you have questions or need more details, ask the server!
 
-#### _Your Account_ #
+#### *Your Account*
 
 So first of all, to get into your user settings your need to click the gear by your name at the bottom left of your screen.
 
@@ -117,12 +118,12 @@ Once you've done that a window should pop up, the first tab on it is called "Acc
 ![](http://i.imgur.com/lbiyxrT.png)
 You use this to setup your personal details.
 
-### _Nitro_ #
+### *Nitro*
 
 WHAT IS THIS NEW CONTRAPTION?
 
 Discord Nitro! [Hold on... is this gold?](https://discordapp.com/nitro)
- 
+
 We're happy to present you with a way to pay discord 5$ USD a month for the following features! (Or 50 a year!?)
 
 * Animated GIF avatars
@@ -132,10 +133,9 @@ We're happy to present you with a way to pay discord 5$ USD a month for the foll
 
 If you want these perks well you're in luck! [(Credit Cards only ATM)](https://feedback.discordapp.com/forums/326712-discord-dream-land/suggestions/17528410-nitro)
 
-
 ![](http://i.imgur.com/6yIGZSE.png)
 
-#### _Connections_ #
+#### *Connections*
 
 Connections are your connections between your account and media. These include Twitch, YouTube, Battle.net, Skype, League of Legends, Reddit, Skype, and Steam.
 
@@ -145,7 +145,7 @@ If one of the connections isn't working, don't worry... just keep trying and be 
 
 ![](http://i.imgur.com/12kRSi6.png)
 
-#### _Friends_ #
+#### *Friends*
 
 This section allows you to choose who can friend you, and how easily it is for them to friend you. This also could allow you to make it to where no one can friend you!
 
@@ -154,43 +154,42 @@ We all need friends, even the wumpus. (The friends limit is 1000! Yes, they set 
 On Desktop to add a friend just left click their name and...
 ![](https://i.imgur.com/7aESvKy.png)
 
-#### _Text & Images_ #
+#### *Text & Images*
 
 These settings allow you to customize what text and images do for your discord; like whether links show sites or images, whether emojis automatically get made from typing faces, and text to speech (TTS) playback.
 
 ![](http://i.imgur.com/cdLCmLo.png)
 
-#### _Voice_ #
+#### *Voice*
 
 These are your basic and advanced voice settings. You can decide input and output levels and other voice options like input sensitivity.
 
 ![](http://i.imgur.com/WUlQ2dU.png)
 
-#### _Notifications_ #
+#### *Notifications*
 
 Notifications? Well duh! these are the beeps, pings, noises, and flashes your discord does for things! This also allows you to decide if Text-To-Speech plays or not.
 
 ![](INSERT NEW IMG LINK)
 I consider this one of the most important areas of the User Settings.
 
+#### *Keybinds*
 
-#### _Keybinds_ #
-
-Keybinds are different key commands you can use to do different things on discord, such as enable streamer mode or mute yourself. 
+Keybinds are different key commands you can use to do different things on discord, such as enable streamer mode or mute yourself.
 
 These are super useful if you don't want to manually do everything.
 
 ![](http://i.imgur.com/Ojcc26d.png)
 
-#### _Appearance_ #
+#### *Appearance*
 
 This is my **favorite** user setting. This allows you to change how Discord looks and allows you to use Discord Developer mode (which allows you to copy user and message IDs, this helps with bot development i)
 
 ![](http://i.imgur.com/CcQI0jI.png)
 
-#### _Games_ #
+#### *Games*
 
-The magical Games area. This allows you to view games you've played or that are on your computer and even _rename some._ 
+The magical Games area. This allows you to view games you've played or that are on your computer and even *rename some.*
 
 Something a lot of people like to do is rename their games to something funny or something that has a meaning for them. (I do this to explain what I'm doing or working on usually)
 
@@ -198,7 +197,7 @@ Just click the game name, or add one then click the name and type into the blank
 
 ![](http://i.imgur.com/sCvpJha.png)
 
-#### _Overlay_ #
+#### *Overlay*
 
 The overlay is what happens when you play a game, do you want discord to be able to show during the game? How do you want it to show? What notifications? and size.
 
@@ -206,13 +205,13 @@ Useful for gamers who still like to chat and check their servers. You can do it!
 
 ![](http://i.imgur.com/9RN2j2l.png)
 
-#### _Locale_ #
+#### *Locale*
 
 Your locale tells what language you are... who doesn't enjoy accidently clicking the wrong language and getting lost in your own client.
 
 ![](http://i.imgur.com/B6fxHNd.png)
 
-#### _Streamer Mode_ #
+#### *Streamer Mode*
 
 Streamer mode is useful for those of us who like to stream to different media platforms. A lot of twitch streamers use discord so this is a big thing. When you stream it shows your icon as purple and shows what you are streaming or where you are streaming instead of your game.
 This allows you to turn on the mode which tells discord to look for you streaming.
@@ -223,9 +222,9 @@ Streamer mode being on also allows your account to say you are streaming via you
 
 ![](http://i.imgur.com/WsXMUBm.png)
 
-#### _Security_ #
+#### *Security*
 
-Security, the big thing on discord. 
+Security, the big thing on discord.
 To avoid hackers you can enable 2FA (Two Factor Authentication) which can help prevent people from breaking into your account.
 
 For detailed description on 2FA, [click here](http://discordguide.us/#/tools/em2faem) or just click Tools and look for 2fa!
@@ -234,7 +233,7 @@ How you take care of your account, and preventing anyone from destroying your ha
 
 ![](http://i.imgur.com/JsWlYQ3.png)
 
-#### _Changelog_ #
+#### *Changelog*
 
 This is the orange words at the bottom of the tab list which have the recent update information!
 
@@ -242,7 +241,7 @@ This is the orange words at the bottom of the tab list which have the recent upd
 
 ## **Server Basics**
 
-**_Hello there!_** Today I'm gonna show you guys how to create a server!
+***Hello there!*** Today I'm gonna show you guys how to create a server!
 
 Creating a server can seem like a HUGE thing, but it has some pretty basic steps. A lot of how your server will do depends on how well it is set-up. Your idea, goal, and how well it is made are the keys to the server.
 
@@ -254,31 +253,30 @@ The first step in creating a server is coming up with an idea. Your magical drea
 
 Have that idea? Awesome! Time for Step Two!
 
-The second step in creating this magical thing is finding a few friends interested in the idea, run it past some people and see what they think. If enough people like it, then you can move to Step Three! Remember, member base is what makes _most_ servers run!
+The second step in creating this magical thing is finding a few friends interested in the idea, run it past some people and see what they think. If enough people like it, then you can move to Step Three! Remember, member base is what makes *most* servers run!
 
 * Step Three
 
-_Friends gave ya that Golden-Seal-Of-Approval!_
+*Friends gave ya that Golden-Seal-Of-Approval!*
 
 The third step is pretty simple, find the + circle at the bottom of your server list as shown below
-![](https://cdn.discordapp.com/attachments/232878564045881347/232934806885761024/unknown.png) 
+![](https://cdn.discordapp.com/attachments/232878564045881347/232934806885761024/unknown.png)
 
 once you find that circle click it, and this tab should pop up
 
-![](https://cdn.discordapp.com/attachments/232878564045881347/232935814055591936/unknown.png) 
+![](https://cdn.discordapp.com/attachments/232878564045881347/232935814055591936/unknown.png)
 
-from here simply click create, fill out the name, and click the circle where letters appear as you type the name to choose an icon 
+from here simply click create, fill out the name, and click the circle where letters appear as you type the name to choose an icon
 
-![](https://cdn.discordapp.com/attachments/232878564045881347/232935971665084416/unknown.png) 
+![](https://cdn.discordapp.com/attachments/232878564045881347/232935971665084416/unknown.png)
 
 Once it's all done click the Create and... WOW! Here's your server!
 
-![](https://cdn.discordapp.com/attachments/232878564045881347/232936034856337408/unknown.png) 
-
+![](https://cdn.discordapp.com/attachments/232878564045881347/232936034856337408/unknown.png)
 
 ## Notifications and Privacy
 
-One more thing or two before we get rid of you... _mwahahahah!_
+One more thing or two before we get rid of you... *mwahahahah!*
 
 Notifications, these are key to using servers and even setting up your own server.
 
@@ -293,8 +291,9 @@ Well on every server you can click "Notifications" and "Privacy"
 Clicking these should bring up these two windows where you can click/unclick stuff as needed.
 ![](http://i.imgur.com/xoVusGj.png)
 
-Like... 
-* Supressing here/everyone stops you from getting red notifications from that. 
+Like...
+
+* Supressing here/everyone stops you from getting red notifications from that.
 
 * Muting the server turns all non-mention notifications off. This also goes for muting channels (but only for THAT channel you muted)
 
